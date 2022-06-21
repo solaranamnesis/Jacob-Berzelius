@@ -262,4 +262,12 @@ Derjenige Theil des Steins von Lontalax, welcher sich nicht in Säure und kohlen
 
 (Schluss mit nächstem.)
 
+IV\. Meteorstein von Alais.
+
+De Fall dieses Meteorsteins ereignete sich am 15. März 1806 um 5 1/2 Uhr Nachmittags in der Nachbarschaft von Alais in Frankreich. Es wurden zwei Knalle gebört und es fielen zwei Steine nieder, der eine bei St. Etienne de Lolm und der andere bei Valence, beides Dörfer, das erstere 4 1/2, das letztere 2 Lieues von Alais entfernt. Bei Valence schlug der fallende Stein einen Ast von einem Feigenbaum. An beiden Orten wurde der Fall von glaubwürdigen Personen bezeugt, welche die Steine auflasen. Der erste wog acht, der letztere ungefähr vier Pfund. Sie zersprangen beim Fall. Dieser Stein ist von allen andern verschieden. Er gleicht einem verhärteten Thon und zerfällt in Wasser mit Thongeruch. Thenard, welcher ihn zuerst untersuchte, fand darin, aufser den gewöhnlichen Bestandtheilen der Meteorsteine, eine Portion Kohle, welche Angabe später auch Vauquelin bestätigte.*
+
+*) Gilb. Annal. der Physik, Bd. XXIV S. 193.
+
+Durch den französischen Mineralogen Lucas habe ich eine ganz geringe Probe von diesem Meteorstein erhalten, dieselbe aber immer für einen Brocken der Akkererde angesehen, auf welche der Stein herabfiel. In diesem Argwobn wurde ich bestärkt durch das Verhalten der Masse zum Wasser bei der Vorbereitung zur Analyse, und ich war nahe daran, sie ganz fortzuwerfen. Ebe ich aber dazu schritt, las ich die Urkunden darüber nach, und fand deren Angaben so übereinstimmend mit dem, was ich vof mir hatte, dafs ich mit um so grösserem Interesse die Untersuchung fortsetzte. Es entstand nämlich die Frage: Enthält diese kohlenhaltige Erde wohl Humus oder eine Spur von andern organischen Verbindungen? Giebt diels möglicherweise einen Wink über die Gegenwart organischer Gebilde auf anderen Weltkörpern?
+
 ...
