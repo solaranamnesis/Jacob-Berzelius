@@ -80,4 +80,44 @@ Bei der Analyse des: löslichen wie des unlöslichen Theils der Bergart des Mete
 
 Das Glühen mit kohlensaurem Natron geht am besten, wenn man nicht beabsichtigt, das Chronieisen in Substanz abzuscheiden und die geringe Menge Alkali zu bestimmen. Auch bei dieser Methode bekommt man in dem mit bernsteinsaurem Ammoniak gefällten Eisenoxyd einen Hinterhalt von Chromoxyd.
 
+Die Analyse dürch Fluorwasserstoffsäure geht leicht. Nachdem die Säure im Wasserbade abgedunstet ist, setzt man Schwefelsäure hinzu und vertreibt die Flufssäure aus dem Rückstand. Die Masse ist schwarz von unaufgeldsetem Chromeisen, welches nach Verdünnung der Lösung mit Wasser und nach Digestion zur Auflösung des Gypses zurückbleibt. In Uebrigen geschieht die Analyse ganz so wie bei der mit Baryt, nachdem dieser durch Schwefelsäure gefällt worden ist. Der Gehalt an Kieselerde giebt sich ‚durch den Verlust zu erkennen. Auch hier findet man, aufser der Thonerde, eine Spur von Chrom vom ätzenden Kali ausgezogen, und in dem mit bernsteinsaurem Ammoniak gefällten Eisenoxyd gleichfalls eine Portion Chromosyd.
+
+Der Meteorstein von Blansko dieser Behandlung unterworfen, gab von dem durch Säuren zersetzbaren Minerale 51,5, von dem in Säuren unlöslichen 48,5. In ainem anderen Versuch wurden 48,9 vom ersteren und 51,1 vom letzteren erhalten, woraus zu folgen scheint, dafs das Gemenge nicht vollkommen homogen an allen Punkten ist.
+
+Die Analyse des löslichen Minerals, auf 100 Theile berechnet, gab folgende Bestandtheile:
+
+||Sauerstoff.  
+Kieselerde|33,084.|17,192.  
+Talkerde|36,143.|14,00.  
+Eisenoxydul|26,935.|6,01.  
+Manganoxydul|0,465.|0,12.  
+Nickeloxyd, zinn- u. kupferhaltig|0,465.|0,10.  
+Thonerde|0,329.|0,10.  
+Natron|0,857.|0,12.  
+Kali|0,429.|0,07.  
+Verlust|1,273.|  
+100,000.
+
+Vergleicht man den Sauerstoffgehalt der Kieselerde mit dem der Basen, und erwägt dabei, dafs Säuren bei Zersetzung des Minerals Schwefelwasserstoffgas entwikkein, so ergiebt sich deutlich, dafs hier eine Portion Eisen als oxydirt aufgefährt worden, de eigentlich geschwcfelt war. Dadwsch ist auch bei Zusammnenrechnung der Resuliate ein Verlust entsprungen, weil das Schwefelatom doppelt so schwer ist als das Sauerstoffatem. Es ist eine Unvollkommenbeit bei der Untersuchung, dafs die Menge des Schwefels nicht bestimmt wurde; allein diefs würde die Genauigkeit der übrigen Bestimmungen verhindert haben, die ich doch für wichtiger hielt. Zwar habe ich gesucht bei einer anderen Portion den Schwefel zu bestimmen, aber doch keinen Gebrauch davon gemacht, weil sicher das Schwefeleisen ungleich vertheilt ist, wovon man sich schon mit blofsem Auge überzeugen kann. Ich hatte mir eingebildet, dafs man würde mit einem durch viel Wasser verdünnten Gemenge von Salzeäure und chlorsaurem Kali nur Nickeleisen und Schwefeleisen ausziehen und so das Mineral von diesen Verbindungen ganz befreien können, und unterwarf in dieser Absicht 3,5 Grm. vom gröblich zerstofsenen Steinpulver einer solchen Behandlung. Aus der Lösung konnte ich 0,13 Grm. schwefelsauren Baryt fällen, entsprechend 1/2 Proc. Schwefel von dem ganzen Stein, das Nickeleisen eingerechnet, oder 1,2 Proc. von dem löslichen Mineral; als ich indefs das Ungelöste sehr gelinde erwärmte, wurde eine Portion Schwefel, welche die Säure unoxydirt abgeschieden hatte, theils sublimirt, theils in Brand gesetzt, so dafs also der Schwefelgehalt gtöfser ist. Bei diesem Versuche fand ich auch, dafs selbst die verdünnte Säure bedeutend von dem löslichen Mingrale mit der Kieselerde und Allem auflöse; und bei Einziehung dieser Erfahrung hatte ich ungefähr die Hälfte von dem verloren, was ich zur Untersuchung auwenden konnte.
+
+Durch diese Erörterung glaube ich es ganz wahrscheinlich gemacht zu haben, dafs in dem in Säuren löslichen Meteormineral die Kieselerde und die Basen gleichviel Sauerstoff entbalten, und dafs der Ueberschufs, den letztere davon enthalten, davon herrührt, dafs das Schwefeleisen als Eisenoxydul berechnet wurde. Man könnte ihn auch davon ableiten, dafs dem Steine Eisenoxyduloxyd eingemengt wäre, allein dessen Anwesenheit läfst sich nur in solchen Fällen ermitteln, wo es in bedeutenderer Menge vorkommt, wovon wir bei anderen Meteorsteinen Beispiele haben.
+
+Das unlösliche Mineral wurde theils mit kohlensaurem Baryt und theils mit kohlensaurem Natron analysirt. Ich werde die Resultate beider Methoden anführen. Der Unterschied zwischen ihnen, ist wicht grofs und kann in den Methoden begründet seyn, aber auch in einer veränderlichen Mischung der Bestandtheile des Minerale.
+
+|Koblensaur. Baryt.|Kohlensaur. Natron.|Sauerstoffgehalt.  
+Kieselerde|57,145.|57,012.|29,626.  
+Talkerde|21,843.|24,956.|9,660.  
+Kalk|3,106.|1,437.|0,412.  
+Eisenoxydul|8,592.|8,362.|1,904.  
+Manganoxydul|0,724.|0,557.|0,124.  
+Nickeloxyd, zinn- u. kupferh.|0,021.|-,-.|-,-.  
+Thonerde|5,590.|4,792.|2,238.  
+Natron|0,931.|-,-.|-,-.  
+Kali|0,010.|-,-.|-,-.  
+Chromeisen (zinnhaltig)|1,533.|1,306.|-,-.  
+Verlust|0,505.|1,579.  
+100,000.|100,000.  
+
+Der Verlust bei letzterer Aualyse besteht hauptsächlich aus Alkali. Man sieht, der Sauerstoff der Kieselerde ist doppelt so grofs als der der Basen. Legt man den Sauerstoffgehalt der Alkalien hinzu, so kommt der Sauerstoffgehalt der Basen neck näher an die richtige Zahl. Möglichetweise ist darunter eine geringe Portion eines Minerals enthalten, worin der Sauergioffgehalt der Kieselerde das Dreifache des der Basen ist. Diele lässt sich nicht entscheiden, wenn man Gemenge analysiren muss.
+
 ...
