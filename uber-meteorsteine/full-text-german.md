@@ -120,4 +120,146 @@ Verlust|0,505.|1,579.
 
 Der Verlust bei letzterer Aualyse besteht hauptsächlich aus Alkali. Man sieht, der Sauerstoff der Kieselerde ist doppelt so grofs als der der Basen. Legt man den Sauerstoffgehalt der Alkalien hinzu, so kommt der Sauerstoffgehalt der Basen neck näher an die richtige Zahl. Möglichetweise ist darunter eine geringe Portion eines Minerals enthalten, worin der Sauergioffgehalt der Kieselerde das Dreifache des der Basen ist. Diele lässt sich nicht entscheiden, wenn man Gemenge analysiren muss.
 
+Ich habe gesagt, dafs sich in der Masse des Meteorsteins runde Rägelchen finden. Diefs ist eine ganz gewöhnliche Erscheinung bei den Meteorsteinen. Schon Howard hat sie beobachtet und versucht sie zu analysiren. Ich konste nicht so viel von ihnen abtrennen, um eine besondere Analyse mit denselben za unternehmen, aber die Versuche, die ich mit ibnen austellte, gaben ein dem Howard'schen gleiches Resultat, nämlich: dafs sie dasselbe Mineral enthalten wie der Stein. Aus ihrem Pulver liess sich nichts mit dem Magneten ausziehen, aber defsungeachtet entwickelte es bei Uebergiefsung mit Salzsäure den Geruch nach Schwefelwasserstoffgas. Ein Theil des Pulvers gelatinirte, ein anderer wurde nicht von der Säure verändert.
+
+Ich führte vorhin an, die Analyse des Meteorsteins zerfälle in die Untersuehung des unmagnetischen und in die des magnetischen Theils. Ich komme jetzt zu der lezteren.
+
+Um se viel wie möglich diesen Theil von dem Steinpulver zu befreien zerrieb ich ihn mit den Fingern unter Wasser, so lange frisch aufgegossenes Wässer getrübt wurde. Dabei blieben Körner zurück, welche im Allgemeinen klein waren, aber vollkommen metallisch glänzten. Defsungeachtet blieb doch in ihren Höhlungen sehr viel Steinmasse eingeschlossen, die erst bei der Auflösung frei ward und dadurch die Analyse verwickelter machte als geschehen müfste, weil die Bestandtheile des löslichen Minerals sich mit dem Eisen des Meteores mischten, während das Ungelöste in Bulverform abgeschieden wurde. Der Gang der Analyse war folgender: 1,137 Grm. Meteoreisen wurde in Salzsäure gelöst und das Gas durch ein Gemenge von salpetersaurem Silberoxyd und Ammoniak geleitet. Es füllte sich Schwefelsilber, welches auf ein gewogenes Filtrum gebracht wurde; es wog 0,0215 Grm. = 0,0028 Grm. Schwefel. Nach beendeter Einwirkung der Salzsäure erschienen schwarze Punkte in dem Ungelösten, welche indefs durch Zusatz von Salpetersäure und eine kurze Digestion verschwanden. Das ungelöste Minöral wog 0,1550 Gramm.
+
+Die Lösung wurde mit Salpetersäure oxydirt, das Eisen mit hernsteinsaurem Ammoniak gefällt und nach dem Glühen gewogen. Bei Wiederauflösung in Salzsäure hinterliefs es etwas Kieselerde ungelöst; niedergeschlagen mit Schwefelwasserstoff-Schwefelammonium und die Flüssigkeit auf einen Gehalt von Phosphorsäure untersucht, erhielt ich eine geringe Spur von dieser, die indefs, selbst in Form von phosphorsaurem Kalk, nicht gewogen werden konnte. Aus der mit bernsteinsaurem Ammoniak gefällten Flüssigkeit wurde das Nickeloxyd so nahe wie möglich mit Schwefelwasserstoff-Schwefelammonium abgeschieden, der Niederschlag geröstet, und das Nickeloxyd vom Kobaltoxyd nach der Phillips'schen Methode mit Ammoniak und Kali getrennt. Das Nickeloxyd wurde wieder in Salzsäure gelöst und mit Schwefelwasserstoff behandelt, woduroh ein erst gelblicher, nach dem Trocknen aber schwarzer Niellerschlag entstand, worin aich mit dem Löthrohr Zion und Kupfer entdecken lief.
+
+Die mit bernsteinsaurem Ammoniak gefällte Flüssigkeit enthielt, nach Abscheidung der Metalle, noch Talkerde, Kalk und Kieselerde, welche auf gewöhnliche Weise von einander getrennt warden.
+
+Die Analyse gab in den angeführten 1,137 Grm.
+
+Eisenoxyd|1,1940.  
+Nickeloxyd|0,0555.  
+Zinnoxyd und Kupferoxyd|0,0050.  
+Kobaltoxyd|0,0040.  
+Schwefel|0,0028.  
+Kieselerde|0,0275.  
+Talkerde|0,0310.  
+Kalk|0,0090.  
+Ungelöstes Mineral|0,1550.  
+1,4830.
+
+Hievon mufs, um diefs Resultat anwendbar zu machen, das eingemengte Mineral abgerechnet werden. Ich setze dabei voraus, der Talkerdegehalt gebe nach der vorhin angeführten Analyse des auflöslichen Minerals an, wie viel Eisenoxyd diesem angehöre. Diefs giebt 0,0252, entsprechend 0,023 Eisenoxsydul. Daraus folgt, dafs von den angewandten 1,137 müssen 0,2455 für beigemengtes Mineral abgezogen werden.
+
+Von dem, was dann zurückbleibt, war 0,8115 Eisen, 0,0437 Nickel, 0,0030 Kobalt, 0,0040 Zinn und Kupfer, und 0,0028 Schwefel, welche, den 0,2455 hinzugefügt, 1,1105 ausmachen, und einen Verlust von 0,028 oder beinahe 2,5 Procent ergeben. Letzterer entstand vermuthlich aus eingesogener Feuchtigkeit, welche aus dem nicht sichtbaren und in unerwartet grofser Menge dem Meteoreisen beigemengten Steinpulver nicht vollständig ausgetrieben worden war. Nach dieser Berechnung enthält das Meteoreisen:
+
+Eisen|93,816.  
+Nickel|5,053.  
+Kobalt|0,347.  
+Zinn und Kupfer|0,460.  
+Schwefel|0,324.  
+Spur vom Phospohr|  
+100,000.
+
+Es ist, ah sich klar, dafs diese Zahlen, die aus einer verwickelteren Analyse hergeleitet wurden als es der Fall gewesen seyn würde, wenn kein Steinpulver mit gefolgt wäre, keine grofse Genauigkeit haben können. Wir werden weiterhin finden, dafs das Meteoreisen Schwefel enthält, aber hier ist dessen Menge zu grofs, als dafs es hätte dem geschmeidigen Nickeleisen angehören können.
+
+Zur Bestimmung des Zinn- und Phosphorgehalts bediente ich mich der zuvor, S. 10, erwähnten 3,5 Grm. Steinpulver, welche zur Bestimmung des Schwefelgehalts benutzt worden waren. Schwefelwasserstolf brachte eine gelbe Trübung hervor, worin sich viel überschifsiger Schwefel befand. Dieser hinterliefs nach dem Rösten einen Rückstand, welcher, mit Borax und koblensaurem Natron reducirt, ein Zionkorn gab. Darauf unverbereitet und nur Schwefel in dem gelblichen Niederschlag erwartend, hatte ich den geglühten Rückstand vor Anstellung der Löthrobrprobe nicht gewägt. Ich befürchtete nun Zinn in meinem destillirten Wasser. Ein Umstand, der keineswegs ungewöhnlich ist. Allein es fand sich, dass dasselbe nicht zu diesem Zinngehalt Anlaß gegeben hatte. Ich leitete ihn nun von der Salzsäure her. Es geschieht nämlich oft, dafs sich bei deren Bereitung in der Vorlage und dem Ableitungsrohr anfangs ein krystallinischer Anflug zeigt, welcher im Fortgang der Desüllation verschwindet. Dieser flüchtige Stoff ist Zinnchlorid. Das Zinn fand sich dann zuvor in der Schwefelsäure. Meine Salzsäure, welche, mit vielem Wasser verdünnt, einem Strome Schwefelwasserstoff ausgesetzt wurde, ward endlich trübe, und setzte nach mehren Tagen einen braunen Stoff in sehr geringer Menge ab, so dass er kaum zu einem Löthrohrversuch gesammelt werden konnte, aber in diesem war wirklich Zinn enthalten. Da dieser aus ungefähr 1/3 Pfund concentrirter Salzsäure erhalten worden war, und bei meineh Versuchen nicht mehr als zwei bis drei Grammen auf einmal angewandt wurden, so ist klar, dafs dieser Gehalt an Zinn und Kupfer wirklich aus dem Misteorstein herstammte, wovon ich mich auch dadurch vergewisserte, dass ich auch aus Chromeisen Zinn auszog. Inzwischen, da das Material noch nicht ganz verbraucht worden war, stellte ich für jeden Fall eine Gegenprobe an mit Salzsäure und Wasser, welche beide für sich mit Schwefelwasserstoff gesätligt und darauf von diesem Gase durch Erwärmung wieder befreit worden waren; allein das Besultat blieb in Bezug auf den Zinngehalt dasselbe.
+
+Um mich des Phosphorgehalts in diesem Meteoreisen zu versichern, bediente ich mich wieder der eben erwähnten Lösung jener 3,5 Grm. Steinpulver, füllte daraus den Metallgebalt mit koblensaurem Ammoniak‚ löste den Niederschlag in Salzsäure, versetzte die Lösung wit Schwefelwasserstoff-Schwefeläammonium, filtrirte, nachdem sich das Schwefeleisen abgeschieden hatte, die gelbe Flüssigkeit ab, übersättigte sie mit Salzsäure, dunstete sie zur Trockne, löste den Rückstand wieder in Wasser, und vermischte die Lösung mit Chlorcalcium und ätzendem Ammoniak, wodurch ich 0,012 Grm. phosphorsauren Kalk erbielt.
+
+In mineralogischer Hinsicht kann folglich der Meteorstein von Blansko angesehen werden als bestehend aus:
+
+Nickeleisen, welches Kobalt, Zinn, Kupfer, Schwefel und Phosphor enthält | 17,15.
+
+Silicat von Talkerde und Eisenoxydul, worin Basen und Kieselerde gleich viel Sauerstoff enthalten, nebst etwas Schwefeleisen | 42,67.
+
+Silicat von Talkerde und Eisenoxydul, gemengt mit Silicaten von Alkali, Kalk und Thonerde, worin die Kieselerde doppelt so viel Sauerstoff als die Basen enthält | 39,43.
+
+Chromeisen, verunreinigt mit Zinnstein | 0,75.
+
+Dass die relativen Mengen dieser Gemengtheile in verschiedenen Stücken des Steins Variationen unterworfen seyen, darf kaum bezweifelt werden.
+
+Ich habe der K. Academie bereits zwei Mal Untersuchungen über Meteorsteine mitgetheilt. Die eine derselben hatte einen in Macedonien gefallenen Meteorstein zum Gegenstand.* Im Ansehen ist dieser bedeutend verschieden von dem von Blansko, aber das Resultat seiner Analyse gleicht dem eben angeführten se sehr, dafs ich glaubte, diese Uebereinstimmung auch bei andern nachsuchen zu müssen. Der Meteorstein aus Macedonien enthält Meteoreisen, worin sich 6 Procent kobaltbaltiges Nickel und viel Schwefeleisen fand, und der unmagnelische Theil war zerlegbar in 47,5 Procent eines löslichen und 52,5 Procent eines unlöslichen Minerals. In dem löslichen enthielten die. Basen mehr als gleichviel bis anderthalb Mal so viel Sauerstoff wie die Kieselerde. Es ist aber wahrscheinlicher, dafs diefs von eingemengtem Schwefeleisen und Magneteisenstein herrührt, als von der Gegenwart eines so basischen Silicats. Das Unlösliche bestand aus Silicaten von Talkerde, Eisenoxydul, Kalk, Alkali und Thonerde, worin die Kieselerde zwei Mal so viel Sauerstoff als die Basen enthielt.* Die andere Analyse wurde mit einem in Böhmen gefundenen Meteoreisen angestellt,* worin enthalten waren: Eisen 92,473, Nickel 5,667, Kobalt 0,235 mit Spur von Schwefel und eine unlösliche Verbindung von Phosphor mit Eisen und Nickel.
+
+*) Kongl. Vetensk. Acad. Handl. 1828. (Diese Annal. Bd. XVI S. 611.)
+
+*) In der Abhandlung steht, dass der Sauerstoff gleich sey. Diess ist aber ein Versehen bei der Abfassung; denn der Sauerstoff in der Kieselerde ist 13,6 und der in sämmtlichen Basen 6,5.
+
+*) Kongt. Vetensk. Acad. Handl. 1832, p. 106. (Diese Annalen, Bd. XXVII S. 118.)
+
+Die Frage war also ganz natürlich: Sind alle Meteorsteine Gemenge von Nickeleisen und Schwefeleisen wit in Säuren löslichen Silicaten von Talkerde und Eisenoxydul, und in Säuren unlöslichen Silicaten von Talkerde, Thonerde und Alkali, nebst Chromeisen und Zinnstein; sind ferner die Meteorsteine immer zinnhaltig, immer gemengt, mit Phosphorverbindungen?
+
+Die Analysen meiner Vorgänger beantworten diese Fragen nich. Howard hatte wohl Nickeleisen und Schwefeleisen aus der magnetischen Bergart ausgeschieden, welche er, wie Alle nach ihm, als eine einzige Verbindung analysirte; allein weiter war er nicht gegangen. Laugier hatte den Chromgehalt entdeckt, über welchen Stromeyer die Vermuthung äufserte, dafs er von eingemengtem Chromeisen herrühre, wie es durch die obigen Versuche bewiesen worden ist. Diefs veranlafste die Ausführlichkeit der gegenwärtigen Untersuchung, wobei ich zum Gegenstande meiner Untersuchung solche Meteorsteine wählte, welche in ihrem Ansehen sehr von den gewöhnlichen abweichen, dabei annehmend, dass die, welche einander vollkommen gleichen, ohne Irrthum als von demselben Orte abstammend und als gleiche Zusammensetzung besitzend angesehen werden können. Ich habe mich jedoch hiebei auf die wenigen beschränken müssen, die in meiner eigenen Sammlung befindlich sind.
+
+II\. Meteorstein von Chantonnay.
+
+Dieser fiel unter den gewöhnlichen Erscheinungen einer Feuerkugel und unter einem donneräbnlichen Getöse um 2 Uhr Morgens am 5. Aug. 1812 nicht weit von Chantonnay im Departement de la Vendee, und ward an demselben Tage von dem Pächter des Guts la haute Revetison auf einem Felde in der Nähe seines Wohnhauses aufgefunden, Er war drittebalb Fufs tief in die Erde eingedrungen und roch noch stark nach Schwefel. Er wög 69 Pfund, und besafs eine viel gröfsere Härte und Cobäsion als gewöhnlich die Meteorsteine, so dafs er am Stahle Funken gab. Seine Bruchfläche hatte eine dunklere Farbe als gewöhnlich die Meteorsteine, und an einigen Stellen war sie ganz schwarz. Die umgebende verglaste Rinde war weniger schwarz und zuweilen dunkel grauroth. Ich weils nicht, dafs eine Analyse desselben bekannt gemacht worden sey. Das Stück, welches ich davon besitze, habe ich von den verstorbenen französischen Mineralogen Lucas erhalten, und seine Kennzeichen stimmen ganz mit der Beschreibung überein, welche kurz nach dem Falle dieses Steins von Chladni während seines Aufenthaltes in Paris gegeben wurde.*
+
+*) Gilberts Annalen, Bd. LX S. 247.
+
+Zur Analyse habe ith nur das Schwärzeste und Härteste, im Ansehen von den gewöhnlichen Meteorsteinem ganz Verschiedene Angewandt. Diess enthält Nickeleigen in gröfseren und kleinesen Körnern, und viel Schwefeleisen, welche beide mit dem Magneten ausgezogen werden können. Diese habe ich, als meinem Zweck nicht angemesse, nicht analysirt. Ich hatte zur Absicht, Schwefeleisen daraus zur Untersuchung zu erhalten; allein unter dem Mikroskope entdeckte ich darin bald zablreiche Flitterchen von Nickeleisen und abgeschiedene Theile vom Steinpulver, welche beim Augziehen mit dem Magneten daran hängen geblicben waren. Das Steinpulver wurde zit dem Magneten unter Wasser behandelt, und wiewohl es mir schien, als sey es ganz frei von magnetischen Theilen, so wurde doch, bei Uebergielsung mit Salzsäure, Schwefelwasserstoffgas daraus entwickelt.
+
+Der von Säuren zersetzbare Theil machte 51,12 Procent, und der in ihnen unlösliche 48,88 Procent aus, also gerade so viel wie beim Stein von Blansko.
+
+Das lösliche Mineral enthielt:
+
+||Sauerstoffgeh.  
+Kieselerde|32,607.|16,96.  
+Talkerde|34,357.|13,29.  
+Eisenoxydul|28,801.|6,59.  
+Manganoxydl|0,821.|0,19.  
+Nickeloxyd, verunreinigt mit Zinn- und Kupferoxyd|0,456.  
+Natron und Kali|0,977.  
+Verlust|1,971.  
+100,000.
+
+Im unlöslichen Minerale fand sich:
+
+Kieselerde|56,252.|29,75.  
+Taikerde|20,396.|7,91.  
+Kalk|3,106.|0,88.  
+Eisenoxydul|9,723.|2,21.  
+Manganoxydul|0,690|0,16.  
+Nickeloxyd mit Zinn- u. Kupferoxyd|0,138.|0,05.  
+Thonerde|6,025.|2,81.  
+Natron|1,000.|0,26.  
+Kali|0,512.|0,08.  
+Chromeisen|1,100.  
+Verlust|1,070.  
+100,000.
+
+Hier findet sich also, ungeachtet der Ungleichbeit im Ansehen, eine wunderbare Gleichheit in der Zusammensetzung. Beim Vergleiche zeigt sich, dafs einem grölseren Kalkgehalt ein gröfserer Thenerdegehalt folgt. Daraus lässt sich schliefsen, dafs diese Stoffe Bestandiheile eines besonderen. Minerals ausmachen, welches in verschiedener Quantität eingemengt seyn kann.
+
+Da mir von diesem Meteorsteine mehr zu Gebote stand als von anderen, so suchte ich mir einen Begriff von dem Zinngehalt darin zu verschaffen, und zwar durch folgende Versuche: 2,93 Grm. des geschlemmten und von den magnetischen Tiheilen befreiten Steinpulvers wurden durch Fluorwasserstoffsäure zerlegt, was mit vieler Heftigkeit geschah. Nach Abdunstüung wurde die Fluorwasserstoffsäure mit Schwefelsäure ausgetrieben und die Salzmasse in Wasser gelöst, wobei 0,025 Grm. Chromeisen ungelöst blieben. Durch Schwefelwasserstoff wurde aus der Lösung Schwefelzian gefällt, welches nach dem Rösten 0,002 Grm. wog, und bei Reduction ein, wegen beigemengten Kupfers, in's Gelbe fallende Korn gab. Das Chromeisen wurde durch Schmelzen in saurem schwefelsauren Kali gelöst, und die Lösung mit Schwefelwasserstoffgas behandelt, was noch 0,0015 Grm. Zinnoxyd gab, worin vor dem Löthrohr eine sehr schwache Spur Kupfer entdeckt werden konnte. Dieser Meteorstein ent hält also ungefähr 1/10 Procent Zinnoxyd und 0,84 Procent Chromeisen. Daraus folgt dann, dafs der bei der vorhergehenden Analyse in dem Unlöslichen gefundene Chromeisengebalt zu niedrig ist. Diefs rührte davon her, dafs das mit bernstemsaurem Ammoniak gefällte Eisenoxyd, nach dem Glühen und Wägen, verlor ebe es mit Alkali und Salpeter geschmolzen wurde, welches aber für nicht so wichtig gehalten wurde, dafs es einen neuen Versuch verdient hätte. Nach dem nun Angeführten hätte das Chromeisen 1,7 Procent vom unlöslichben Minerale betragen müssen.
+
+III\. Meteorstein von Lontalax.
+
+Dieser Meteorstein fiel am 13. Dec. 1813 in der Nähe des Dorfes Lontalax, im Kirchspiel Savitaipals im Län Viborg in Finnland, Ein grofser Theil der Stücke fiel auf das Eis, von wo sie aufgelesen wurden.* Er ist von Nordenskiöld* näher beschrieben, welcher die Güte hatte mir ein kleines Stück davon mitzutheilen, von dem ich den gröfsten Theil zu der folgenden Untersuchung anwandte.
+
+*) A. N, Scheerer, Allgemeine nordische Annalen, Bd. I S. 174.
+
+*) Bidrag til närmare kännedom of finlands mineralier och geognosie, I p. 99.
+
+Nach Nordenskiölds Angabe enthält dieser Meteorstein als Gemengtheile folgende: 1. Ein hell olivengrünes Mineral, welches sich vor dem Löthrohr wie Olivin verbält, nur in geringer Menge vorkommt und nicht gröfser ist als ein Stecknadelknopf. 2. Ein halb klares, weifses, blättriges Mineral, welches auf der Oberfläche krystallinisch aussieht und leicht zerbröckelt. 3. Schwarze, dem Magnete folgsame Punkte. 4. Ein aschgrauer, wenig zusammenhängender Stoff, welcher ohne Aufschwellen zu einer schwarzen Kugel schmilzt und die reichlichste Masse des Steins ausmacht. Auswendig ist er von einer schwarzen Schlackenrinde umgeben.
+
+Was ich von diesem Meteorstein erhielt, bestand fast nur aus dem unter No. 2 angeführten Theil, gemengt mit einigen schwarzen Punkten; die äschgraue Haupimasse fehlte aber gänzlich.
+
+Ich werde das von mir zur Analyse angewandte Stück kurz beschreiben. Es ist im Vergleich mit gewöhnlichen Meteorsteinen weils, neben weilsen Mineralien aber graulich, kaum werklich in's Grüne fallend. Hie und da sind schwarze Punkte eingesprengt, welche dem Magneten folgen und sich in Salzsäure, ohne Geruch nach Schwefelwasserstoffgas und ohne Gasentwicklung, zu einer dunkelgelben Flüssigkeit auflösen, woraus also folgt, dafs sie aus Eisenoxyduloxyd oder Magneteisenstein bestehen. Es ist übrigens ein Aggregat von Theilen, welche, ohne gerade krystallisirt zu seyn, doch krystallinisches Gefüge haben, und so locker zusammenhängen, dafs der Stein sich wit Leichtigkeit zerbrechen läfst. Die Brocken, die dabei abfallen, gleichen sehr dem zarten Pulver von glasigem Feldspath, was Nordenskiöld auf die Vermutbung brachte, sie seyen Leucit. - Sein Pulver ist rein weiss. Vor dem Löthrohr wird es augenblicklich schwarz, und nach dem Erkalten dunkelroth, Im Uebrigen verhalt es sich vor dem Löthrohr ganz wie der Stein von Blansko.
+
+1,22 Grm. des fein geschlemmten Pulvers, aus dem Alles dem Magneten Folgsame vor dem Zerreiben ausgezogen, und welches vor dem Wäügen bei +150° C. getrocknet worden war, hinterliefs nach Behandlung erst mit Königswasser und dann mit kohlensaurem Natron 0,07875 Grm. ungelöst. Das Resultat fiel folgendermassen aus:
+
+|Ganze Masse.|Das Lösliche in Procenten.|Sauerstoffgehalt.  
+Kieselerde|0,425|37,411.|19,44.  
+Talkerde|0,344.|32,922.|12,74.  
+Eisenoxydul|0,325.|28,610.|6,51.  
+Manganoxydul|0,009.|0,793.|0,17.  
+Thonerde|0,003.|0,264.|0,12.  
+Kupferoxyd, Zinnoxyd, Kali und Natron*|Spur|Spur  
+Unlösliches|0,079.|  
+1,215.|100,000.  
+
+*) Der Gehalt an Zinnoxyd war ungefähr der gewöhnliche der Meteorsteine; allein der Kupferoxydgehalt war so gering, dass sich die Beaction desselben schwer vor dem Löthrohr hervorbringen liess.
+
+Der Zufall hat mich also zu einer Probe von dem Mineral geführt, welches die Hasptmasse des in Säuren löslichen Bestandtbeils der Meteorsteine ausmacht, weraus der Schlufs gezogen werden kann, dafs dieser Bestandtbeil ein Silicat von Talkerde und Eisenoxydul ist, wahrscheinlich in varlirenden gegenseitigen Verbältnissen, aber in welchem die Kieselerde eben so viel Sauerstoff als die Basen enthält. Der Ueberschufs in dem letzteren, welcher sich bei der vorgehenden Analyse zeigt, rührt offenbar zum Theil von eingemengtem Schwefeleisen her, welches bei der Analyse oxydirt erhalten wurde; ob aber dabei zugleich Eisenoxyduloxyd oder ein basischeres Silicat vorkommt, lassen meine Versuche unentschieden.
+
+Das hier analysigte Mineral giebt ziemlich ungerwungen die Formel F(S + 2MS); inzwischen bat wan Grund zu vermuthen, dafs das Atomverbältnils ein zufälliges sey, und dafs der Meteor-Olivin diese isomorphen Silicate in variirenden Verhältnissen enthalte.
+
+Derjenige Theil des Steins von Lontalax, welcher sich nicht in Säure und kohlensaurem Natron löst und 6,37 Procent vom Gewicht des Steins’ ausmacht, hinterliefge nach Behandlung mit Fluorwasserstoffsäure ungefähr 1 Proc. (0,0127. des analysirten Quantums) Chromeisen ungelöst, dessen Verhalten vor dem Löthrohr die Gegenwart von Zinnoxyd darthat. Die, Flafssäure hatte aufgelöst: Talkerde, Kalk, Eisenoxydul, Thonerde und Manganoxydul, in einen Verhältnisse, welches zu zeigen schien, dafs dieses Unlösliche gleiche Zusammensetzung habe, wie das unlösliche Mineral in den vorhergebenden Meteorsteinen.
+
+(Schluss mit nächstem.)
+
 ...
