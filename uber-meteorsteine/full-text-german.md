@@ -280,4 +280,71 @@ b\. Das mit Wasser Ausgezogene gab eine blass gelbliche, im Allgemeinen schwach 
 
 Ein Theil des krystallisirten Salzes, welches im lufttrocknen Zustand 0,285 Grm. wog, wurde in Wasser gelöst und mit einem Paar Tropfen kohlensauren Ammoniaks versetzt. Es entstand dadurch kein Niederschlag, zum Beweise, dass das Salz kein Eisen enthielt, also nicht Eisenvitriol war. Etwas Schwefelwasserstoff-Schwefelammonium gab einen schwarzen Niederschlag, welchen ich in einer verkorkten Flasche sich absetzen liess. Dieser gab 0,005 Grm. Nickeloxyd, welches sich vor dem Löthrohr als verunreinigt mit Kupfer erwiess, mit Phosphorsalz aber nicht die Opalisirung beim Erkalten gab, welche die Gegenwart des Zinnoxyds anzeigt. Das Nikeloxyd entspricht 0,01 schwefelsauren Nickeloxyds.
 
+Durch Zersetzung mit essigsaurem Baryt und andere gewöhnliche analytische Methoden wurden daraus erhalten: 0,04 Grm. Talkerde, entsprechend 0,118 Grm. wasserfreier schwefelsaurer Talkerde, 0,034 Grm. schwefelsauren Natrons, 0,004 Grm. schwefelsauren Kalis und 0,012 Grm. schwefelsauren Kalks erhalten, oder zusammen 0,178 Salze und 0,107 Krystallwasser, das vermuthlich nicht auf jedes einzelne Salz, sondern auf, die Doppelsalze aus Natron und Kali mit Talkerde und Nickeloxyd und auf eine Portion freier schwefelsaurer Talkerde vertheilt werden muss.
+
+In diesem Salze findet sich überdiels noch eine Spur von schwefelsaurem Ammoniak. Mengt man den Stein mit Wasser und läfst ihn darin zerfallen, so entsteht ein sehr starker Heugeruch, und ein mit Salpetersäure benetzter Glaspfropfen darüber gehalten, giebt weifse Nebel, zwar in geringer Menge, aber ganz sichtbar. Dieser Ammoniakgehalt ist jedoch wahrscheinlich nicht ursprünglich, denn wenn man das Steinpulver mit Ammoniak behandelt, gut mit Wasser auslaugt, und, nach dem Trocknen im Woasserbade, einer trocknen Destillation aussetzt, so erhält man ein stark ammoniakhaltiges Wasser, was nicht der Fall ist bei Behandlung mit Wasser. Dieses Ammoniak kann also sehr wohl wäbrend der 28jährigen Aufbewahrung im Mineralienschrank bineingekommen seyn.
+
+Von Wichtigkeit wäre es gewesen, sogleich nach dem Fall des Steins zu ermitteln, ob derselbe dieses Salz fertig gebildet, und letzteres dann Krystallwasser enthalten habe, wodurch die Frage: ob Wasser in der Heimath der Meteorsteine vorhanden sey, beantwortet werden könnte. Nun lässt sich zwar vermuthen, dass das Salz aus einem Talkerdesilicat und Schwefeleisen entstanden sey, indem sich letzteres in Eisenvitriol verwandelte, dieses von der Talkerde zersetzt wurde und das Eisenoxydul in Eisenoxydulosyd überging. Erwägt man indefs, dass Thenard angiebt, einerseits, dafs der Stein mit Säuren sehr wenig Schwefelwasserstoff entwickelte, und andererseits, dass er, nach Verpuffung mit Salpeter, einen Niederschlag mit Chlorbarium, der 3 1/2 Proc. Schwefel entsprach, lieferte, so mufs man schliefsen, dass der Stein entweder gewöhnlichen Schwefelkies oder ein schwefelsaures Salz enthielt. Beide Fälle sind sicher ungewöhnlich, aber der letztere zeigte sich in meidien Versuchen als wirklich vorhanden, und wahrscheinlich fand er auch statt, als Thenard seine Versuche anstellte, deun er erhielt 17 Procent Wasser, was weit mehr ist als der vom Salz befreite Stein enthält, und zeigen würde, dafs der Stein vom Anfang an wasserhaltig war. Indess stellte Thenard die Analyse ungefähr zwei Monate nach dem Fall des Steines an, und in der Zeit konnte das fein zertheilte Salz eine grofse Portion Krystallwasser aufgenommen haben. Es ist nämlich möglich, dafs der Anflug von Bittersalz sich allmälig in der Atmosphäre der Erde gebildet hatte, dadurch, dass das Salz Krystallwasser aufnahm und durch den Zutritt des Wassers aufschwoll.
+
+c\. Das mit Wasser ausgelaugte Steinpulver enthält, nach Thenards Analyse, eine Portion Kohle. Es war natürlich za vermuthen, dass diese Kohle mit. Wasserstoff und Sauerstoff, vielleicht auch mit Stickstoff eine Verbindung ausmachte. Da weder Kali noch Ammoniak eine organische Verbindung auszog, so blieb nur übrig, die Producte der trocknen Zersetzung zu studiren, weil die Lösung dieser Verbindung in Säuren, sie mit den übrigen unorganischen Stoffen, die sieh entweder gelöst hätten oder um gelöet geblieben wären, vermengt haben würd. Das wohl ausgekochte, gesehlemmte und bei 100° C. getrocknete Pulver wurde demnach in einem kleinen Destillationsapparat bis zum Glühen erhitzt, und das sich entwikkelnde Gas in eine umgestürzte, wit Kalkwasser gefüllte Flasche geleitet. 1,586 Grm, Steinpulver hinterliessen 1398 Grm. kohlschwarzen Rückstands.
+
+Keine Tropfen von brenzlicheın Oel zeigten sich im Retortenhalse; dagegen sammelte sich viel und ungefärbtes Wasser. Em schmaler Streifen Lackmuspapier, in deu. Hals der Retorte gesteckt, ward roth. Das Gas wurde unter starker Trübung vom Kalkwasser absorbirt; und es blieb sehr wenig unverschluckt, nicht mehr als die Luft des Gefäfses betrug, und darin schien kein fremdes Gas enthalten zu seyn. Thenard erbielt bremnbare Gase, aber bei seinem Versuch war der in Wasser lösliche Stoff nicht entfernt worden. Das Kohlensäuregas gab 0,15 koblensauren Kalk, entspreehend 0,0696 Grm. Kohlensäure oder 0,01813 Grm. Kohle.
+
+Das Wasser im Retortenhalse besafs einen starken Geruch nach Heu oder richtiger nach Toncabobnen, welcher beim Trocknen verschwand. Im hinteren Theil des Retortenhalses fand sich eine geringe Spur eines weilsen Salzes, nebst einer Portion eines schwarzbraunen Sublimats. Diess weisse Salz war löslich im Wasser und ätzendes Kali entwickelte eine Spur von Ammoniak daraus, aber die Lösung ward nicht durch salpetersaures Silberoxyd gefällt. Ich konnte nicht ermitteln, mit welgher Säure das Ammoniak verbunden war.
+
+Dieses braune Sublimat ist ein mir gänzlich unbekannter Körper. Er machte von der angewandten Quantität 0,015 Grm. aus. Dieser geringen Menge wegen konnte ich von seinen Eigenschaften nur folgende ermitteln. Seine Farbe ist in dünnen Kanten beim Hindurchsehen schwarzbraun, eim Daraufsehen fast schwarz. Die der Röhre zugewandte Seite ist dunkelgrau und etwas glänzend. Er hat weder Geschmack noch Geruch, wenn der Heugeruch verschwunden ist. In sauerstofffreier Luft kann er sublimirt werden; obne Anzeigen von Krystallisation. In gewöhnlicher Luft oder in Sauerstoffgas verwandelt er sich in einen weifsen Rauch, welcher sich an kalte Körper anlegt. Dieser Rauch hat einen stechenden Geruch. Der weilse Anflug ist löslich in Wasser, reagirt nicht auf Lackmuspapier und wird van salpetersaurem Silber nicht gefällt. Wenn er in Sauerstoffgas verbrennt wird, zeigt sich keine Spur von Feuchtigkeit; Kalkwasser wird nicht von dem Gase getrübt und es setzt sich nach einer Weile keine Spur von kohlensaurem Kalk ab. Der braune Körper ist unlöslich in Wasser, Ammoniak, ätzendem Kali, Salzsäure, kochender Salpetersäure von 1,24 spec. Gew. War er ein Product der trocknen Destillation oder fand er sich fertig gebildet vor und wurde durch die Hitze sublimirt? Ich kann diese Fragen nicht genügend beantworten.*
+
+*) Wollte man fragen: War er ein einfacher brennbarer Körper, so würde man vielleicht zu viel Gewicht darauf legen.
+
+Aus dem nun Angeführten folgt, dafs die bei 100° C. getrocknete, von löslichen. Substanzen befreite Meteormasse gegeben hat:
+
+Schwarzen geglühten Rückstand|88,146.  
+Graubraunes Sublimat|0,944.  
+Kohlensäuregas|4,328.  
+Wasser|6,582.  
+100,00.
+
+Analyse des schwarzen geglühten Rückstands. Er wog 1,382 und wurde mit Salzsäure zersetzt. Die Lösung war sehr dunkelgelb, das Ungelöste schwarz. Schwefelwasserstoff nahm die Farbe der Lösung fort. Der dabei erhaltene Niederschlag hinterliess, nach dem Fortbrennen des Schwefels, 0,005 Grm. Zinnoxyd, verunreinigt mit Kupferoxyd. Uebrigens wurde die Analyse ganz nach dem bereits mitgetheilten allgemeinen Plan angestellt. Die Lösung der Kieselerde in kohlensaurem Natron war gelblich, ward aber bei Sättigung mit Säure farblos. Nach Abscheidung der Kieselerde durch Abdunstung, wurde, aus der Auflösung des Salzes in Wasser, mit einem Tropfen ätzenden Ammoniaks 0,006 Grm. Zinnoxyd gefällt. Der nach Behandlung mit koblensäurem Natron unlösliche Theil war kohlschwarz. Ein Versuch, die Kohle in Sauerstoffgas fortzubrennen und die Kohlensäure aufzufangen glückte nur theilweis, weil sie sich nur an der Oberfläche oxydirte und roth ward. Sie gab dabei Wasser ab. Das Geglühte wog 0,12. Die angewandten 1,382 hatten also gegeben:
+
+||Sauerstoffgehalt  
+Kieselerde|0,4315.|21,5.  
+Talkerde|0,3070.|11,88.  
+Kalk|0,0032.|0,09.  
+Eisenoxydul|0,4011.|9,13.  
+Nickeloxyd|0,0190.|0,40.  
+Manganoxydul|0,0036.|0,07.  
+Thonerde|0,0325.|1,52.  
+Chromeisen, zerlegt|0,0087.  
+Zinnoxyd, kupferhaltig|0,0110.  
+Unlöslicher kohlenhaltig. Rückstand|0,1200.  
+Verlust|0,0640.  
+1,3820.
+
+Der Verlust, welcher ungefähr 4 Procent beträgt, ist etwas gross. Ein Theil davon ist Sauerstoff im Eisenoxyduloxyd. Uebrigens stellt sich hier zwischen dem Sauerstoff der Kieselerde und dem der Basen dasselbe Verhältnifs ein wie bei den vorhergehenden Meteorsteinen. Der Ueberschufs in dem letzteren hat vermuthlich hier dieselbe Ursache wie dort, und rührt hier noch deutlicher von eingemengtem Eisenoxyduloxyd her.
+
+Der unlösliche koblschwarze Theil dieses Meteor steins wurde erst mit Fluorwasserstoffsäure und dann mit Schwefelsäure behandelt, worauf ein schwarzes Pulver ungelöst blieb. Dieses wurde auf ein gewogenes Filtrumm gebracht und darauf eine gewogene Portion desselben im Sauerstoffgas verbrannt, das, in einer Liebig'schen Absorptionsröhre, über dieselbe und dann in ein Gemenge von ätzendem Ammoniak und Chlorcalcium geleitet ward.
+
+Die ammoniakalische Flüssigkeit hatte 48 Stunden lang in einer verkorkten Flasche gestanden, ehe sie in die Absorptionsröhre gefüllt worden war, so dass also aller kohlensaurer Kalk, der durch einen Kohlensäuregehalt des Ammoniaks gebildet worden seyn könnte, sich abgesetzt haben musste. Sie wurde 24 Stunden lang verschlossen stehen gelassen, wo dann die klare Flüssigkeit von dem am Glase angeschossenen kohlensauren Kalk abgegossen und letzterer abgespült werden konnte. Er wurde sodann in Salzsäure gelöst, mittelst Zusatz von Schwefelsäure in Gyps verwandelt, in einem gewogenen Platintiegel abgeraucht und geglüht. Aus der Menge des Gypses wurde die der Kohle berechnet; auf das Ganze betrug sie 0,02586 Grm.
+
+Nach Verbrennung der Kohle in Sauerstoffgas blieben 0,00525 Grm. Chromeisen zurück, welches Zinnoxyd enthielt.
+
+Das in Flusssäure Aufgelöste hatte gegeben:
+
+Talkerde|0,0050.  
+Eisenoxydul|0,0266.  
+Nickeloxyd|0,0055.  
+Thonerde|0,0025.  
+Zinnoxyd|0,0020.  
+Kieselerde|0,0462.
+
+Die Kieselerde ist aus dem Verlust hergeleitet. Kalk fehlte ganz. Die Talkerde hielt eine Spur von Manganoxydul, das Nickeloxyd eine von Kobalt. Klar ist, dass das unlösliche Mineral im Meteorstein von Alais nicht gleicher Art ist mit dem in den vorhergehenden.
+
+Dieser Meteorstein kann für nichts anderes als für einen Erdklumpen gehalten werden, und zeigt, dass die Bergarten in seiner Heimath durch einen geologischen Procefs in Erde verwandelt wurden, wie es auf unsern Planeten der Fall ist. Der Umstand, dass darin metallisches Eisen, Schwefeleisen, nebst den Osyden von Nikkel, Kobalt, Zion, Kupfer und Chrom enthalten sind, zeigt, dass diese Erde aus der gewöhnlichen. Meteorsteigmasse, welche bier hauptsächlich aus Meteor-Olivin bestand, gebildet worden ist. Es leidet folglich keinen Zweifel, dass der untersuchte Stein, ungeachtet aller seiner Verschiedenbheiten im Aeussern, ein Meteorstein ist, welcher, aller Wahrscheinliebkeit nach, aus der gewöhnlichen Heimath der Meteorsteine herstammt.
+
+Der Kohlengehalt darin scheint ursprünglich nicht bloss Kohle gewesen zu seyn; diess sieht man am besten daran, dafs das Steinpulver eine in’s Grüne fallende bräunliche Farbe besitzt, aber bei der trocknen Destillation kohlschwarz wird. Die Koble befindet sich also in einer Verbindung, welche in der Hitze zerseizt wird unter Zurücklassung von Kohle und Entwicklung von Kohlensäuregas, entweder allein oder in Begleitung von Wasser. Im ersten Fall befindet sich die Kohle blofs mit Sauerstoff verbunden, zu einem der Honigsteinsäure ähnlichen Körper, im letzten Fall aber in Verbindung mit Sauerstoff und Wasserstoff. Indess ist ein solcher Körper, der nur in Kohle, Kohlensäure und Wasser zerfällt, noch nicht bekannt. Mehr Analogie mit tellurischen organischen: Verbindungen bat der Stoff, den das Wasser zugleich mit Bittersalz. auszieh. Die Anwesenheit eines kohlenhaltigen Stoffs in der Meteorerde hat Analogie mit dem Humusgehalt der tellurischen Erde; aber er ist vermuthlich auf eine andere Weise hinzugekommen, hat andere Eigenschaften, und scheint nicht zu der Vermuthung zu berechtigen, dass er eine analoge Bestimmung habe, wie die kohlenhaltigen Stoffe in der tellurischen Erde.
+
+Das eben mitgetheilte Resultat zeigt mit dem von Thenard erhaltenen einige Verschiedenheiten. Indels beweist doch nichts, dafs wir nicht denselben Stoff untersucht haben. Schun der Umstand, dafs ich vor der Analyse 10 Procent lösliche Salze, gemengt mit einem organischen Stoff, und 12 Procent dem Magneten folgsame Theile abschied, bildet einen wesentlichen Unterschied. Thenard suchte Thonerde darin, obne sie zu finden. Diess ist gewöhnlich bei Mineralien, welche Talkerde enthalten, wenn der mit ätzendeuı Ammoniak erhaltene Niederschlag mit Kali behandelt wird. Wiederauflösung in Säure und Fällung mit eineın doppelt-kohlensauren Salz scheint von Thenard nicht angewandt worden zu seyn.
+
+V\. Pallas-Eisen und Pallas-Olivin.
+
 ...
