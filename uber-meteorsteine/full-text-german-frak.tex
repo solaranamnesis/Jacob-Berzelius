@@ -12,9 +12,12 @@
 \usepackage{yfonts}
 \usepackage[titles]{tocloft}
 \usepackage{sectsty}
-\sectionfont{\Huge}
-\subsectionfont{\LARGE}
-\subsubsectionfont{\LARGE}
+
+\allsectionsfont{\frakfamily}
+\sectionfont{\frakfamily\Huge}
+\subsectionfont{\frakfamily\LARGE}
+\subsubsectionfont{\frakfamily\LARGE}
+\paragraphfont{\frakfamily\LARGE}
 \usepackage{amsmath}
 \usepackage[figurename=]{caption}
 \begin{document}
@@ -22,6 +25,13 @@
 \renewcommand{\contentsname}{
 \frakfamily{Inhaltsverzeichnis}
 }
+
+\renewcommand{\cftsecfont}{\frakfamily}
+\renewcommand{\cftsubsecfont}{\frakfamily}
+\renewcommand{\cftsubsubsecfont}{\frakfamily}
+
+\renewcommand\thefootnote{\frakfamily{\arabic{footnote}}}
+
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	%\scshape % Use small caps for all text on the title page
