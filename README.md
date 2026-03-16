@@ -6,5 +6,5 @@ Attempt at translations from the original German to English, I welcome all pull 
 
 English - Plain Text  
 English - PDF  
-[German - Plain Text](uber-meteorsteine/full-text-german.md)  
+[German - Plain Text](uber-meteorsteine/full-text-german.md) | [German - (GFM) Plain Text](uber-meteorsteine/full-text-german-gfm.md)  
 [German - PDF](https://cdn.solaranamnesis.com/Berzelius/berzelius_uber_meteor_stein_german.pdf) | [Fraktur](https://cdn.solaranamnesis.com/Berzelius/berzelius_uber_meteor_stein_german-frak.pdf) | [Schwabacher](https://cdn.solaranamnesis.com/Berzelius/berzelius_uber_meteor_stein_german-swab.pdf) | [Custom](https://cdn.solaranamnesis.com/Berzelius/berzelius_uber_meteor_stein_german_custom.pdf)  
