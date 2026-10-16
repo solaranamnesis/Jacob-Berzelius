@@ -6,135 +6,13 @@
 
 ### 1834.
 
-Icke längre än från början af detta årbundrade
-har man ansett, såsom en i vetenskapen bevisad
-sak, att större och mindre 'stermassor tid efter
-annan nedstörta på jorden, vanligen under ett
-starkt brakande, likt åskans rullande dunder, och
-med ett eldfenomen, hvarvid stenens yta så ha-
-stigt förglasas, att dess inre massa icke hinner att
-af hettans åverkan förändras. Vanligen sönder-
-spricker stenen deraf innan fallet och styckena
-kastas temligen vidt omkring. Ehuru äldre och
-nyare tiders historia omtalat dylika stenfall, så
-ansåg sig dock länge den sansade naturforskaren
-böra betvifla dessa uppgifters pålitlighet, då all
-rimlig grund saknades för en gissning, om hvar-
-ifrån så tunga kroppar i atmosferen kunde här-
-ledas. Den säkrare kännedom vi nu anse oss
-äga, grundlades af ett meteorsten-fall i England,
-vid Wold-Cottage i Yorkshire, hvilket tilldrog sig
-d. 13 Dec. 1795 och blef behörigt bevittnadt.
-HowaArp, som några år sednare företog en under-
-sökning af denna sten, hvilken han jemförde med
-flera andra, som sades vara fallna från himme-
-len, fann dem emellan en öfverensstämmelse 1 ut-
-seende och sammansättning, under det de hade
-bestämda skiljaktigheter från mineralier af tellu-
+Icke längre än från början af detta århundrade har man ansett, såsom en i vetenskapen bevisad sak, att större och mindre stenmassor tid efter annan nedstörta på jorden, vanligen under ett starkt brakande, likt åskans rullande dunder, och med ett eldfenomen, hvarvid stenens yta så hastigt förglasas, att dess inre massa icke hinner att af hettans åverkan förändras. Vanligen sönderspricker stenen deraf innan fallet och styckena kastas temligen vidt omkring. Ehuru äldre och nyare tiders historia omtalat dylika stenfall, så ansåg sig dock länge den sansade naturforskaren böra betvifla dessa uppgifters pålitlighet, då all rimlig grund saknades för en gissning, om hvarifrån så tunga kroppar i atmosferen kunde härledas. Den säkrare kännedom vi nu anse oss äga, grundlades af ett meteorsten-fall i England, vid Wold-Cottage i Yorkshire, hvilket tilldrog sig d. 13 Dec. 1795 och blef behörigt bevittnadt. Howard, som några år sednare företog en undersökning af denna sten, hvilken han jemförde med flera andra, som sades vara fallna från himmelen, fann dem emellan en öfverensstämmelse i utseende och sammansättning, under det de hade bestämda skiljaktigheter från mineralier af telluriskt ursprung. Det hufvudsakligaste kännemärket var, att de innehålla insprängdt metalliskt jern, och att detta jern är nickelhaltigt. Howard meddelade Royal Society i London sin undersökning i Febr. 1802. Den fästade allmänt uppmärksamheten, ehuru den första nyheten om de resultat Howard dragit af sin undersökning, hvilka af Pictet meddelades den Franska Vetenskaps-Academien, emottogs såsom en villfarelse. Händelsen fogade likväl så, att få månader derefter, d. 26 Apr. 1803, inträffade i Frankrike, i departementet l'Aigle, ett af de största och märkvärdigaste stenregn, som tilldragit sig, och vid hvilket öfver en viss trakt stenbitar utsåddes, hvilkas antal ansågs uppgå till ett par tusende. Ögonvittnenas antal var stort, och den Franska Vetenskaps-Academien, hvars uppmärksamhet redan i förhand var väckt, anmodade sin ledamot Biot, att på stället undersöka förhållandet. Hans berättelse derom undanröjde alla återstående tvifvel om stenars fall ofvanifrån med fenomen, så lika dem man förut iakttagit vid angifna meteorstens-fall, att äfven dessa derigenom vunno trovärdighet.
 
-riskt ursprung. Det hufvudsakligaste kännemär-
-ket var, att de innehålla insprängdt metalliskt jern,
-och att detta jern är nickelhaltigt. Howarp med-
-delade Royal Society i London sin undersökning
-i Febr. 1802. Den fästade allmänt uppmärksamhe-
-ten, ehuru den första nyheten om de resultat Ho-
-warp dragit af sin undersökning, hvilka af Pictet
-meddelades den Franska Vetenskaps-Academien,
-emottogs såsom en villfarelse. Händelsen fogade
-likväl så, att få månader derefter, d. 26 Apr. 1803,
-inträffade i Frankrike, i departementet Y'Aigle,
-ett af de största och märkvärdigaste stenregn,
-som tilldragit sig, och vid hvilket öfver en viss
-trakt stenbitar utsåddes, hvilkas antal ansågs upp-
-gå till ett par tusende. ' Ögonvittnenas antal var
-stort, och den Franska Vetenskaps-Academien,
-hvars uppmärksamhet redan i förhand var väckt,
-anmodade sin ledamot Bror, att på stället under-
-söka förhållandet. Hans berättelse derom undan-
-röjde alla återstående tvifvel om stenars fall of-
-vanifrån med fenomen, så lika dem man förut
-iakttagit vid angifna meteorstens-fall, att äfven
-dessa derigenom vunno trovärdighet.,
+Nu begynte man eftertänka, hvarifrån dessa fallande kroppar kunde härleda sitt ursprung. Gissningen att de voro utkastade från jordens volkaner rättfärdigades icke, hvarken af de från volkaner aflägsna ställen der de föllo, eller af deras, med vanliga volkanprodukter olikartade beskaffenhet. Man har på allvar försökt att betrakta dem såsom bildade i luften af dess beståndsdelar; men hvarken veta vi att meteorstenarnes beståndsdelar kunna finnas i luftform, eller af luftens vanliga beståndsdelar sammansättas, och dessutom, om äfven sådant vore fallet, hafva flera meteorstenar haft en så stor massa, att deras bildning i atmosferen omöjligen hunnit gå för sig på den korta stund, deras fall genom luften varat, helst det är nödvändigt att fallet redan måst begynna vid den första solida partikelns afsättning.
 
-Nu begynte man eftertänka, hvarifrån dessa
-fallande kroppar kunde härleda sitt ursprung.
-Gissningen att de voro utkastade från jordens -
-volkaner rättfärdigades icke, hvarken af de från
-volkaner aflägsna ställen der de föllo, eller af de-
-ras, med vanliga volkanprodukter olikartade be-
-skaffenhet. Man har på allvar försökt att betrak-
-ta dem såsom bildade i luften af dess bestånds-
-delar; men hvarken veta vi att meteorstenarnes
-beståndsdelar kunna finnas i luftform, eller af luf-
-tens vanliga beståndsdelar sammansättas, och dess-
-utom, om äfven sådant vore fallet, hafva flera
-meteorstenar- haft en så stor massa, att deras bild-
+Anaxagoras gissade, att en sten, som i hans tid föll vid Aegos Potamos, var utkastad från en annan verldskropp. Denna dristiga gissning, innebar troligen en riktig föreställning. Den har blifvit understödd af vår tids forskningar. Olbers framkastade 1795, i en berättelse om det meteorstens-fall, som inträffade d. 16 Juli 1794, vid Siena i Italien, den idé, att dessa stenar kunde hafva blifvit utkastade från månen, ehuru han ansåg det då sannolikare, att de kommit från Vesuvius. Laplace yttrade 1802, i anledning af Howards arbete, samma idé, med det tillägg, att eldfenomenet måste härröra från luftens sammantryckning genom meteorstenens oändliga rörelsehastighet vid inträngandet i jordens atmosfer, af hvilken denna hastighet så förminskas, att fallet slutligen sker endast med vanlig fallhastighet.
 
-
-ning 1 atmosferen omöjligen hunnit gå för sig på
-den korta stund, deras fall genom luften varat,
-helst det är nödvändigt att fallet redan måst be-
-gynna vid den första solida partikelns afsättning.
-ÅNAXAGORAS gissade, att en sten, som i hans
-tid föll vid Aegos Potamos, var utkastad från en
-annan verldskropp. Denna dristiga gissning, in-
-nebar troligen en riktig föreställning. Den har
-blifvit understödd af vår tids forskningar. Or-
-BERsS framkastade 1795, i en berättelse om det
-meteorstens-fall, som inträffade d. 16 Juli 1794,
-vid Siena i Italien, den ide, att dessa stenar kun-
-de hafva blifvit utkastade från månen, ehuru han
-ansåg det då sannolikare, att de kommit från Ve-
-suvius. LaArracE yttrade 1802, i anledning af
-Howarpns arbete, samma idé, med det tillägg, att
-eldfenomenet måste härröra från luftens samman-
-tryckning genom meteorstenens oändliga rörelse-
-hastighet vid inträngandet i jordens atmosfer, af
-hvilken denna hastighet så förminskas, att fallet
-slutligen sker endast med vanlig fallhastighet.
-Månens åt oss vända sida är full af bergs-
-kedjor, i hvilka finnas talrika berg, skapade all-
-deles likt de med krater försedda volkanerna på
-jorden, och af så ytterligt stora dimensioner, att
-man med goda tuber ser in i kratern, der man
-mycket väl urskiljer, att insidans ena hälft är
-upplyst af solen, och den andra beskuggad, under
-det att öfversta ringen, som utgör kraterns öpp-
-ning är hel och hållen upplyst. Det synes va-
-ra anledning att förmoda, att bergen fått denna
-form af samma orsak som på jorden, det vill sä-
-ga genom eruptioner. Men om den kraft, som
-på månen åstadkommer eruptioner är lika stor
-med kastkraften hos jordens volkaner, så måste
-den kastade kroppen aflägsnas- betydligt längre
-
-
-
-från månen än från jorden; ty 1:0 är månens
-massa blott 1.45 procent af jordens, och tyng-
-den på månen förbåller sig derefter; 2:0 har må-
-nen ingen luftkrets, eller en så ytterst tunn, att
-intet märkbart strålbrytnings-fenomen deri upp-
-kommer vid fixstjernors betäckning af månen. Ut-
-kastningen sker således i lufttomt rum, utan nå-
-got sådant mekaniskt hinder för den kastade krop-
-pens rörelse, som atmosferen kring jorden åstad-
-kommer, och som der snart afstannar den; 3:0
-då utkastningen sker i en riktning emot jorden,
-så är den kastade kroppen utsatt för jordens
-ständigt tilltagande attraktion, under det månens
-är i ett ständigt aftagande; och 4:o ligger jem-
-vigtsgränsen emellan jorden och månen betydligt
-närmare den sistnämda. Biot uppger att en kast-
-kraft af 7771 paris. fot. i sekunden uppnår den-
-na gräns; med det ringaste öfverskott deri måste
-den öfverstigas, hvarefter kroppen sedan måste
-falia mot jorden. Denna hastighet är 5 till 6
-gånger större än den en 24-pundig kanonkula
-har vid utlöpandet, och öfverstiges af kastkraften
-1 våra volkaner =). De beräkningar, så väl Or-
-BERS "") som Poisson ==") häröfver anställt, visa,
-att iden innebär en fysisk möjlighet.
+Månens åt oss vända sida är full af bergskedjor, i hvilka finnas talrika berg, skapade alldeles likt de med krater försedda volkanerna på jorden, och af så ytterligt stora dimensioner, att man med goda tuber ser in i kratern, der man mycket väl urskiljer, att insidans ena hälft är upplyst af solen, och den andra beskuggad, under det att öfversta ringen, som utgör kraterns öppning är hel och hållen upplyst. Det synes vara anledning att förmoda, att bergen fått denna form af samma orsak som på jorden, det vill säga genom eruptioner. Men om den kraft, som på månen åstadkommer eruptioner är lika stor med kastkraften hos jordens volkaner, så måste den kastade kroppen aflägsnas betydligt längre från månen än från jorden; ty 1:0 är månens massa blott 1.45 procent af jordens, och tyngden på månen förhåller sig derefter; 2:0 har månen ingen luftkrets, eller en så ytterst tunn, att intet märkbart strålbrytnings-fenomen deri uppkommer vid fixstjernors betäckning af månen. Utkastningen sker således i lufttomt rum, utan något sådant mekaniskt hinder för den kastade kroppens rörelse, som atmosferen kring jorden åstadkommer, och som der snart afstannar den; 3:0 då utkastningen sker i en riktning emot jorden, så är den kastade kroppen utsatt för jordens ständigt tilltagande attraktion, under det månens är i ett ständigt aftagande; och 4:0 ligger jemvigtsgränsen emellan jorden och månen betydligt närmare den sistnämda. Biot uppger att en kastkraft af 7771 paris. fot. i sekunden uppnår denna gräns; med det ringaste öfverskott deri måste den öfverstigas, hvarefter kroppen sedan måste falla mot jorden. Denna hastighet är 5 till 6 gånger större än den en 24-pundig kanonkula har vid utlöpandet, och öfverstiges af kastkraften i våra volkaner.* De beräkningar, så väl Olbers* som Poisson* häröfver anställt, visa, att idén innebär en fysisk möjlighet.
 
 Åtskilliga omständigheter relativt till meteor-
 stenarne sjelfva, passa väl ip med hvad vwvi tro
@@ -2816,10 +2694,6 @@ Väte, i den lösliga organiska föreningen i
 stenen från Alais.
 
 
-
-
-
-
 Svafvel beståndsdel af svatveljern - och af
 svafvelsyrad talkjord.
 
@@ -2863,10 +2737,6 @@ afsilade kaustika vätskan höll verkligen ett ringa
 spår upplöst, som, då det utfälldes, såg ut såsom
 
 ”) BavMseartners Zeitschrift, IL, 33.
-
-
-
-
 
 en jord, men souw vid försök dermed befans va-
 ra en blandning af fosforsyrade kalk, magnesia
