@@ -14,260 +14,35 @@ Anaxagoras gissade, att en sten, som i hans tid föll vid Aegos Potamos, var utk
 
 Månens åt oss vända sida är full af bergskedjor, i hvilka finnas talrika berg, skapade alldeles likt de med krater försedda volkanerna på jorden, och af så ytterligt stora dimensioner, att man med goda tuber ser in i kratern, der man mycket väl urskiljer, att insidans ena hälft är upplyst af solen, och den andra beskuggad, under det att öfversta ringen, som utgör kraterns öppning är hel och hållen upplyst. Det synes vara anledning att förmoda, att bergen fått denna form af samma orsak som på jorden, det vill säga genom eruptioner. Men om den kraft, som på månen åstadkommer eruptioner är lika stor med kastkraften hos jordens volkaner, så måste den kastade kroppen aflägsnas betydligt längre från månen än från jorden; ty 1:0 är månens massa blott 1.45 procent af jordens, och tyngden på månen förhåller sig derefter; 2:0 har månen ingen luftkrets, eller en så ytterst tunn, att intet märkbart strålbrytnings-fenomen deri uppkommer vid fixstjernors betäckning af månen. Utkastningen sker således i lufttomt rum, utan något sådant mekaniskt hinder för den kastade kroppens rörelse, som atmosferen kring jorden åstadkommer, och som der snart afstannar den; 3:0 då utkastningen sker i en riktning emot jorden, så är den kastade kroppen utsatt för jordens ständigt tilltagande attraktion, under det månens är i ett ständigt aftagande; och 4:0 ligger jemvigtsgränsen emellan jorden och månen betydligt närmare den sistnämda. Biot uppger att en kastkraft af 7771 paris. fot. i sekunden uppnår denna gräns; med det ringaste öfverskott deri måste den öfverstigas, hvarefter kroppen sedan måste falla mot jorden. Denna hastighet är 5 till 6 gånger större än den en 24-pundig kanonkula har vid utlöpandet, och öfverstiges af kastkraften i våra volkaner.* De beräkningar, så väl Olbers* som Poisson* häröfver anställt, visa, att idén innebär en fysisk möjlighet.
 
-Åtskilliga omständigheter relativt till meteor-
-stenarne sjelfva, passa väl ip med hvad vwvi tro
-oss veta om månen. Meteorstenarne äro genom-
-sådda med metalliskt jern, som, då stenen, på
-sätt händelsen är med jordskorpans mineralier,
-hålles fuktad af lufthaltigt vatten, efter hand ro-
-star till oxidhydrat. I deras ursprungliga hem-
+*) Laplace i v. Zach's Monothl. Corresp. 1802 Sept., p. 277.
 
-") LaPLacE i v. ZacH's Monothl. Corresp. 1802 Sept., p.
+*) Gilberts Annaler der Physik, 15., 39.
 
-277:
-”"JiGiuserRTS Annaler der Physik, XV, 39.
-«09 Ib. p. 329.
+*) Ib. p. 329.
 
+Åtskilliga omständigheter relativt till meteorstenarne sjelfva, passa väl in med hvad vi tro oss veta om månen. Meteorstenarne äro genomsådda med metalliskt jern, som, då stenen, på sätt händelsen är med jordskorpans mineralier, hålles fuktad af lufthaltigt vatten, efter hand rostar till oxidhydrat. I deras ursprungliga hemvist saknas således antingen blott luften eller både luften och vattnet. Också hafva astronomiska undersökningar på månen icke funnit något spår till så stora vattensamlingar att de kunnat med goda tuber upptäckas. Jag känner icke att man i meteorstenar funnit kemiskt bundet vatten. --- Vi skola af nedanstående undersökning finna, att de flesta meteorstenar äro hvarandra så lika till sammansättning, att man kan anse dem härröra från samma berg, under det, att endast några få befunnits af en afvikande sammansättning. Så vidt det är tillåtet att sluta från hvad som finnes på jorden, kan man icke eller anse andra verldskroppar vara homogena blandningar af mineralier, helst historien af deras primitiva bildning säkert har mycken analogi med historien om jordens. Bergarter från olika trakter af en annan verldskropp böra således kunna variera i sammansättning. --- Med månen inträffar, att den ständigt vänder samma halfklot mot jorden. Medelpunkten af dess synliga skifva utgör således dess oföränderligt åt oss vända vertex, hvars eruptioner lättast kasta sina projectiler öfver jemvigtslinien, hvarifrån således största antalet af de till jorden ankommande meteorstenarne, med antagande att de härröra från månen, böra vara utkastade. De kunna således tillhöra en ganska inskränkt bergstrakt, hvaraf deras stora likhet i utseende och sammansättning då lätt begripes. --- Utkast af eruptioner som ske på sidan om denna vertex och som fortskyndas i en riktning, hvilken icke mera går direkte mot jorden, måste således mera sällan kunna komma inom jordens attraktions-krets. Om bergarten i dessa är skiljaktig från den som tillhör månhalfvans åt oss vända summitet, så inser man lätt, att meteorstenar af annan än vanlig sammansättning kunna hitkomma, men att det måste ske jemförelsevis ganska sällan. Kunde man antaga att månens åt oss vända summitet är så genomsådd med nickeljern, som meteorstenarne sjelfva, och alt månens öfriga delar, eller åtminstone det halfklot deraf, som ständigt vändes ifrån jorden, håller föga deraf eller saknar det alldeles, så skulle deraf följa, att månen, då jorden, utom dess allmänna, af gravitation uppkommande, attraktion, derpå utöfvar äfven verkningar af en magnet, måste vända den jernrikaste delen af sitt klot mot jorden, och deraf den verkan uppkomma, som vi med förundran erfarit, att nemligen månen alltid vänder åt oss orubbligt samma halfklot.
 
+Det är äfvenväl möjligt att meteorstenar komma från ett annat kosmiskt håll. Olbers uppkastade, såsom bekant är, den gissningen, att småplaneterna emellan Mars och Jupiter kunde vara bitar af en exploderad planet, i anledning af hvilken gissning flera dylika bitar uppsöktes och en fanns af Olbers sjelf. Om en sådan katastrof ägt rum, hvilket den betydliga vinkel, banan af pallas gör med medelplanet af de öfriga planeternas orbitæ, äfven kan anses bestyrka, så måste en oändlig mängd smärre bitar hafva blifvit utkastade i riktningar, som kommit dem att vandra kring solen i aftagande orbitæ, så att de lätt på vägen råka inom andra planeters attraktionssfer och infalla på dem. Man har äfven gissat, att materia i universum kunde finnas, stadd i en ännu icke ordnad rörelse, och att meteorstenar kunde vara sådana mindre eller större massor, som stundom inträffa i jordens attraktionssfer; men denna gissning är af alla den minst sannolika. Verldssystemet synes vittna om den bestämdaste ordning, och dessutom blifver, i denna gissning, meteormassornes identiska beskaffenhet ännu mindre begriplig.
 
+Emedlertid, då det kan tagas för afgjordt, att de härröra från en annan verldskropp än jorden, och således förkunna beskaffenheten af ponderabla ämnen, som finnas utom tellus, så få meteorstenarne från denna sida ett utomordentligt intresse. Det blir dervid af vigt, icke allenast att finna af hvilka mineralier de bestå, utan äfven de ringaste spår af deri förut ej funna elementer. Möjligt vore att deribland finna sådana, som ännu ej förekommit på jorden.
 
-vist saknas således antingen blott luften eller bå-
-de luften och vattnet. Också hafva astronomiska
-undersökningar på månen icke funnit något spår
-till så stora vattensamlingar att de kunnat med
-goda tuber upptäckas. Jag känner icke att man
-i meteorstenar funnit kemiskt bundet vatten. —
-Vi skola af nedanstående undersökning finna, att
-de flesta meteorstenar äro hvarandra så lika till
-sammansättning, alt man kan anse dem härröra
-från samma berg, under det, att endast några få
-befunnits af en afvikande sammansättning. Så
-vidt det är tillåtet att sluta från hvad som ' fin-
-nes på jorden, kan man icke eller anse andra
-verldskroppar vara homogena blandningar af mi-
-neralier, helst historien af deras primitiva bild-
-ning säkert har mycken analogi med historien
-om jordens. Bergarter från olika trakter af en
-annan verldskropp böra således kunna variera i
-sammansättning. — Med månen inträffar, att den
-ständigt vänder samma halfklot mot jorden. Me-
-delpunkten af dess synliga skifva utgör således
-dess oföränderligt åt oss vända vertex, hvars
-eruptioner lättast kasta sina projectiler öfver jem-
-vigtslinien, hvarifrån således största antalet af de
-till jorden ankommande meteorstenarne, med an-
-tagande att de härröra från månen, böra vara ut-
-kastade. De kunna således tillhöra en ganska in-
-skränkt bergstrakt, hvaraf deras stora likheti ut-
-seende och sammansättning då lätt begripes. —
-Utkast af eruptioner som ske på sidan om denna
-vertex och som fortskyndas i en riktning, hvilken
-icke mera går direkte mot jorden, måste således
-mera sällan kunna komma inom jordens attrak-
-tions-krets. Om bergarten i dessa är skiljaktig
-från den som tillhör månhalfvans åt oss vända
-summitet, så inser man lätt, alt meteorslenar af
+Astronomerne hafva med särdeles intresse, i dubbelstjernors revolutioner omkring hvarandra, igenkänt en verkan af samma gravitationslagar, som gälla inom vårt eget planetsystem, huru stor anledningen än var att i förhand förmoda denna grundkraft vara rådande öfver allt i universum. Det är icke mindre intressant att lära känna af hvilka ämnen andra verldskroppar bestå, och att komma till visshet derom, att de äro af enahanda natur med dem som utgöra massan af tellus. Om vi ock ännu icke funnit alla dessa sistnämda i meteorstenarne, så hafva vi dock deri träffat en stor del af de allmännare, och skola i det följande se, att det lyckas att bestämma i hvilka kemiska föreningar de innehållas.
 
+Det arbete öfver meteorstenar, som jag nu har äran till Kongl. Academien öfverlemna, har blifvit föranledt af ett uppdrag, att undersöka sammansättningen af den meteorsten, som, den 25 November 1833, kl. 1/4 efter 6 på aftonen, föll i granskapet af Blansko i Mähren. Den bildade, såsom vanligt, ett starkt lysande eldmeteor, och stenfallet föregicks af ett åsklikt dunder. BergamtsDirektor Reichenbach, som befann sig ute på fältet, blef och vittne till meteoret, lät sedan af ett betydligt antal manskap eftersöka den fallna massan, och lyckades sent omsider att finna smärre bitar deraf till belopp af ungefär 1/2 skålpund; men hufvudmassan blef icke funnen, hvartill denna trakts skogiga beskaffenhet lärer hafva varit förnämsta orsaken.
 
+_1\. Meteorsten från Blansko._
 
+Denna meteorsten hör till det allmännast förekommande slaget, och lagd bredvid dessa, t. ex. från Benares, l'Aigle, Berlongville etc., kan från en af dem ej urskiljas. Beskrifningen af dessa är således beskrifningen af denna. Den har den vanliga, yttre smälta skorpan, en ljusgrå, något rostfläckig brottyta, finkornig, visande här och der runda kulor af lika färg med stenens, hvilka ofta kunna aflossas och lemna då en rund, slät urhålkning efter sig. Den innehåller mycket nickeljern och ganska litet svafveljern i fina partier öfver allt inströdda, visande glänsande punkter, af hvilka några synas rödaktiga i en viss direktion. Dessa äro dock icke annat än anlupet nickeljern. Om stenen stötes till groft pulver, kan nickeljernet utdragas med magneten, samt under vatten tvättas från synbart vidhängande stenämne, så att jernpartiklarne blifva nära silfverhvita. De innesluta dock ännu mycket stenämne i sina sinuositeter och håligheter, hvilket vid jernets upplösning till en del sönderdelas och till en del affaller. I det stycke som användes till mina försök innehölls 17.15 p. c. nickeljern, i hvilka afdrag är skedt för innesluten stenmassa. Under sammansatt mikroskop kan man icke med någon tydlighet urskilja andra blandningsdelar än ett hvitt, splittrigt mineral, som tyckes vara genomskinande och vid rostfläckarne är gulaktigt, samt de metalliska kantiga kornen. Det samma är händelsen när man betraktar i mikroskopet ett groft pulver deraf, men då äro mineralets delar mera genomskinliga. --- På mekanisk väg har jag icke kunnat åtskilja meteorstenen i annat än det hvita mineralet, de runda kulorna och nickeljernet. --- På kemisk väg hafva kunnat åtskiljas: nickeljern, svafveljern , chromjern, ett hvitt mineral, som af syror sönderdelas, och ett dylikt, som af syror ej angripes. Ehuru stenen tyckes vara temligen jemt blandad, är det dock ganska tydligt att nickeljernet på vissa ställen är mera samladt än på andra. Vissa delar af stenen gifva vid rifning ett mörkare pulver än andra.
 
+Stenens icke magnetiska del förhåller sig för blåsrör på följande sätt: den ger i lindrig glödgning intet vatten och förändras icke. Brännes den i stycke i öppen luft, så kan lukt af svafvelsyrlighet kännas, stenen blir svart utpå och rödfläckig inuti. Pulver af stenen bränner sig i glödgning rödt och smälter slutligen, men mycket trögare än fältspat, till en svart glaskula med matt yta, alldeles lik den svarta hinna, som utpå omger stenen. Af borax löses det lätt till ett jerngrönt glas. Af fosforsalt äfvenså, men med lemning af kiselskelett. Med kolsyradt natron smälter stenen till en svart kula. Detta är meteorstenars vanliga förhållanden för blåsrör.
 
-annan än vanlig sammansättning kunna hitkom-
-må, men att det måste ske jemförelsevis ganska
-sällan. Kunde man antaga alt månens åt oss
-vända summitlet är så genomsådd med nickeljern ,
-som metleorstenarne sjelfva, och alt månens öfri-
-ga delar, eller åtminstone det halfklot deraf, som
-ständigt vändes ifrån jorden, håller föga deraf el-
-ler saknar det alldeles, så skulle deraf följa, att
-månen, då jorden, utom dess allmänna, af gra-
-vitation uppkommande, attraktion, derpå utöfvar
-äfven verkringar af en magnet, måste vända den
-jernrikaste delen af sitt klot mot jorden, och
-deraf den verkan uppkomma, som vi med för-
-undran erfarit, att nemligen månen alltid vänder
-åt oss orubbl:gt samma halfklot.
+Jag skall dela den analytiska undersökningen i tvenne hufvuddelar, nemligen 1:0 af det icke megnetiska och 2:0 af det som kan med magneten utdragas.
 
-Det är äfvenväl möjligt att meteorstenar kom-
-ma från ett annat kosmiskt håll. OrzeErs upp-
-kastade, såsom bekant är, den gissningen, att små-
-planeterna emellan Mars och Jupiter kunde vara
-bitar af en exploderad planet, i anledning af
-hvilken gissning flera dylika bitar uppsöktes och
-en fanns af ÖrseErs sjelf. Om en sådan katastrof ägt
-rum, hvilket den betydliga vinkel, banan af pal-
-las gör med medelplanet af de öfriga planeternas
-orbite, äfven kan anses bestyrka, så måste en
-oändlig mängd smärre bitar hafva blifvit utka-
-stade i riktningar, som kommit dem att vandra
-kring solen i aftagande orbite, så att de lätt på
-vägen råka inom andra planeters attraktionssfer
-och infalla på dem. Man har äfven gissat, att
-materia i universum kunde finnas, stadd i en än-
-nu icke ordnad rörelse, och att meteorstenar kun-
-de vara sådana mindre eller större massor, som
-stundom iuträffa i jordens attraktionssfer; men
-denna gissning är af alla den minst sannolika.
-Verldssystemet synes vittna om den bestämdaste
+Detta mekaniska åtskiljande genom magneten, oaktadt det skulle synas, som vore det ganska lätt, är dock så godt som alldeles omöjligt att göra alldeles fullkomligt. Svafveljernet förvandlas vid rifningen i pulver, som fäster sig oskiljaktigt vid stenpulvret, hvilket deraf får en mörkare färg. För att först uttaga det mesta, stöttes stenen till groft pulver, hvarur det magnetiska under vatten utdrogs. Det som nu icke mera ville följa magneten, refs till fint pulver, som ännu en gång under vatten behandlades med magneten, och afgaf ännu en liten portion magnetiskt, hvarefter återstoden refs på porfyrhäll och slammades. Torra pulvret var ljusgrått och luktade svafvelbundet väte, då det öfvergöts med saltsyra, samt svafvelsyrlighet i glödgning, båda hastigt öfvergående, men ådagaläggande, närvaro af en portion svafveljern, som magneten icke utdragit.
 
+Till undvikande af onödig vidlyftighet, skall jag en gång för alla uppgifva den plan hvarefter analyserna skett, och sedan på hvar särskilt art, der ingen afvikelse från planen ägt rum, anföra endast resultatet.
 
-
-
-
-ordning, och dessutom blifver, i denna gissning,
-meteormassornes identiska beskaffenhet ännu min-
-dre begriplig. |
-
-Emedlertid, då det kan tagas för afgjordt, alt
-de härröra från en annan verldskropp än jorden,
-och således förkunna beskaffenheten af pondera-
-bla ämnen, som finnas utom tellus, så få meteor-
-stenarne från denna sida ett utomordentligt in-
-tresse. Det blir dervid af vigt, icke allenast att
-finna af hvilka mineralier de bestå, utan äfven
-de ringaste spår af deri förut ej funna elemen-
-ter. Möjligt vore att deribland finna sådana, som
-ännu ej förekommit på jorden.
-
-Astronomerne hafva med särdeles intresse, i
-dubbelstjernors revolutioner omkring hvarandra,
-igenkänt en verkan af samma gravilationslagar,
-som gälla inom vårt eget planetsystem, huru stor
-anledningen än var att i förhand förmoda denna
-grundkraft vara rådande öfver allt i universum.
-Det är icke mindre intressant att lära känna af
-hvilka ämnen andra verldskroppar bestå, och att
-komma till visshet derom, att de äro af enahan-
-da natur med dem som utgöra massan af tellus.
-Om vi ock ännu icke funnit alla dessa sistnäm-
-da i meteorslenarne, så hafva vi dock deri träf-
-fat en stor del af de allmännare, och skola i det
-följande se, att det lyckas att bestämma i hvilka
-kemiska föreningar de innehållas.
-
-Det arbete öfver meteorstenar, som jag nu
-har äran till Kongl. Academien öfverlemna, har
-blifvit föranledt af ett uppdrag, att undersöka
-sammansättningen af den meteorsten, som, den
-25 November 1833, kl. + efter 6 på aftonen, föll
-i granskapet af Blansko i Mähren. Den bildade,
-såsom vanligt, ett starkt lysande eldmeteor, och
-stenfallet föregicks af ett åsklikt dunder. Bergamts-
-
-
-
-
-
-
-Direktor RricHEnrAcH, som befann sig ute på fäl-
-tet, blef och vittne tll meteoret, lät sedan af ett
-betydligt antal manskap eftersöka den fallna mas-
-san, och lyckades sent omsider att finna smärre
-bitar deraf till belopp af ungefär 1 skålpund;
-men huafvudmassan blef icke funnen, hvartill den-
-na trakts skogiga beskaffenhet lärer hafva varit
-förnämsta orsaken.
-
-1. Meteorsten från Blansko.
-
-Denna meteorsten hör till det allmännast
-förekommande slaget, och lagd bredvid des-
-sa, t. ex. från Benares, FAiele, Berlongville
-&c., kan från en af dem ej urskiljas. Beskrifnin-
-gen af dessa är således beskrifningen af denna.
-Den har den vanliga, yttre smälta skorpan, en
-ljusgrå, något rostfläckig brottyta, finkornig, visan-
-de här och der runda kulor af lika färg med
-stenens, hvilka ofta kunna aflossas och lemna då
-en rund, slät urhålkning efter "sig. Den inne-
-håller mycket nickeljern och ganska litet svaf-
-veljern i fina partier öfver allt inströdda, visan-
-de glänsande punkter, af hvilka några synas röd-
-aktiga 1 en viss direktion. Dessa äro dock icke
-annat än anlupet nickeljern. Om stenen stötes
-till groft pulver, kan nickeljernet utdragas med
-magneten, samt under vatten tvättas från syn-
-bart vidhängande stenämne, så att jernpartiklar-
-ne blifva nära silfverhvita. De innesluta dock
-ännu mycket stenämne i sina sinuvositeter och
-håligheter, hvilket vid jernets upplösning till en
-del sönderdelas och till en del affaller. I det
-stycke som användes till mina försök innehölls
-17.15 p. c. nickeljern, i hvilka afdrag är skedt
-för innesluten stenmassa. Under sammansatt mi-
-kroskop kan man icke med någon tydlighet ur-
-
-
-
-
-skilja andra blandningsdelar än ett hvitt, splitt-
-rigt mineral, som tyckes vara genomskinande och
-vid rostfläckarne är gulaktigt, samt de metalliska
-kantiga kornen. Det samma är händelsen när
-man betraktar i mikroskopet ett groft pulver der-
-af, men då äro mineralets delar mera genom-
-skinliga. — På mekanisk väg har jag icke kun-
-nat åtskilja meteorstenen i annat än det hvita
-mineralet, de runda kulorna och nickeljernet. —
-På kemisk väg hafva kunnat åtskiljas: nickeljern,
-svafveljern , chromjern, ett hvitt mineral, som af
-syror sönderdelas, och ett dylikt, som af syror
-ej angripes. Ehuru stenen tyckes vara temligen
-jemt blandad, är det dock ganska tydligt att nic-
-keljernet på vissa ställen är mera samladt än på
-andra. Vissa delar af stenen gifva vid rifning
-ett mörkare pulver än andra.
-
-Stenens icke magnetiska del förhåller sig för
-blåsrör på följande sätt: den ger i lindrig glöd-
-gning intet vatten och förändras icke. Brännes
-den i stycke i öppen luft, så kan lukt af svaf-
-velsyrlighet kännas, stenen blir svart utpå och
-rödfläckig inuti. Pulver af stenen bränner sig i
-glödgning rödt och smälter slutligen, men myc-
-ket trögare än fältspat, till en svart glaskula med
-matt yta, alldeles lik den svarta binna, som ut-
-på omger stenen. Af borax löses det lätt till ett
-jerngrönt glas. Af fosforsalt äfvenså, men med
-Emning af kiselskelett. Med kolsyradt natron
-smälter stenen till en svart kula. Detta är me-
-teorstenars vanliga förhållanden för blåsrör.
-
-Jag skall dela den analytiska undersöknin-
-gen i tvenne hufvuddelar, nemligen 1:0 af det
-icke megnetiska och 2:0 af det som kan med mag-
-neten utdragas.
-
-
-
-
-Detta mekaniska ålskiljande genom magne-
-ten, oaktadt det skulle synas, som vore det gan-
-ska lätt, är dock så godt som alldeles omöjligt
-att göra alldeles fullkomligt. Svafveljernet för-
-vandlas vid rifningen i pulver, som fäster sig
-oskiljaktigt vid stenpulvret, hvilket deraf får en
-mörkare färg. ' För att först uttaga det mesta,
-stöttes stenen till groft pulver, hvarur det mag-
-netiska under vatten utdrogs. Det som nu icke
-mera ville följa magneten, refs till fiut pulver,
-som ännu en gång under vatten behandlades med
-magneten, och afgaf ännu en liten portion mag-
-netiskt, hvarefter återstoden refs på porfyrhäll
-och slammades. Torra pulvret var ljusgrått och
-luktade svafvelbundet väte, då det öfvergöts med
-saltsyra, samt svafvelsyrlighet i glödgning, båda
-hastigt öfvergående, men ådagaläggande, närvaro
-af en portion svafveljern, som magneten icke
-utdragit.
-
-Till undvikande af onödig vidlyfughet, skall
-jag en gång för alla uppgifva den plan hvarefter
-analyserna skett, och sedan på hvar särskilt art,
-der ingen afvikelse från planen ägt rum, anföra
-endast resultatet.
-
-4. Stenpulvret sönderdelades i platinakärl
+_A._ Stenpulvret sönderdelades i platinakärl
 med koncentrerad saltsyra, hvaraf en gelatinering
 uppkom, som dock endast var partiell. Under
 dekomposition var kärlet betäckt med ett rent ur-
@@ -279,8 +54,6 @@ gångar med kolsyradt natron, som före frånsil-
 ningen utspäddes med mycket kokande vatten
 och silades kokhett. Vigten af det då olösta ut-
 visade meteorstenens halt af i syror olösliga för-
-
-
 
 eningar, och genom subtraktion från den använ-
 da qvanlitetens vigt, äfven huru stor del af mi-
@@ -575,14 +348,14 @@ Det lösliga mineralets analys gaf, beräknadt
 till 100 delar, följande beståndsdelar:
 
 Kiseljord =. . 33.084 hålla syre 17,192.
-FTalkjord = av os SÖ:AS oo — ÄOON
+FTalkjord = av os SÖ:AS oo --- ÄOON
 
-Jernoxidul . . 26.935 — G.01
-Manganoxidul . 0.465 — 0.12
+Jernoxidul . . 26.935 --- G.01
+Manganoxidul . 0.465 --- 0.12
 Nickeloxid, tenn-
 
 | 20.52.
-och koppar-haltig 0.465 — o.riof -
+och koppar-haltig 0.465 --- o.riof -
 Tenjordsv stoninsy. fK0xd 2070) OkO
 INGrron 0 ee 0.007. NOS
 
@@ -627,7 +400,7 @@ spädda syran upplöser betydligt af det lösliga
 mineralet, med kiseljord och allt, och vid inhäm-
 tandet af denna erfarenhet, hade jag förlorat un-
 gefär hälften af hvad jag kunde till undersöknin-
-gen använda. — Efter denna digression tror jag
+gen använda. --- Efter denna digression tror jag
 mig hafva gjort det ganska sannolikt, att i det i
 syror lösliga meteormineralet hålla kiseljorden och
 baserna lika qvantitet syre, samt att det öfver-
@@ -655,10 +428,10 @@ IKalkjord: > vers AhOÖ URI OM
 Jernoxidul . . 8.592 8.362 1.904 ;
 Manganoxidul . 0.724 0.557 0.124014.338.
 Nickeloxid, tenn-
-och koppar-haltig 0.021 — -—
+och koppar-haltig 0.021 --- ----
 Terjord PT RYS HAG:bge lt ä4ingan JG
-Nato a ers 00 I —
-Kali s evendt O:0hO —
+Nato a ers 00 I ---
+Kali s evendt O:0hO ---
 Chromjern (lenn-
 Raltigt)y >. 119303, 0 1,300
 Förlust: «.0. 96308: 14978
@@ -881,13 +654,13 @@ dadt med silikater af alkali, kalk och ler-
 jord, hvari kiseljordens syre är 2 gån-
 
 RER ELSA on a vat telaln a, ee JGA
-Chromjern, smiltadt af tennmalm —. + 0.75.
+Chromjern, smiltadt af tennmalm ---. + 0.75.
 
 Att dessa blandningsdelars relativa qvanti-
 teter äro underkastade variationer i olika stycken
 af stenen, torde knappast böra betviflas.
 
-— —
+--- ---
 
 Jag har tvenne gånger förut meddelat Kongl.
 Möldemien undersökningar af meteorstenar. Den
@@ -1009,8 +782,8 @@ Det lösliga mineralet fanns innehålla:
 Kiseljord . . « . 32.607 håller syre 16.96.
 
 Kalkjond.1,-avyue ue at MARINA RIS
-Jernoxidul . . . . 28.80r — 6.56220.04.
-Manganoxidul . . . 0.821 — 0.19
+Jernoxidul . . . . 28.80r --- 6.56220.04.
+Manganoxidul . . . 0.821 --- 0.19
 
 Nickeloxid, smittad af
 
@@ -1032,11 +805,11 @@ Onda a as 20.300 9
 Kalkjord - . > » « 3.106 0.88
 Senor mn 0 oo. HINES 221
 
-Manganoxidul « . . 0690 — 0.16
+Manganoxidul « . . 0690 --- 0.16
 
 Nickeloxid med tenn- 14.34.
-och koppar-oxid . 0.138 — 0.05
-ENE ess 0025, — - 2.81
+och koppar-oxid . 0.138 --- 0.05
+ENE ess 0025, --- - 2.81
 INalrom, cc de lv äv 0000, =, 40:26
 RNE I ODT2 =E N0:08
 
@@ -1169,7 +942,7 @@ Kopparoxid, Tenn-
 oxid, Kali och Na-
 
 rom Ne. et on SPÅR spår
-Ölöshet" "IE fNNMo.070 —
+Ölöshet" "IE fNNMo.070 ---
 
 1.215. 100 000.
 
@@ -2618,10 +2391,10 @@ Kalkjord -« «+ 9.50 7.50 9.2
 Jernoxidul . . 23.00 32.40 23.5
 Lerjord för AOC 6.00 10.
 
-Manganoxid . — 2.30 6.5
-Kalk — 0.2
-Kopparoxid . oo — — 0.i
-Chromoxid =. — 1.00 1.0
+Manganoxid . --- 2.30 6.5
+Kalk --- 0.2
+Kopparoxid . oo --- --- 0.i
+Chromoxid =. --- 1.00 1.0
 SNAUNE fan se 2 1.50 0.5
 100.00 93.50 102
 
