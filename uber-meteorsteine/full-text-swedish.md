@@ -60,153 +60,40 @@ Ur den så fällda vätskan erhölls med kolsyradt kali, efter ammoniaksalternas
 
 _E._ Den i _A_ olösliga delen af meteorstenen, som blifvit behandlad först med saltsyra och sedan i kokning med kolsyradt natron, sönderdelades i olika försök på 3 olika vägar, antingen genom bränning med kolsyrad baryt, eller med kolsyradt natron, eller också genom behandling med fluorvätesyra.
 
-_Bränning med kolsyrad baryt._ Brända mas-
-san, som utsattes för en mycket sträng kolungs-
-hetta, var ej smält. Dess färg hade blifvit grå.
-Gelatinerades med saltsyra såsom vanligt. Kisel-
+_Bränning med kolsyrad baryt._ Brända massan, som utsattes för en mycket sträng kolungshetta, var ej smält. Dess färg hade blifvit grå. Gelatinerades med saltsyra såsom vanligt. Kiseljorden var mörkgrå i vått tillstånd, men hvit i torkadt. Efter upplösning i kolsyradt natron genom kokning, återstod ett svart pulver, som ej vidare ville lösa sig, och som efter torkning blef brunt. Detta pulver visade sig för blåsrör vara chromjern, som i denna analytiska metod undgått sönderdelning; men då det upplöstes i fosforsalt, företedde det tvenne egenheter, att nemligen metallisk platina kröp ut på kulans yta och att den klara kulan under afsvalning blef oklart grön. Platinau härrörde i försöket synbarligen från platinadegeln, som syntes angripen under bränningen; jag skulle derföre alldeles icke hafva omnämt denna omständighet, om jag icke funnit alldeles lika förhållande då mineralet sönderdelades med fluorvätesyra, hvarvid ingen korrodering af degeln var märkbar. Jag har dock icke skäl att härleda denna platina från något annat än den nyttjade platinadegeln. Den beståndsdel, som grumlade fosforsaltskulan, fick jag på följande sätt fram: chromjernet löstes i smältning i surt svafvelsyradt kali, hvarvid platina flör upp och försilfrade en del af ytan, der den under afsvalningen behöll sig och kunde aftagas. Massan löstes med svag grön färg i vatten, och genom lösningen leddes en ström af svafvelbundet väte, som gaf en gulbrun fällning, hvilken, efter rostning, gaf med kolsyradt natron och borax, i reduktionseld, ett smidigt tennkorn. Med fosforsalt kunde en ringa kopparhalt deri upptäckas. Det svarta pulvret var således chromjern, innehållande en jemförelsevis ganska ringa qvantitet tennoxid, troligen i tillstånd af vanlig tennmalm.
 
-jorden var mörkgrå i vått tillstånd, men hvit i
-torkadt. Efter upplösning i kolsyradt natron ge-
-nom kokning, återstod ett svart pulver, som ej
-vidare ville "lösa sig, och som efter torkning blef
-brunt. - Detta pulver visade sig för blåsrör” vara
-chromjern, som i denna anabytiska metod und-
-gått sönderdelning; men då det upplöstes i. fos-
-forsalt, företedde det tvenne egenheter, att: nem-
-ligen wmetallisk platina kröp ut på kulans yta och
-alt den kiara kulan under afsvalning blef oklart
-grön. Platinau härrörde i försöket synbarligen
-från platinadegeln, som syntes angripen under
-bränningen; jag skulle derföre alldeles icke haf-
-va omnämt denna omständighet, om jag icke fun-
-nit alldeles lika förhållande då mineralet sönder-
-delades med fluorvätesyra, hvarvid ingen korro-
-dering af degeln var märkbar. Jag har dock ic-
-ke skäl alt härléda denna platina från något an-
-nat än den nyttjade platinadegeln. Den bestånde-
-del, som grumlade fosforsaltskulan, fick jag på
-följande s sält fram: chromjernet löstes i smält-
-ning i surt svafvelsyradt kali, hvarvid platina
-flör upp och försilfrade en del af ytan, der den
-under afsvalningen behöll sig och kunde aftagas.
-Mässan löstes med svag grön färg i vatten, och
-genom lösningen leddes en ström al svaåtvelbuné
-det väte, som gaf en gulbrun fällning, hvilken, ef-
-ter rTostning, gaf med kolsyradt natron och borax,
-reduktionseld, ett smidigt tennkorn. Med fos-
-forsalt kunde en ringa kopparhalt deri upptäckas.
-Det svarta pulvret var således chromjern, inne-
-hållande en jemförelsevis ganska ringa qvantitet
-tennoxid, troligen i tillstånd af vanlig tennmalm,
-Den brända stenmassans lösning i saltsyra,
-befriades med svafvelsyra från barytjord, och med
+Den brända stenmassans lösning i saltsyra, befriades med svafvelsyra från barytjord, och med vätesvafladt svafvelammonium från nickeloxid, oxiderades med salpetersyra, afröktes så att svafvelsyran utjagade all så väl salpetersyra som saltsyra, åter löstes i vatten, fälldes med kaustik ammoniak, hvarefter de i vätskan qvarhållna alkalierna, samt kalk- och talkjord på vanlig metod (d. ä. med ättiksyrad barytjord), afskildes, hvilket jag anser öfverflödigt att här detaljera.
 
+Fällningen med kaustik ammoniak, åter löst i saltsyra, fälldes med kolsyrad ammoniak, hvarvid talkjord stannade i vätskan, hvarur den utfälldes och bestämdes till vigt.
 
-vätesvafladt svafvelammonium från nickeloxid, oxi-
-derades med salpetersyra, afröktes så att svafvel-
-syran utjagade all så väl salpetersyra som salt=
-syra, åter löstes i vatten, fälldes med kaustik am-
-moniak, hvarefter de i vätskan qvarhållna alka-
-lierna, samt kalk- och talkjord på vanlig metod
-(d. ä. med ättiksyrad barytjord), afskildes, hvil=
-ket jag anser öfverflödigt att här detaljera.
+Fällningen gaf med kaustikt kali lerjord. Ur den vätska, hvarur lerjorden med kolsyrad ammoniak var fälld, erhölls efter afdunstning och bränning med salpeter, tydligt spår af chrom, som utfälldes med salpetersyrad blyoxid, som dock ej förtjente att vägas.
 
-Fällningen med kaustik ammoniak, åter löst
-i saltsyra, fälldes med kolsyrad ammoniak, hvar-
-vid talkjord stannade i vätskan, hvarur den ut-
-fälldes och bestämdes till vigt.
+Den med kaustikt kali behandlade jernoxiden å nyo löst och utfälld med bernstenssyrad ammoniak, lemnade litet nickeloxid med talkjord i vätskan. De afskildes som förr är nämdt.
 
-Fällningen gaf med kaustikt kali lerjord. Ur
-den vätska, hvarur lerjorden med kolsyrad am-
-moniak var fälld, erhölls efter afdunstning och
-bränning med salpeter, tydligt spår af chrom,
-som utfälldes med salpetersyrad blyoxid, som dock
-ej förtjente att vägas. |
+Fällningen med bernstenssyrad ammoniak glödgades och vägdes. Den refs sedan till finaste pulver och brändes med salpeter och litet kolsyradt kali i en platinadegel. Saltmassan blef gul, utkoktes med vatten, mättades med ättiksyra och fälldes, ibland med salpetersyrad qvicksilfveroxidul, som glödgad gaf chromoxid, ibland med salpetersyrad blyoxid, som gaf chromsyrad blyoxid. Från båda beräknades den motsvarande halten af chromjern, efter formeln Ḟe-C̈r˙. Då jernoxidens och chromoxidens gemensamma vigt var känd, ficks jernoxidens genom afdrag af chromoxidens. Jernoxiden beräknades till oxidul, hvarifrån afdrogs den qvantitet som åtgått att bilda chromjern med chromoxiden.
 
-Den med kaustikt kali behandlade jernoxi-
-den å nyo löst och utfälld med bernstenssyrad
-ammoniak, lemnade litet nickeloxid med talkjord
-i vätskan. De afskildes som förr är nämdt.
+I analysen af så väl den lösliga som olösliga delen af meteorstenarnes bergart bestämdes manganhalten på det sätt, att all erhållen talkjord sammanlades och vägdes glödgad, hvarefter den upplöstes i saltsyra, och till denna lösning, ingjuten i flaska, indröps en blandad lösning af chlorsyrligt och tvåfaldt kolsyradt natron, då mangan efter 24 timmar fanns utfälld i form af oxid, som glödgades, vägdes och dess vigt afdrogs från talkjordens.
 
-Fällningen med bernstenssyrad ammoniak
-glödgades och vägdes. Den refs sedan till fina-
-ste pulver och brändes med salpeter och litet kol=
-syradt kali i en platinadegel. Saltmassan blef
-gul, utkoktes med vatten, mättades med ättiksy-
-ra och fälldes, ibland med salpetersyrad qvick-
-silfveroxidul, som glödgad gaf chromoxid, ibland
-med salpetersyrad blyoxid, som gaf chromsyrad
-blyoxid. Från båda beräknades den motsvaran-
-de balten af chromjern, efter formeln FeÖör. Då
-jernoxidens och chromoxidens gemensamma vigt
-var känd, ficks jernoxidens genom afdrag af chrom-
-oxidens. Jernoxiden beräknades till oxidul, hvar-
+_Bränning med kolsyradt natron_ går bäst, då man ej afser att afskilja chromjernet in natura och icke eller bestämmandet af den ringa qvantiteten alkali. Äfven i denna metod får man en hinterhalt af chromoxid i den med bernstenssyrad ammoniak fällda jernoxiden.
 
+_Analys genom fluorvätesyra_ går lätt. Sedan syran i vattenbad afdunstat, tillsättes svafvelsyra, och återstoden af fluorvätesyra utjagas. Massan är svart af oupplöst chromjern, som återstår efter lösningens utspädning med vatten och digestion till gipsens upplösning. I öfrigt går analysen alldeles såsom vid den med barytjord, sedan denna med svafvelsyra blifvit utfälld. Kiseljordshalten tillkännagifves af förlusten. Äfven här finner man ett spår af chromoxid, utdraget jemte lerjorden af kaustikt kali, och en portion chromoxid i jernoxiden, efter dennes fällning med bernstenssyrad ammoniak.
 
+Blansko-meteorstenen underkastad denna behandling, gaf: af syror sönderdelbart mineral 51.5, i syror olösligt 48.5. I ett annat försök erhölls 48.9 af det förra och 51.1 af det sednare, hvaraf synes följa att blandningen icke är fullkomligt homogen på alla punkter.
 
+_Det lösliga mineralets_ analys gaf, beräknadt till 100 delar, följande beståndsdelar:
 
-ifrån afdrogs den qvantitet som åtgått att bilda
-chromjern med chromoxiden.
-
-I analysen af så väl den lösliga som olös-
-liga delen af meteorstenarnes bergart bestämdes
-manganhalten på det sätt, att all erhållen talkjord
-sammanlades och vägdes glödgad, hvarefter den
-upplöstes i saltsyra, och till denna lösning, in-
-gjuten i flaska, indröps en blandad lösning af
-chlorsyrligt och tvåfaldt kolsyradt natron, då
-mangan efter 24 timmar fanns utfälld i form af
-oxid, som glödgades, vägdes och dess vigt afdrogs
-från talkjordens.
-
-Bränning med kolsyradt natron. går bäst, då
-man ej afser att afskilja chromjernet in natura
-och icke eller bestämmandet af den ringa qvan-
-titeten alkali. Äfven i denna metod får man en
-hinterhalt af chromoxid i den med bernstenssy-
-rad ammoniak fällda jernoxiden.
-
-Analys genom Muorvätesyra går lätt. Se-
-dan syran i valtlenbad afdunstat, tillsättes svafvel-
-syra, och återstoden af fluorvälesyra utjagas. Mas-
-san är svart af oupplöst chromjern, som återstår
-efter lösningens utspädning med vatten och diges-
-tion till gipsens upplösning. I öfrigt går ana-
-lysen alldeles såsom vid den med barytjord, se-
-dan denna med svafvelsyra blifvit utfälld. Ki-
-seljordshalten tillkännagifves af förlusten. Äfven
-här finner man ett spår af chromoxid, utdraget jem-
-te lerjorden af kaustikt kali, och en portion chrom-
-oxid i jernoxiden, efter dennes fällning med bern-
-stenssyrad ammoniak.
-
-Blansko-meteorstenen underkastad denna be-
-handling, gaf: af syror sönderdelbart mineral
-51.5, i syror olösligt 48.5. I ett annat försök er-
-hölls 48.9 af det förra och 51.1 af det sednare,
-
-
-hvaraf synes följa alt blandningen icke är. full-
-komligt homogen på alla punkter.
-
-Det lösliga mineralets analys gaf, beräknadt
-till 100 delar, följande beståndsdelar:
-
-Kiseljord =. . 33.084 hålla syre 17,192.
-FTalkjord = av os SÖ:AS oo --- ÄOON
-
-Jernoxidul . . 26.935 --- G.01
-Manganoxidul . 0.465 --- 0.12
-Nickeloxid, tenn-
-
-| 20.52.
-och koppar-haltig 0.465 --- o.riof -
-Tenjordsv stoninsy. fK0xd 2070) OkO
-INGrron 0 ee 0.007. NOS
-
-Kall oe 40420, TN DOT
-Förlust... (en stukt203
-100.000.
+|                                     |          |                    |
+|-------------------------------------|----------|--------------------|
+| Kiseljord                           | 33.084   | hålla syre 17.192. |
+| Talkjord                            | 36.143   | --- 14.00          |
+| Jernoxidul                          | 26.935   | --- 6.01           |
+| Manganoxidul                        | 0.465    | --- 0.12           |
+| Nickeloxid, tenn- och koppar-haltig | 0.465    | --- 0.10           |
+| Lerjord                             | 0.329    | --- 0.10           |
+| Natron                              | 0.857    | --- 0.12           |
+| Kali                                | 0.429    | --- 0.07           |
+| Förlust                             | 1.293    |                    |
+|                                     | 100.000. |                    |
 
 Då man jemförer kiseljordens syrehalt med
 basernas och dervid erinrar, att syror vid mine-
@@ -225,7 +112,6 @@ deraf kan intet bruk göras, då visserligen svaf-
 veljernets utdelning är ojemn, hvarorn man redan
 med blotta ögat kan öfvertyga sig. Jag hade fö-
 reställt mig, att man med en blandning af salt-
-
 
 syra och chlorsyradt kali, utspädd med mycket
 vatten, skulle kunna utdraga endast nickeljern och
@@ -265,7 +151,6 @@ het i den analytiska metoden, men också från en
 varierad blandning af mineralets beståudsdelar.
 
 
-
 e Kols. Baryt. Kols. Natron. i
 Kiseljord SL 57.145 57.012 håller syre 29.626.
 Talkjord . . 21.843 24.956 9.660y
@@ -300,8 +185,6 @@ Jag kunde icke afskilja så mycket deraf, att jag
 kunde företaga en särskilt analys deraf, men de
 försök jag dermed anställde, gåfvo ett lika resul-
 tal med Howards, att nemligen de innehålla sam-
-
-
 
 ma mineral som stenen. Ur pulvret kunde in-
 genting med magneten utdragas, det oaktadt ut-
