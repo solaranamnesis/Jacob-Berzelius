@@ -32,7 +32,7 @@ Det arbete öfver meteorstenar, som jag nu har äran till Kongl. Academien öfve
 
 _1\. Meteorsten från Blansko._
 
-Denna meteorsten hör till det allmännast förekommande slaget, och lagd bredvid dessa, t. ex. från Benares, l'Aigle, Berlongville etc., kan från en af dem ej urskiljas. Beskrifningen af dessa är således beskrifningen af denna. Den har den vanliga, yttre smälta skorpan, en ljusgrå, något rostfläckig brottyta, finkornig, visande här och der runda kulor af lika färg med stenens, hvilka ofta kunna aflossas och lemna då en rund, slät urhålkning efter sig. Den innehåller mycket nickeljern och ganska litet svafveljern i fina partier öfver allt inströdda, visande glänsande punkter, af hvilka några synas rödaktiga i en viss direktion. Dessa äro dock icke annat än anlupet nickeljern. Om stenen stötes till groft pulver, kan nickeljernet utdragas med magneten, samt under vatten tvättas från synbart vidhängande stenämne, så att jernpartiklarne blifva nära silfverhvita. De innesluta dock ännu mycket stenämne i sina sinuositeter och håligheter, hvilket vid jernets upplösning till en del sönderdelas och till en del affaller. I det stycke som användes till mina försök innehölls 17.15 p. c. nickeljern, i hvilka afdrag är skedt för innesluten stenmassa. Under sammansatt mikroskop kan man icke med någon tydlighet urskilja andra blandningsdelar än ett hvitt, splittrigt mineral, som tyckes vara genomskinande och vid rostfläckarne är gulaktigt, samt de metalliska kantiga kornen. Det samma är händelsen när man betraktar i mikroskopet ett groft pulver deraf, men då äro mineralets delar mera genomskinliga. --- På mekanisk väg har jag icke kunnat åtskilja meteorstenen i annat än det hvita mineralet, de runda kulorna och nickeljernet. --- På kemisk väg hafva kunnat åtskiljas: nickeljern, svafveljern , chromjern, ett hvitt mineral, som af syror sönderdelas, och ett dylikt, som af syror ej angripes. Ehuru stenen tyckes vara temligen jemt blandad, är det dock ganska tydligt att nickeljernet på vissa ställen är mera samladt än på andra. Vissa delar af stenen gifva vid rifning ett mörkare pulver än andra.
+Denna meteorsten hör till det allmännast förekommande slaget, och lagd bredvid dessa, t. ex. från Benares, l'Aigle, Berlongville etc., kan från en af dem ej urskiljas. Beskrifningen af dessa är således beskrifningen af denna. Den har den vanliga, yttre smälta skorpan, en ljusgrå, något rostfläckig brottyta, finkornig, visande här och der runda kulor af lika färg med stenens, hvilka ofta kunna aflossas och lemna då en rund, slät urhålkning efter sig. Den innehåller mycket nickeljern och ganska litet svafveljern i fina partier öfver allt inströdda, visande glänsande punkter, af hvilka några synas rödaktiga i en viss direktion. Dessa äro dock icke annat än anlupet nickeljern. Om stenen stötes till groft pulver, kan nickeljernet utdragas med magneten, samt under vatten tvättas från synbart vidhängande stenämne, så att jernpartiklarne blifva nära silfverhvita. De innesluta dock ännu mycket stenämne i sina sinuositeter och håligheter, hvilket vid jernets upplösning till en del sönderdelas och till en del affaller. I det stycke som användes till mina försök innehölls 17.15 p. c. nickeljern, i hvilka afdrag är skedt för innesluten stenmassa. Under sammansatt mikroskop kan man icke med någon tydlighet urskilja andra blandningsdelar än ett hvitt, splittrigt mineral, som tyckes vara genomskinande och vid rostfläckarne är gulaktigt, samt de metalliska kantiga kornen. Det samma är händelsen när man betraktar i mikroskopet ett groft pulver deraf, men då äro mineralets delar mera genomskinliga. --- På mekanisk väg har jag icke kunnat åtskilja meteorstenen i annat än det hvita mineralet, de runda kulorna och nickeljernet. --- På kemisk väg hafva kunnat åtskiljas: nickeljern, svafveljern, chromjern, ett hvitt mineral, som af syror sönderdelas, och ett dylikt, som af syror ej angripes. Ehuru stenen tyckes vara temligen jemt blandad, är det dock ganska tydligt att nickeljernet på vissa ställen är mera samladt än på andra. Vissa delar af stenen gifva vid rifning ett mörkare pulver än andra.
 
 Stenens icke magnetiska del förhåller sig för blåsrör på följande sätt: den ger i lindrig glödgning intet vatten och förändras icke. Brännes den i stycke i öppen luft, så kan lukt af svafvelsyrlighet kännas, stenen blir svart utpå och rödfläckig inuti. Pulver af stenen bränner sig i glödgning rödt och smälter slutligen, men mycket trögare än fältspat, till en svart glaskula med matt yta, alldeles lik den svarta hinna, som utpå omger stenen. Af borax löses det lätt till ett jerngrönt glas. Af fosforsalt äfvenså, men med lemning af kiselskelett. Med kolsyradt natron smälter stenen till en svart kula. Detta är meteorstenars vanliga förhållanden för blåsrör.
 
@@ -42,183 +42,28 @@ Detta mekaniska åtskiljande genom magneten, oaktadt det skulle synas, som vore 
 
 Till undvikande af onödig vidlyftighet, skall jag en gång för alla uppgifva den plan hvarefter analyserna skett, och sedan på hvar särskilt art, der ingen afvikelse från planen ägt rum, anföra endast resultatet.
 
-_A._ Stenpulvret sönderdelades i platinakärl
-med koncentrerad saltsyra, hvaraf en gelatinering
-uppkom, som dock endast var partiell. Under
-dekomposition var kärlet betäckt med ett rent ur-
-glas, som icke angreps, och utmärker frånvaro af
-fluorföreningar. Massan intorkades, fuktades med
-saltsyra, utdrogs efter en stund med vatten. Det
-olösta uttvättades, koktes ännu vått i tvenne om-
-gångar med kolsyradt natron, som före frånsil-
-ningen utspäddes med mycket kokande vatten
-och silades kokhett. Vigten af det då olösta ut-
-visade meteorstenens halt af i syror olösliga för-
+_A._ Stenpulvret sönderdelades i platinakärl med koncentrerad saltsyra, hvaraf en gelatinering uppkom, som dock endast var partiel. Under dekomposition var kärlet betäckt med ett rent urglas, som icke angreps, och utmärker frånvaro af fluorföreningar. Massan intorkades, fuktades med saltsyra, utdrogs efter en stund med vatten. Det olösta uttvättades, koktes ännu vått i tvenne omgångar med kolsyradt natron, som före frånsilningen utspäddes med mycket kokande vatten och silades kokhett. Vigten af det då olösta utvisade meteorstenens halt af i syror olösliga föreningar, och genom subtraktion från den använda qvantitetens vigt, äfven huru stor del af mineralet som af syror blifvit sönderdelad. Lösningen i kolsyradt natron öfvermättades med saltsyra, afdunstades i vattenbad till torrhct, och lemnade vid återupplösning i vatten, kiseljorden af det af syran sönderdelade mineralet. Lösningen i vatten försöktes med ammoniak, att den ingen fällning gaf, och tvättvattnet af kiselsyran afdunstades till torrhet, då återstoden, vid behandling med vatten, lemnade ännu litet kiseljord, som vattnet under tvättningen upptagit.
 
-eningar, och genom subtraktion från den använ-
-da qvanlitetens vigt, äfven huru stor del af mi-
-neralet som af syror blifvit sönderdelad. Lösnin-
-gen i kolsyradt natron öfvermättades med salt-
-syra, afdunstades i vattenbad till torrhet, och lem-
-nade vid återupplösning i vatten, kiseljorden af
-det af syran sönderdelade mineralet. Lösningen
-i vatten försöktes med ammoniak, att den ingen
-fällning gaf, och tvättvattnet af kiselsyran afdun-
-stades till torrhet, då återstoden, vid behandling
-med vatten, lemnade ännu litet kiseljord, som
-vattnet under tvättningen upptagit.
+_B._ Lösningen i saltsyra, af det mineral, som blifvit sönderdeladt, oxiderades med salpetersyra, och lösningen fälldes med kaustik ammoniak, för att i vätskan qvarhålla, jemte en del af talkjorden, kalkjord och alkali. Emedlertid visade sig vid de flesta meteorstenars analys att det af syran sönderdelade mineralet, ingen kalkjord innehåller. Jag fann efteråt, men försent för att kunna begagnas, att planen var felaktig i så måtto, att meteorstenarne innehålla tennoxid, som, innan oxidering med salpetersyra, bör med svafvelbunden vätgas utfällas. Emedlertid är qvantiteten af tennoxid så liten, att den kan alldeles försummas, sedan man blott vet att den finnes.
 
-B. Lösningen 1 saltsyra, af det mineral, som
-blifvit sönderdeladt, oxiderades med salpetersy-
-ra, och lösningen fälldes med kaustik ammoniak,
-för att i vätskan qvarhålla, jemte en del af talk-
-jorden, kalkjord och alkali. Emedlertid : visa-
-de sig vid de flesta meteorstenars analys att det
-af syran sönderdelade mineralet, ingen kalkjord
-innehåller. Jag fann efteråt, men försent för
-att kunna begagnas, att planen var felaktig i
-så målto, att metcecorstenarne innehålla tennoxid,
-som, innan oxidering med salpetersyra, bör med
-svafvelbunden vätgas utfällas. Emedlertid är qvan-
-tileten af tennoxid så liten, att den kan alldeles
-försammas, sedan man blott vet att den finnes:
+Den med kaustik ammoniak fällda vätskan försattes med litet vätesvafladt svafvelammonium, hvaraf den blef svart, och lemnades så i korkad flaska, till dess att vätskan klarnat med en dragning åt gult. Så länge den klarnade vätskan är färglös, kan man ej vara säker att hela nickelhalten är utfälld. Till klarnandet fordrades oftast 24 timmar. Denna metod att afskilja nickeloxiden är den bästa jag känner. Den har dock två fel. Det ena att litet svafvelsyrad nickel åter bildas under tvättning, och det andra, att genom ömsesidig frändskap litet svafvelmagnesium bildas och fäller sig med svafvelnickeln, särdeles om blandningen ställes i värme att klarna. Felet i metoden har dock intet väsendtligt inflytande på analysens resultat. För att af svafvelmetallen bestämma nickeloxidens qvantitet, rostades den, löstes i saltsyra fälldes med kaustikt kali och vägdes tvättad och glödgad. Den så erhållna nickeloxiden höll i alla försöken kopparoxid, som för blåsrör kunde med vanlig reduktion till kopparoxidul framletas. Den visade ännu ett annat förhållande, som väckte min uppmärksamhet, att nemligen, insmält i forforsalt och påblåst i oxidationslågen, gifva ett glas, som, under kallnandet, blef ogenomskinligt och färglöst. Anledningen dertill visade sig sedan vara en halt af tennoxid. Smältes nickeloxiden med fosforsalt och metalliskt tenn tillsattes och sedan påblåstes så mycket att både nickel och koppar i reduceradt tillstånd upptogos af tennet, så erhölls ett, under afsvalning, grumladt glas af blekblå färg, som utmärkte en ringa halt af kobolt i nickeloxiden. Sedan tennoxiden blef funnen såsom en ständig beståndsdel af meteorstenarne, ändrades operationsmetoden så, att lösningen i saltsyra först fälldes med svafvelbundet vätgas, hvars öfverskott aflägsnades genom den silade vätskans afdunstning, hvarefter vätskan i koncentreradt tillstånd blandades med litet salpetersyra, till jernets oxidering, på sätt i öfrigt i början af _B._ är anfördt.
 
-Den med kaustik ammoniak fällda vätskan
-försattes med litet vätesvafladt svafvelammonium,
-hvaraf den blef svart, och lemnades så i korkad
-flaska, till dess att vätskan klarnat med en drag-
-ning åt gult. Så länge den klarnade vätskan är
-färglös, kan man ej vara säker att hela nickelhal-
-ten är utfälld. Till klarnandet fordrades oftast
-24 timmar. Denna metod att afskilja nickel-
-oxiden är den bästa jag känner. Den har dock
-två fel. Det ena att litet svafvelsyrad : nickel
+_C._ Den med vätesvafladt svafvelammonium fällda vätskan, försöktes med oxalsyrad ammoniak på kalk, men höll vanligen icke det ringaste spår deraf. Då efter flera timmar ingen grumling märktes, afdunstades den i vattenbad till torrhet, upphettades i postlinsskål försigtigt till den salpetersyrade ammoniakens förstöring, och derefter till förjagande af salmiak, hvarefter skålen öfver spritlampa hölls lindrigt glödgande, så länge någon lukt af saltsyra kunde kännas. Efter skålens afsvalning fuktades massan med kaustik ammoniak, utdrogs med vatten, och talkjorden togs på filtrum. Den blef vanligen efter glödgning rosenröd af en manganhalt. Lösningen afdunstades i platinadegel till torrhet, salmiaken förjagades, och degelns botten upphettades till börjande glödgning, då ett i kulform hoprulladt filtrum, genomblött af destilleradt vatten inkastades och locket pålades. Ändamålet härmed var att upphetta återstående chlormagnesium i en atmosfer af vattengas för att fullt borttaga all chlorhalt. Då papperet fullt kolat sig, fick degeln afsvalna och papperskolet uttogs, eller också, om det fastnat, förbrändes. Vatten utdrog nu chloralkali, som, efter afdunstning till torrhet, vägdes. Genom tillsats af platinachlorid, afdunstning och saltets behandling med alkohol, bestämdes halten af chlorkalium deri på vanligt sätt. Den i degeln qvarsittande, af kol svarta talkjorden hvitbrändes och vägdes.
 
+_D._ Det i _B_ med kaustik ammoniak fällda löstes i saltsyra och fälldes med kolsyrad ammoniak, emedan jag fann att kaustikt kali derur ingen lerjord utdrog, innan denna nya fällning för sig gått. Nu blef ganska mycket talkjord qvar i lösningen, hvarur den på vanligt sätt erhölls. Den höll vanligen ett ringa spår af nickeloxid.
 
-åter bildas under tvättning, och det andra, att ge-
-nom ömsesidig frändskap litet svafvelmagnesium
-bildas och fäller sig med svafvelnickeln, särdeles
-om blandningen ställes i värme att klarna. Felet
-i metoden har dock intet väsendtligt inflytande
-på analysens resultat. För att af svafvelmetallen
-bestämma nickeloxidens qvantitet, rostades den,
-löstes i saltsyra fälldes med kaustikt kali och väg-
-des tvättad och glödgad. Den så erhållna nic-
-keloxiden höll i alla försöken kopparoxid, som
-för blåsrör kunde med vanlig reduktion till kop-
-paroxidul framletas. Den visade ännu ett annat
-förhållande, som väckte min uppmärksamhet, att
-nemligen, insmält i forforsalt och påblåst i oxi-
-dationslågen, gifva ett glas, som, under kallnandet,
-blef ogenomskinligt och färglöst. Anledningen
-dertill visade sig sedan vara en halt af tennoxid.
-Smältes nickeloxiden med fosforsalt och metalliskt
-tenn tillsattes och sedan påblåstes så mycket att
-både nickel och koppar i reduceradt tillstånd upp-
-togos af tennet, så erhölls ett, under afsvalning,
-grumladt glas af blekblå färg, som utmärkte en
-ringa halt af kobolt i nickeloxiden. Sedan tenn-
-oxiden blef funnen såsom en ständig beståndsdel
-af meteorstenarne, ändrades operationsmetoden så,
-att lösningen i saltsyra först fälldes med svaf-
-velbundet vätgas, hvars öfverskott aflägsnades ge-
-nom den silade vätskans afdunstning, hvarefter
-vätskan i koncentreradt tillstånd blandades med
-litet salpetersyra, till jernets oxidering, på sätt
-i öfrigt i början af B. är anfördt.
+Ur fällningen med kolsyrad ammoniak utdrog kaustikt kali lerjord, men alltid blott ganska litet, hvilket på vanligt sätt afskildes.
 
-C. Den med vätesvafladt svafvelammonium
-fällda vätskan, försöktes med oxalsyrad ammo-
-niak på kalk, men höll vanligen icke det ringa-
-ste spår deraf. Då efter flera timmar ingen grum-
-ling märktes, afdunstades den i vattenbad till torr-
+Den så behandlade återstoden löst i saltsyra fälldes i vattenbads-digestion med bernstenssyrad ammoniak, som afskilde jernoxid.
 
+Ur den så fällda vätskan erhölls med kolsyradt kali, efter ammoniaksalternas sönderdelning och ammoniakens förjagande, nickeloxid, som höll talkjord och litet manganoxid. Att åtskilja talkjord och nickeloxid är ytterst svårt och kanske icke möjligt med full precision. Sedan jag funnit att oxalsyrad ammoniak, äfven som lösning i ättiksyra och behandling med svafvelbunden vätgas af den med ammoniak neutraliserade lösningen, icke gaf nöjaktigt resultat, begagnade jag den glödgade oxidens digestion med utspädd salpetersyra, som lemnar det mesta af oxiden oupplöst, lösningens fällning med vätesvafladt svafvelammonium, vätskans silning och afdunstning, samt salpetersyrans bortbränning för att erhålla talkjorden, hvars vigt afdrogs från den gemensamma af nickeloxid och talkjord. Nickelfri fås ej talkjorden på detta sätt, men det spår den qvarhåller, inflyter ej väsendtligt på resultatet. Talkjorden är efter glödgning igenkänlig från annan, hvit återstod efter bränning, på sin egenskap att återställa den blå färgen på rodnadt lakmuspapper.
 
+_E._ Den i _A_ olösliga delen af meteorstenen, som blifvit behandlad först med saltsyra och sedan i kokning med kolsyradt natron, sönderdelades i olika försök på 3 olika vägar, antingen genom bränning med kolsyrad baryt, eller med kolsyradt natron, eller också genom behandling med fluorvätesyra.
 
-
-het, upphettades i postlinsskål försigtigt till den
-salpetersyrade ammoniakens förstöring, och deref-
-ter till förjagande af salmiak, hvarefter skålen
-öfver spritlampa hölls lindrigt glödgande, så län-
-ge någon lukt af saltsyra kunde kännas. Efter
-skålens afsvalning fuktades massan med kaustik
-ammoniak, utdrogs med vatten, och talkjorden
-togs på filtrum. Den blef vanligen efter glöd-
-gning rosenröd af en manganhalt. Lösningen af-
-dunstades i platinadegel till torrhet, salmiaken
-förjagades, och degelns botten upphettades till bör-
-jande glödgning, då ett i kulform hoprulladt filt-
-rum, genomblött af destilleradt vatten inkastades
-och locket pålades. Ändamålet härmed var att
-upphetta återstående chlormagnesium i en atmos-
-fer af vattengas för att fullt borttaga all chlorhalt.
-Då papperet fullt kolat sig, fick degeln afsvalna
-och papperskolet uttogs, eller också, om det fast-
-nat, förbrändes. Vatten utdrog nu chloralkali,
-som, efter afdunstning till torrhet, vägdes. Genom
-tillsats af platinachlorid, afdunstning och saltets
-behandling med alkohol, bestämdes halten af chlor-
-kalium deri på vanligt sätt. Den i degeln qvar-
-sittande, af kol svarta talkjorden hvitbrändes och
-vägdes.
-
-D. Det i £ med kaustik ammoniak fällda lö-
-stes i saltsyra och fälldes med kolsyrad ammoniak,
-emedan jag fann att kaustikt kali derur ingen ler-
-jord utdrog, innan denna nya fällning för sig gått.
-Nu blef ganska mycket talkjord qvari lösningen,
-hvarur den på vanligt sätt erhölls. Den höll
-vanligen ett ringa spår af nickeloxid.
-
-Ur fällningen med kolsyrad ammoniak ut-
-drog kaustikt kali lerjord, men alltid blott ganska
-litet, hvilket på vanligt sätt afskildes.
-
-
-
-Den så behandlade återstoden löst 1 saltsyra
-fälldes i vattenbads-digestion med bernstenssyrad
-ammoniak, som afskilde jernoxid.
-
-Ur den så fällda vätskan erhölls med kol-
-syradt kali, efter ammoniaksalternas sönderdel-
-ning och ammoniakens förjagande, mnickeloxid,
-som höll talkjord och litet manganoxid. Att åt-
-skilja talkjord och nickeloxid är ytterst svårt och
-kanske icke möjligt med full precision. Sedan jag
-funnit att oxalsyrad ammoniak, äfven som lös-
-ning i ättiksyra och behandling med svafvelbun-
-den vätgas af den med ammoniak neutraliserade
-lösningen, icke gaf nöjaktigt resultat, begagnade
-jag den glödgade oxidens digestion med utspädd
-salpetersyra, som lemnar det mesta af oxiden
-oupplöst, lösningens fällning med vätesvafladt
-svafvelammonium , vätskans silning och afdunst-
-ning, samt salpetersyrans bortbränning för att er-
-hålla talkjorden, hvars vigt afdrogs från den ge-
-mensamma af nickeloxid och talkjord. Nickelfri fås
-ej talkjorden på detta sätt, men det spår den qvar-
-kåller, inflyter ej väsendtligt på resultatet. Talk-
-jorden är efter glödgning igenkänlig från annan,
-hvit återstod efter bränning, på sin egenskap att
-återställa den blå färgen på rodnadt lakmuspapper.
-
-E. Den i A olösliga delen af meteorstenen,
-som blifvit behandlad först med saltsyra och se-
-dan i kokning med kolsyradt natron, sönderdela-
-des i olika försök på 3 olika vägar, antingen ge-
-nom bränning med kolsyrad baryt, eller med
-kolsyradt natron, eller också genom behandling
-med fluorvätesyra.
-
-Bränning med kolsyrad baryt. Brända mas-
+_Bränning med kolsyrad baryt._ Brända mas-
 san, som utsattes för en mycket sträng kolungs-
 hetta, var ej smält. Dess färg hade blifvit grå.
 Gelatinerades med saltsyra såsom vanligt. Kisel-
-
-jorden
-
-
 
 jorden var mörkgrå i vått tillstånd, men hvit i
 torkadt. Efter upplösning i kolsyradt natron ge-
@@ -407,7 +252,7 @@ baserna lika qvantitet syre, samt att det öfver-
 skott, som visar sig i det sednare, härrörer från
 svafveljern, beräknadt såsom oxidul. Det kan
 äfvenledes härröra från en inblandning i stenen
-af oxidum ferroso-ferricum , men hvars närvaro
+af oxidum ferroso-ferricum, men hvars närvaro
 icke kan bestämdt utrönas vid andra tillfällen än
 der den utgör en betydligare myckenhet, hvar-
 på vi i andra meteorstenar icke sakna exempel.
@@ -484,7 +329,7 @@ skildes i pulverform. Gången af analysen var
 följande: meteorjernet 1.137, upplöstes i saltsyra,
 gasen leddes genom en blandning af salpetersy-
 rad silfveroxid med ammoniak. Deraf fälldes
-svafvelsilfver , som togs på ett vägdt filtrum och
+svafvelsilfver, som togs på ett vägdt filtrum och
 vägde 0.0215 gr. = 0.0028 gr. svafvel. Efter
 slutad åverkan af saltsyran syntes svarta punkter
 bland det olösta. Genom tillsats af salpetersyra
@@ -1424,7 +1269,7 @@ och vatlen är dock ännu icke känd. Mera ana-
 logt med telluriskt organiska föreningar, är det
 ämne som vatten utdrager tillika med bittersal-
 tet. Denna halt af ämnen som innehålla kol i
-meteorjorden , har analogi med humushalten i den
+meteorjorden, har analogi med humushalten i den
 telluriska jorden; men den är förmodligen till-
 kommen på annat sätt, har andra egenskaper, och
 synes icke berättiga att förmoda en bestämmelse
@@ -1621,7 +1466,7 @@ och kobolt,
 
 
 
-på sin syrehalt , reducerades 0.981 gr. deraf ge-
+på sin syrehalt, reducerades 0.981 gr. deraf ge-
 nom glödgning i en ström af vätgas. En silfver-
 hvit metall erbölls, som vägde 0.771. Den ha-
 de, efter räkning från nickelddidehs vänliga sy-
@@ -1761,7 +1606,7 @@ dades i en;flaska med kaustik ammoniak, utan;
 att någon fällning uppkom; hvaraf frånvaro: af
 tålkjord deri ådagalägges. Nu tillsattes chlorcal-
 cium, så länge någon fällning uppkom, flaskan,
-korkades och. vätskan lemnades' att klarna. , Den
+korkades och. vätskan lemnades' att klarna., Den
 afsatte fosforsyrad kalkjord, som 'glödgad: vägde
 0.023 gr., gaf för blåsrör fosforjern i ymnighet
 och svarar emot 0.0049 gr. fosfor.
@@ -1771,7 +1616,7 @@ niak, och jernet utfälldes med bernstenssyrad am-
 moniak, som gaf 0.021 gr. jernoxid, svarande
 emot 0.01456 gr. jern. Den med bernstenssyrad
 ammoniak fällda lösningen blef blå af ammoniak,
-utan att fällas. , Kaustikt kali fällde en flockig,
+utan att fällas., Kaustikt kali fällde en flockig,
 voluminös, blekt grön fällning, som tydligt in-
 nehöll något. mer än nickeloxid. Den vägde glöd-
 gad 0.011735., Behandlad på förut anförda sätt
@@ -2081,7 +1926,7 @@ städtska figurer. Då en sådan etsad yta anlöpes,
 efter polering, blir jernet mörkblått och nickel-
 legeringen brandgul. Jernet innehåller dessutom
 små qvantiteter af kobolt, magnesium, mangan,
-tenn , koppar, svafvel, kol och stundom spår äf-
+tenn, koppar, svafvel, kol och stundom spår äf-
 ven af fosfor; svafvel och kol bortgå med vät-
 gasen. Tenn och koppar upplösas, äfven ulan
 
@@ -2200,7 +2045,7 @@ Anmärkningsvärdt är, alt den nästan aldrig inne-
 håller kalkjor d.
 
 5:o I syror olösliga silikater af fikon
-kalkjord , jernoxidul , AT PESO lerjord
+kalkjord, jernoxidul, AT PESO lerjord
 kali och natron, 1 hvilka kiseljordens syre är 2
 gr: basernes. Desse utgöra troligen mer än ett
 mineral. Man kunde gissa på el pyroxenarladt
@@ -2488,7 +2333,7 @@ visade ail den väsendtligt tillhör mäleorstoba ge.
 
 Kalium anmärktes först af VAUQuErin, Na-
 triuin köorl derefter af StromeserR. Culcium, Ma-
-gnesium , Aluminium inuehållas i dessas oxider,
+gnesium, Aluminium inuehållas i dessas oxider,
 som äre meteorslenarnes allmänna beståndsdelar.
 
 (v. HorcerR har uppgifvit, all han funnit me-
