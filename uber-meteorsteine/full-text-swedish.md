@@ -95,107 +95,30 @@ _Det lösliga mineralets_ analys gaf, beräknadt till 100 delar, följande best�
 | Förlust                             | 1.293    |                    |
 |                                     | 100.000. |                    |
 
-Då man jemförer kiseljordens syrehalt med
-basernas och dervid erinrar, att syror vid mine-
-ralets sönderdelning utveckla svafvelbundet väte,
-så finner man lydligt, att här en portion jern
-måste vara upplagel såsom oxideradt, hvilket egent-
-ligen varit svafvelbundet. Deririgenom har ock en
-förlust uppkommit vid resultatets sammanräkning,
-emedan svaflets atom är dubbelt så tung som
-syrets. Del är en ofullkomlighet i undersöknin-
-gen, att svaflets qvantitet ej blifvit bestämd, men
-det hade hindrat noggranheten af andra bestäm-
-manden, som jag ansåg vigtigare. Väl har jag
-försökt på annan portion bestämma den, men
-deraf kan intet bruk göras, då visserligen svaf-
-veljernets utdelning är ojemn, hvarorn man redan
-med blotta ögat kan öfvertyga sig. Jag hade fö-
-reställt mig, att man med en blandning af salt-
+Då man jemförer kiseljordens syrehalt med basernas och dervid erinrar, att syror vid mineralets sönderdelning utveckla svafvelbundet väte, så finner man lydligt, att här en portion jern måste vara upptaget såsom oxideradt, hvilket egentligen varit svafvelbundet. Derigenom har ock en förlust uppkommit vid resultatets sammanräkning, emedan svaflets atom är dubbelt så tung som syrets. Det är en ofullkomlighet i undersökningen, att svaflets qvantitet ej blifvit bestämd, men det hade hindrat noggranheten af andra bestämmanden, som jag ansåg vigtigare. Väl har jag försökt på annan portion bestämma den, men deraf kan intet bruk göras, då visserligen svafveljernets utdelning är ojemn, hvarom man redan med blotta ögat kan öfvertyga sig. Jag hade föreställt mig, att man med en blandning af saltsyra och chlorsyradt kali, utspädd med mycket vatten, skulle kunna utdraga endast nickeljern och svafveljern och på detta sätt få stenpulvret alldeles fritt derifrån; i detta afseende underkastade jag 3 1/2 gramm groft stött stenpulver denna behandling. Jag kunde derur utfälla 0.13 gr. svafvelsyrad baryt, hvilket svarar emot 1/2 procent svafvel på hela stenen, nickeljernet inberäknadt, hvilket utvisar 1 1/5 procent i det lösliga mineralet ensamt; men vid det olöstas upphettande ganska lindrigt fann jag, att en portion svafvel, som syran afskilt utan att oxidera den, dels sublimerades dels fattade eld, så att svafvelhalten är större. Vid detta försök fanns också, att äfven den utspädda syran upplöser betydligt af det lösliga mineralet, med kiseljord och allt, och vid inhämtandet af denna erfarenhet, hade jag förlorat ungefär hälften af hvad jag kunde till undersökningen använda. --- Efter denna digression tror jag mig hafva gjort det ganska sannolikt, att i det i syror lösliga meteormineralet hålla kiseljorden och baserna lika qvantitet syre, samt att det öfverskott, som visar sig i det sednare, härrörer från svafveljern, beräknadt såsom oxidul. Det kan äfvenledes härröra från en inblandning i stenen af oxidum ferroso-ferricum, men hvars närvaro icke kan bestämdt utrönas vid andra tillfällen än der den utgör en betydligare myckenhet, hvarpå vi i andra meteorstenar icke sakna exempel.
 
-syra och chlorsyradt kali, utspädd med mycket
-vatten, skulle kunna utdraga endast nickeljern och
-svafveljern och på detta sätt få stenpulvret all-
-deles fritt derifrån; 1 detta afseende underkasta-
-de jag 31 gramm groft slött stenpulver denna be-
-handling. Jag kunde derur utfälla o.13 gr. svaf-
-velsyrad baryt, hvilket svarar emot 3 procent
-svafvel på hela stenen, nickeljernet inberäknadt,
-hvilket utvisar 11 procent i det lösliga mineralet
-ensamt; men vid det olöstas upphettande ganska
-lindrigt fann jag, att en portion svafvel, som sy-
-ran afskilt utan att oxidera den, dels sublimerades
-dels fattade eld, så att svafvelhalten är större.
-Vid detta försök fanns också, att äfven den ut-
-spädda syran upplöser betydligt af det lösliga
-mineralet, med kiseljord och allt, och vid inhäm-
-tandet af denna erfarenhet, hade jag förlorat un-
-gefär hälften af hvad jag kunde till undersöknin-
-gen använda. --- Efter denna digression tror jag
-mig hafva gjort det ganska sannolikt, att i det i
-syror lösliga meteormineralet hålla kiseljorden och
-baserna lika qvantitet syre, samt att det öfver-
-skott, som visar sig i det sednare, härrörer från
-svafveljern, beräknadt såsom oxidul. Det kan
-äfvenledes härröra från en inblandning i stenen
-af oxidum ferroso-ferricum, men hvars närvaro
-icke kan bestämdt utrönas vid andra tillfällen än
-der den utgör en betydligare myckenhet, hvar-
-på vi i andra meteorstenar icke sakna exempel.
+_Det olösliga mineralet_ analyserades dels med kolsyrad baryt och dels med kolsyradt natron, jag skall anföra båda resultaten. Skiljaktigheten är ej stor, och kan härröra från skiljaktighet i den analytiska metoden, men också från en varierad blandning af mineralets beståndsdelar.
 
-Det olösliga mineralet analyserades dels
-med kolsyrad baryt och dels med kolsyradt na-
-tron, jag skall anföra båda resultaten. Skiljaktig-
-heten är ej stor, och kan härröra från skiljaktig-
-het i den analytiska metoden, men också från en
-varierad blandning af mineralets beståudsdelar.
+|                                      | Kols. Baryt. | Kols. Natron. |                       |
+|--------------------------------------|--------------|---------------|-----------------------|
+| Kiseljord                            | 57.145       | 57.012        | håller syre 29.626.   |
+| Talkjord                             | 21.843       | 24.956        | 9.660                 |
+| Kalkjord                             | 3.106        | 1.437         | 0.412                 |
+| Jernoxidul                           | 8.592        | 8.362         | 1.904                 |
+| Manganoxidul                         | 0.724        | 0.557         | 0.124                 |
+| Nickeloxid, tenn- och koppar-haltig. | 0.021        | ---           | ---                   |
+| Lerjord                              | 5.590        | 4.792         | 2.238                 |
+| Natron                               | 0.931        | ---           |                       |
+| Kali                                 | 0.010        | ---           |                       |
+| Chromjern (tennhaltigt)              | 1.533        | 1.306         |                       |
+| Förlust                              | 0.505        | 1.578         |                       |
+|                                      | 100.000      | 100.000.      |                       |
 
+Förlusten i den sednare analysen består i hufvudsaken af alkalit. Man ser att kiseljordens syre är 2 gånger basernas. Lägger man alkaliernas syrehalt till, så kommer det ännu närmare det rätta talet. Möjligen innehålles deribland en ringa portion af något mineral, hvari kiseljordens syre är 3 gånger basernas. Sådant kan ej afgöras, när man måste analysera blandningar.
 
-e Kols. Baryt. Kols. Natron. i
-Kiseljord SL 57.145 57.012 håller syre 29.626.
-Talkjord . . 21.843 24.956 9.660y
-IKalkjord: > vers AhOÖ URI OM
-Jernoxidul . . 8.592 8.362 1.904 ;
-Manganoxidul . 0.724 0.557 0.124014.338.
-Nickeloxid, tenn-
-och koppar-haltig 0.021 --- ----
-Terjord PT RYS HAG:bge lt ä4ingan JG
-Nato a ers 00 I ---
-Kali s evendt O:0hO ---
-Chromjern (lenn-
-Raltigt)y >. 119303, 0 1,300
-Förlust: «.0. 96308: 14978
+Jag har nämt att i meteorstensmassan finnas _runda kulor_. Detta är ett ganska vanligt förhållande i meteorstenar. Redan Howard hade iakttagit dem och bjudit till att analysera dem. Jag kunde icke afskilja så mycket deraf, att jag kunde företaga en särskilt analys deraf, men de försök jag dermed anställde, gåfvo ett lika resultat med Howards, att nemligen de innehålla samma mineral som stenen. Ur pulvret kunde ingenting med magneten utdragas, det oaktadt utvecklades lukt af svafvelbundet väte, då saltsyra påslogs. En del af massan gelatinerade, en annan del förändrades icke af syran.
 
-100.000 100.000.
-
-Förlusten i den sednare analysen består 1
-bufvudsaken af alkalit. Man ser att kiseljordens
-syre är 2 gånger basernas. Lägger man alkalier-
-nas syrebhalt till, så kommer det ännu närmare
-det rätta talet. Möjligen innebålles deribland en
-ringa portion af något mineral, hvari kiseljordens
-syre är 3 gånger basernas. Sådant kan ej afgö-
-ras, när man måste analysera blandningar.
-
-Jag har nämt att i meteorstensmassan fin-
-nas runda kulor. Detta är ett ganska vanligt
-förhållande i meteorstenar. Redan Howarp ha-
-de iakttagit dem och bjudit till att analysera dem.
-Jag kunde icke afskilja så mycket deraf, att jag
-kunde företaga en särskilt analys deraf, men de
-försök jag dermed anställde, gåfvo ett lika resul-
-tal med Howards, att nemligen de innehålla sam-
-
-ma mineral som stenen. Ur pulvret kunde in-
-genting med magneten utdragas, det oaktadt ut-
-vecklades lukt af svafvelbundet väte, då saltsyra
-påslogs. En del af massan gelatinerade, en an-
-nan del förändrades icke af syran.
-
-Jag anförde ofvanför, att meteorstenens ana-
-lys delade sig i undersökningen af dess icke ma-
-gnetiska del, och af den del som följer magne-
-ten. Jag kommer nu till denna sednare.
+Jag anförde ofvanför, att meteorstenens analys delade sig i undersökningen af dess icke magnetiska del, och af den del som följer magneten. Jag kommer nu till denna sednare.
 
 För att så mycket som möjligt var, rena den-
 ne från stenpulver, gneds den i en mortel med
