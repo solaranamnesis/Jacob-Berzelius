@@ -120,693 +120,179 @@ Jag har nämt att i meteorstensmassan finnas _runda kulor_. Detta är ett ganska
 
 Jag anförde ofvanför, att meteorstenens analys delade sig i undersökningen af dess icke magnetiska del, och af den del som följer magneten. Jag kommer nu till denna sednare.
 
-För att så mycket som möjligt var, rena den-
-ne från stenpulver, gneds den i en mortel med
-fingrarne under vallen, så länge nytt påslaget
-vatten grumlades. Deraf blefvo kornen, som i
-allmänhet voro små, fullt metallglänsande. Det
-oaktadt inträffade dock, att de i sina håligheter
-inneslöto ganska mycket stlenmassa, som först vid
-upplösningen blef fri, och hvarigenom analysen
-blef mera invecklad, än som bordt ske, emedan
-det lösliga mineralets beståndsdelar blandade sig
-med meteorjernets, under det att det olösliga af-
-skildes i pulverform. Gången af analysen var
-följande: meteorjernet 1.137, upplöstes i saltsyra,
-gasen leddes genom en blandning af salpetersy-
-rad silfveroxid med ammoniak. Deraf fälldes
-svafvelsilfver, som togs på ett vägdt filtrum och
-vägde 0.0215 gr. = 0.0028 gr. svafvel. Efter
-slutad åverkan af saltsyran syntes svarta punkter
-bland det olösta. Genom tillsats af salpetersyra
-och liten digestion försvunno dessa. Olöst mine-
-ral vägde 0.1550.
+För att så mycket som möjligt var, rena denne från stenpulver, gneds den i en mortel med fingrarne under vatten, så länge nytt påslaget vatten grumlades. Deraf blefvo kornen, som i allmänhet voro små, fullt metallglänsande. Det oaktadt inträffade dock, att de i sina håligheter inneslöto ganska mycket stenmassa, som först vid upplösningen blef fri, och hvarigenom analysen blef mera invecklad, än som bordt ske, emedan det lösliga mineralets beståndsdelar blandade sig med meteorjernets, under det att det olösliga afskildes i pulverform. Gången af analysen var följande: meteorjernet 1.137, upplöstes i saltsyra, gasen leddes genom en blandning af salpetersyrad silfveroxid med ammoniak. Deraf fälldes svafvelsilfver, som togs på ett vägdt filtrum och vägde 0.0215 gr. = 0.0028 gr. svafvel. Efter slutad åverkan af saltsyran syntes svarta punkter bland det olösta. Genom tillsats af salpetersyra och liten digestion försvunno dessa. Olöst mineral vägde 0.1550.
 
-Lösningen oxiderades med salpetersyra, jern-
-oxiden utfälldes med bernstenssyrad ammoniak.
-Den vägdes glödgad och lemnade, vid återupplös-
-ning litet kiseljord olöst. Utfälld med vätesvafladt
-svafvelammonium, och vätskan undersökt på halt
-af fosforsyra, erhölls ett ringa spår, som dock,
+Lösningen oxiderades med salpetersyra, jernoxiden utfälldes med bernstenssyrad ammoniak. Den vägdes glödgad och lemnade, vid återupplösning litet kiseljord olöst. Utfälld med vätesvafladt svafvelammonium, och vätskan undersökt på halt af fosforsyra, erhölls ett ringa spår, som dock, äfven i form af fosforsyrad kalk, ej kunde vägas. Ur den med bernstenssyrad ammoniak fällda vätskan afskildes nickeloxid, så nära som möjligt, med vätesvafladt svafvelammonium, och denna fällning rostades och åtskildes i nickeloxid och koboltoxid på Phillipska sättet med ammoniak och kali. Nickeloxiden återupplöstes i saltsyra och gaf med svafvelbundet väte ett ringa, först gulaktigt, men i torkning nära svart precipitat, hvari med blåsrör upptäcktes både tenn och koppar.
 
-
-
-äfven i form af fosforsyrad kalk, ej kunde vägas.
-Ur den med bernstenssyrad ammoniak fällda vät-
-skan afskildes nickeloxid, så nära som möjligt, med
-vätesvafladt svafvelarmmonium, och denna fäli-
-ning rostades och åtskildes i nickeloxid och ko-
-boltoxid på Phillipska sättet med ammoniak och
-kali. Nickeloxiden återupplöstes i saltsyra och
-gaf med svafvelbundet väte ett ringa, först gul-
-aktigt, men i torkning nära svart precipitat, hvari
-med blåsrör upptäcktes både tenn och koppar.
-
-Den med bernstenssyrad ammoniak fällda
-
-vätskan innehöll, efter metallernas frånskiljande,
-talkjord, kalkjord och kiseljord, som på vanligt
-sätt afskildes.
+Den med bernstenssyrad ammoniak fällda vätskan innehöll, efter metallernas frånskiljande, talkjord, kalkjord och kiseljord, som på vanligt sätt afskildes.
 
 Analysen gaf af de anförda 1.137 gr.
-Jennoxiduiiayie map i IRK
-Nikeloxid "7 000-740 2070 10.0555
-Tennoxid och kopparoxid 0.0030
-Koboltoxid . . . « «+ 0.0040
-SValvel mp kr ER N0:002G
-NISCH Ord des henna dn OO
-Talkjord AR SA ESKS SE (00 OJ LEO)
-Kalkjoörd "3 KORT MN 00090
 
-Olöst mineral . . . . 01550
-1.4838.
+|                         |         |
+|-------------------------|---------|
+| Jernoxid                | 1.1940  |
+| Nikeloxid               | 0.0555  |
+| Tennoxid och kopparoxid | 0.0050  |
+| Koboltoxid              | 0.0040  |
+| Svafvel                 | 0.0028  |
+| Kiseljord               | 0.0275  |
+| Talkjord                | 0.0310  |
+| Kalkjord                | 0.0090  |
+| Olöst mineral           | 0.1550  |
+|                         | 1.4838. |
 
-Här måste, för att göra detta resultat använd-
-bart, det inblandade mineralet afräknas. Jag an-
-tager att talkjordshalten utvisar huru mycket af
-jernoxiden som tillhört upplöst mineral, efter
-den förut anförda analysen af detta, hvilket blir
-0.0252, svarande emot 0.023 jernoxidul. Deraf
+Här måste, för att göra detta resultat användbart, det inblandade mineralet afräknas. Jag antager att talkjordshalten utvisar huru mycket af jernoxiden som tillhört upplöst mineral, efter den förut anförda analysen af detta, hvilket blir 0.0252, svarande emot 0.023 jernoxidul. Deraf följer då, att från det använda 1.137 bör 0.2455 afdragas för instängdt mineral.
 
+Af det som då återstår har 0.8115 varit jern, 0.0437 nickel, 0.0030 kobolt, 0.0040 tenn och koppar, och 0.0028 svafvel, hvilka sammanlagda med 0.2455 utgöra 1.1105 och utvisa en förlust 0.028, eller nära 2 1/2 procent, troligen utgjord af insupen fuktighet, som ej blifvit fullt utjagad ur det icke synbara, och till sin qvantitet oförmodadt myckna, i meteorjernet innestängda stenpulvret. Efter denna beräkning innehåller meteorjernet:
 
+|                   |        |
+|-------------------|--------|
+| Jern              | 93.816 |
+| Nickel            | 5.053  |
+| Kobolt            | 0.347  |
+| Tenn och koppar   | 0.460  |
+| Svafvel           | 0.324  |
+| Spår af fosfor    | ---    |
+|                   |100.000.|
 
+Det faller af sig sjelft att stor precision icke kan ligga i dessa tal, härledda från en mera komplicerad analys, än som varit händelsen, i fall stenpulver ej medföljt. Svafvelhalten antyder inblandning af svafveljern. Vi skola längre ned finna att meteorjern är svafvelhaltigt, men här är qvantiteten för stor för att hafva tillhört smidigt nickeljern.
 
+I afseende på bestämmandet af tenn- och fosforhalten, betjente jag mig af de förut, pag. 133 omtalade 3.5 gr. stenpulver, som blifvit använda till bestämmande af svafvelhalten. Svafvelbundet väte frambragte en gul grumling, hvari mycket öfverskjutande svafvel befanns. Den lemnade efter rostning en återstod, som med borax och kolsyradt natron reducerad gaf ett tennkorn. Oberedd derpå, och väntande endast svafvel i den gulaktiga fällningen, hade jag icke vägt den brända återstoden före blåsrörsförsökets anställande.
 
-följer då, alt från det använda 1,137 bör 0.2455
-afdragas för instängdt mineral.
+Jag befarade nu tenn i mitt distillerade vatten; en omständighet, som är ingenting mindre än ovanlig. Men det fanns icke hafva gifvit upphof åt denna tennhalt. Jag härledde den då från saltsyran. Det inträffar nemligen ofta vid dennas beredning, att i början ett kristalliniskt anflog visar sig i förlaget och i afledningsröret, hvilket under operations fortgång försvinner. Detta flygtiga ämne är tennchlorid. Tennet fanns då förut i svafvelsyran. Min saltsyra, som, utspädd med mycket vatten, utsattes för en ström af svafvelbundet väte, blef omsider oklar och efter flera dagar hade derur sjunkit ett brungult ämne i ganska liten myckenhet, så att det knappt kunde till blåsrörsförsöket uppsamlas, men det innehöll verkligen tenn. Då det erhållits af ungefär 1/3 skålpund concentrerad saltsyra, och vid mina försök ej mer än ett par eller tre grammer i sender användes, så var det klart att denna halt af tenn och koppar härrörde från meteorstenen, hvarom jag blef förvissad, då tenn sedan utdrogs äfven ur chromjernet. Emedlertid anställdes i alla fall, der materialet dertill ej var redan förbrukadt, motprof med saltsyra och vatten, som båda hvar för sig blifvit mättade med svafvelbundet väte, och gasen sedan med värme utdrifven; men resultatet blef detsamma i afseende på tennhalten.
 
-Af det som då återstår har 0.8115 varit
-jern, 0.0437 nickel, 0.0030 kobolt, 0.0040 tenn
-och -koppar, och 0.0028 svafvel, hvilka samman-
-lagda med 0.2455 utgöra 1.1105 och ulvisa en
-förlust 0.028, eiler nära 21 procent, troligen ut-
-gjord af insupen fuktighet, som ej blifvit fullt
-utjagad ur det icke synbara, och tull sin qvanti-
-tet oförmodadt myckna, i metleorjernet innestäng-
-da stenpulvret, Efter denna beräkning innehål-
-ler meteorjernet:
+För att försäkra mig om fosforhalten i detta meteorjern begagnade jag åter den nyss åberopade lösningen af 3.5 gr. stenpulver, hvarur metallhalten utfälldes med kolsyrad ammoniak, fällningen löstes i saltsyra, lösningen försattes med vätesvafladt svafvelammonium, och när svafveljernet afskilt sig, frånsilades den gula vätskan, öfvermättades med saltsyra, afdunstades till torrhet, återupplöstes i vatten och blandades med chlorcalcium och kaustik ammoniak, hvaraf erhölls 0.012 gr. fosforsyrad kalk.
 
-WO RER FA OS FÖ
-Need ARA DI
-Iobolbas ra at OA
-Tenn och koppar = 0.460
+I mineralogiskt hänseende kan således meteorstenen från Blansko anses blandad af
 
-Svafvel Sae Sa GEA
-Spår af fosfor =. et
-100.000.
+Nickeljern, som håller kobolt, tenn, koppar, svafvel och fosfor = 17.15.
 
-Det faller af sig sjelft att stor precision icke
-kan ligga i dessa tal, härledda från en mera
-komplicerad analys, än som varit händelsen, i fall
-stenpulver ej medföljt. Svafvelhalten antyder in-
-blandning af svafveljern. Vi skola längre ned
-finna att meteorjern är svafvelhaltigt, men här är
-qvantiteten för stor för alt hafva tillhört smidigt
-nickeljern.
+Silikat af talkjord och jernoxidul, hvari basens och kiseljordens syre är lika, samt litet svafveljern = 42.67.
 
-I afseende på bestämmandet af tenn- och
-fosforhalten, betjente jag mig af de förut, pag. 133
-omtalade 3.5 gr. stenpulver, som blifvit använ-
-da till bestämmande af svafvelhalten. Svafvel-
-bundet väte frambragte en gul grumling, hvari
-mycket öfverskjutande svafvel befanns. Den lem-
+Silikat af talkjord och jernoxidul, blandadt med silikater af alkali, kalk och lerjord, hvari kiseljordens syre är 2 gånger basens = 39.43.
 
+Chromjern, smittadt af tennmalm = 0.75.
 
+Att dessa blandningsdelars relativa qvantiteter äro underkastade variationer i olika stycken af stenen, torde knappast böra betviflas.
 
+---
 
+Jag har tvenne gånger förut meddelat Kongl. Academien undersökningar af meteorstenar. Den ena af dessa* hade till föremål en sten som fallit i Macedonien. Dess utseende är betydligt olikt det af meteorstenen från Blansko; men de resultat, som vid analysen erhållits, liknade så de nu anförda, att jag ansåg denna öfverensstämmelse böra eftersökas hos andra. Meteorstenen från Macedonien höll meteorjern, hvari fanns 6 p. c. kobolthaltig nickel, mycket svafveljern, och det omagnetiska var delbart i 47 1/2 p. c. lösligt och 52 1/2 p. c. olösligt mineral. I det lösliga höllo baserna mera än lika syre med kiseljorden, ända till 1 1/2 gång så mycket. Det är ganska troligt att detta är en följd, snarare af inblandadt svafveljern och magnetisk jernmalm, än af ett så basiskt silikats närvaro. Det olösliga utgjordes af silikater af talkjord, jernoxidul, kalkjord, alkali och lerjord, hvari kiseljordens syre är 2 gånger basernas.* Den andra analysen* var anställd på ett meteorjern funnet i Böhmen, innehållande jern 92.473, nickel 5.667, kobolt 0.235 med spår af svafvel och en olöslig förening af fosfor med jern och nickel.
 
+*) Kongl. Vet. Acad. Handlingar, 1828.
 
-nade efter rostning en återstod, som med borax
-och kolsyradt natron reducerad gal ett tennkorn.
-Oberedd derpå, och väntande endast svafvel i
-den gulaktiga fällningen, hade jag icke vägt den
-brända återstoden före blåsrörsförsökets anstäl-
-lande.
-
-Jag befarade nu tenn 1 mitt distillerade vat-
-ten; en omständighet, som är ingenting mindre
-än ovanlig. Men det fanns icke hafva gifvit upp-
-hof åt denna tennhalt. Jag härledde den då från
-saltsyran. Det inträffar nemligen ofta vid den-
-nas beredning, att i början ett kristalliniskt an-
-flog visar sig i förlaget och i afledningsröret, hvil-
-ket under operations fortgång försvinner. Detta
-flygtiga ämne är tennehlorid. ”Tennet fanns då
-förut i svafvelsyran. Min saltsyra, som, utspädd
-med mycket vatten, utsattes för en ström af svaf-=
-velbundet väte, blef omsider oklar och efter fle-
-ra dagar hade derur sjunkit ett brungult ämne i
-ganska liten myckenhet, så att det knappt kunde
-till blåsrörsförsöket uppsamlas, men det innehöll
-verkligen tenn. Då det erhållits af ungefär 1
-skålpund concentrerad saltsyra, och vid mina för-
-sök ej mer än ett par eller tre grammer i sen-
-der användes, så var det klart att denna halt af
-tenn och koppar härrörde från meteorstenen, hvar-
-om jag blef förvissad, då tenn sedan utdrogs äf-
-ven ur chromjernet. Emedlertid anställdes i al-
-la fall, der materialet dertill ej var redan för-
-brukadt, motprof med saltsyra och vatten, som
-båda hvar för sig blifvit mättade med svafvel-
-bundet väte, och gasen sedan med värme utdrif-
-ven; men resultatet blef detsamma i afseende på
-tennhalten.
-
-För att försäkra mig om fosforhalten i det-
-ta meteorjern begagnade jag åter den nyss åbe-
-
-
-
-ropade lösningen af 3.5 gr. stenpulver, hvarur
-metallbalten utfälldes med kolsyrad ammoniak,
-fällningen löstes i saltsyra, lösningen försattes
-med vätesvafladt svafvelammonium, ak när svaf-
-veljernet afskilt sig, frånsilades den gula vätskan,
-öfvermättades med saltsyra, afdunstades till torr-
-bet, återupplöstes i vatten och blandades med chlor-
-caleium och kaustik ammoniak, hvaraf erhölls
-0.012 gr. fosforsyrad kalk.
-
-I mineralogiskt hänseende kan således meteor-
-stenen från Blansko anses blandad af
-
-Nickeljern, som håller kobolt, tenn, koppar, svaf-
-
-FREI fOSskop 06 fade ge DE eta ie NÄK.
-Silikat af talkjord och jernoxidul, hvari
-
-basens och kiseljordens syre är lika, samt
-
-fitelnsvalveljenm 14. » eve MN rn YA RÖY
-Silikat af talkjord och jernoxidul, blan-
-
-dadt med silikater af alkali, kalk och ler-
-
-jord, hvari kiseljordens syre är 2 gån-
-
-RER ELSA on a vat telaln a, ee JGA
-Chromjern, smiltadt af tennmalm ---. + 0.75.
-
-Att dessa blandningsdelars relativa qvanti-
-teter äro underkastade variationer i olika stycken
-af stenen, torde knappast böra betviflas.
-
---- ---
-
-Jag har tvenne gånger förut meddelat Kongl.
-Möldemien undersökningar af meteorstenar. Den
-ena af dessa ") hade till föremål en sten som
-fallit i Macedonien. Dess utseende är betydligt
-
-") Kongl. Vet. Acad. Handlingar, 1828.
-
-
-olikt det af meteorstenen från Blansko; men de
-resultat, som vid analysen erhållits, liknade så de
-nu anförda, att jag ansåg denna öfverensstäm-
-melse böra eftersökas hos andra. Meteorstenen
-från Macedonien höll meteorjern, hvari fanns 6
-p- ce. kobolthaltig nickel, mycket svafveljern, och
-det omagnetiska var delbart i 4721 p. c. lösligt
-och 3221 p. c. olösligt mineral. I det lösliga höl-
-lo baserna mera än hka syre med kiseljorden,
-ända till 13 gång så mycket. Det är ganska tro-
-ligt att detta är en följd, snarare af inblandadt
-svafveljern och magnetisk jernmalm, än af ett så
-basiskt silikats närvaro. Det olösliga utgjordes af
-
-Me Me
-
-på ett meteorjern funnet i Böhmen, innehållande
-jern 92.473, nickel 5.667, kobolt o:235 med spår
-af svafvel och en olöslig förening af fosfor med
-jern och nickel.
-
-Den frågan var alltså ganska naturlig: äro alla
-meteorstenar blandade af nickeljern och svafvel-
-jern med silikater af talkjord och jernoxidul lös-
-liga i syror, och silikater af dessa, äfvensom af
-kalkjord, lerjord och alkali olösliga deri, jemte
-chromjern och tennmalm; är vidare meteorjernet
-alltid tennhaltigt, alltid blandadt med fosfor-
-föreningar?
+Den frågan var alltså ganska naturlig: äro alla meteorstenar blandade af nickeljern och svafveljern med silikater af talkjord och jernoxidul lösliga i syror, och silikater af dessa, äfvensom af kalkjord, lerjord och alkali olösliga deri, jemte chromjern och tennmalm; är vidare meteorjernet alltid tennhaltigt, alltid blandadt med fosforföreningar?
 
 Mina föregångares analyser besvara icke des-
-sa frågor. Howarp hade väl åtskilt nickeljernet
+sa frågor. Howard hade väl åtskilt nickeljernet
 och svafveljernet från den omagnetiska bergarten,
 
-+) I afhandlingen står, att syret är lika, hvilket är en
-redactions-inadvertens; ty syret i kiseljorden är 13.6
-och i baserna sammanräknadt 6.5.
+*) I afhandlingen står, att syret är lika, hvilket är en redactions-inadvertens; ty syret i kiseljorden är 13.6 och i baserna sammanräknadt 6.5.
 
-++) Ib. 1832, p. 106.
+*) Ib. 1832, p. 106.
 
+hvilken han, likasom alla efter honom, analyserat såsom en enda förening; men längre hade han ej gått. Laugier hade upptäckt chromhalten, om hvilken Stromejer yttrat den förmodan, att det härrörde från inblandadt chromjern, såsom föregående försök visat. Detta föranledde den utförlighet denna undersökning fått, hvarvid jag till föremål för mina analyser valt sådana meteorstenar, hvilkas utseende mycket afviker från det vanliga, antagande att de, som äro hvarandra fullt lika, utan fel kunna anses för att härröra från samma ställe, och att hafva lika sammansättning; men jag har måst inskränka mig inom det ringa, som i min enskilta samling fanns.
 
+_2. Meteorsten från Chantonnay._
 
+Denne föll under vanligt fenomen af eldkula och åsklikt dunder kl. 2 på morgonen d. 5 Aug. 1812 ej långt från Chantonnay i departementet la Vendée i Frankrike. Den fanns fram på dagen af förpaktaren af godset la haute Revétison på ett fält nära intill bans boningshus. Den hade inslagit 2 1/2 fot djupt i jorden, och luktade ännu starkt af svafvel. Den vägde 69 skålpund, hade mycket större hårdhet och sammanhang än meteorstenar vanligt, så att den eldade mot stål; dess brottyta hade mörkare färg än meteorstenars vanliga, och på sina ställen var den alldeles svart. Den omgifvande förglasade skorpan var mindre svart och stundom mörkt gråröd. Jag känner icke att någon analys deraf blifvit publicerad. Det stycke jag deraf äger erhöll jag af den framlidne Franske Mineralogen Lucas, och dess karakterer inträffa fullkomligt med den beskrifning, som, kort efter denna stens fall, gafs af Chladni,* hvilken då vistades i Paris.
 
-hvilken han, likasom alla efter honom ,. analyse-
-rat såsom en enda förening; men längre hade
-han ej gått. Laucier hade upptäckt chromhal-
-ten, om hvilken STtTrRomEJeR yttrat den förmodan,
-att det härrörde från inblandadt chromjern, så-
-som föregående försök visat. Detta föranledde
-den ultförlighet denna undersökning fått, hvarvid
-jag till föremål för mina analyser valt sådana
-meteorstlenar, hvilkas utseende mycket afviker från
-det vanliga, antagande att de,som äro hvarandra
-fullt ad utan fel kunna anses för att härröra
-från samma ställe, och att hafva lika samman-
-sätlning; men jag har måst inskränka mig inom
-det ringa, som i min enskilta samling fanns.
+*) Gilberts Annalen der Physik, 60., 247.
 
-2, Meteorsten från Chantonnay.
+Jag har till annalysen användt endast det svartaste och hårdaste, till utseendet fullkomligt skiljaktigt från vanliga meteorstenar. Den innehåller nickeljern i större och mindre korn, samt mycket svafveljern, som kunna med magneten utdragas. Dessa har jag icke analyserat såsom icke tjenliga prototyper för mitt ändamål. Jag hade för afsigt att erhålla svafveljern deraf till en undersökning, men mikroskopet upptäckte genast talrika flittror af nickeljern och oafskilda delar af stenpulver, som, vid utdragning med magneten, qvarhängde. Stenpulvret behandlades med magneten under vatten, och ehuru det syntes mig alldeles befriadt från magnetiska delar, så utvecklades dock svafvelbundet väte då det begöts med saltsyra.
 
-Denne föll under a fenomen af eld-
-kula och åsklikt dunder kl. 2 på morgonen d. 5
-Aug. 1812 ej långt från Chantonnay i departe-
-mentet la Vendee: 1 Frankrike. Den fanns fram
-på dagen af förpaktaren af godset la haute Re-
-ydtison på elt fält nära inlill bans boningshus.
-Den hade inslagit 21 fot djupt i jorden, och luk-
-tade ännu starkt af svafvel. Den vägde 69 skål-
-pund, hade mycket större hårdhet och samman-
-hang än meteorstenar vanligt, så att den eldade
-mot stål; dess brottyta hade mör kare färg än me-
-teorstenars vanliga, och på sina ställen var den
-alldeles svart. Den omgifvande förglasade skor-
-pan var mindre svart och stundom mörkt gråröd.
-Jag känner icke att- någon analys deraf blifvit
-publicerad. Det stycke jag deraf äger erhöll jag
-af den framlidne Franske Mineralogen Lucas, och
-dess karakterer inträffa fullkomligt med den be-
-
-
-
-
-
-skrifning, som, kort efter denna stens fall, gafs
-af. CHrApni ”), hvilken då vistades i Paris.
-
-Jag har till annalysen användt endast det
-svartaste och hårdaste, till utseendet fullkomligt
-skiljaktigt från vanliga meteorstenar. Den inne-
-håller nickeljern i större och mindre korn, samt
-mycket svafveljern, som kunna med magneten ut-
-dragas. Dessa har jag icke analyserat såsom ic-
-ke tjenliga prototyper för mitt ändamål. Jag ha-
-de för afsigt att erhålla svafveljern deraf till en
-undersökning, men mikroskopet upptäckte genast
-talrika flittror af nickeljern och oafskilda delar
-af stenpulver, som, vid utdragning med magne-
-ten, qvarhängde. Stenpulvret behandlades med
-magneten under vatten, och ehuru det syntes mig
-alldeles befriadt från magnetiska delar, så utveck-
-lades dock svafvelbundet väte då det begöts med
-saltsyra.
-
-Den af syror sönderdelbara delen utgjorde
-51.12 p. c., och den olösliga 48.83, således all-
-deles lika som i Blansko-stenen.
+Den af syror sönderdelbara delen utgjorde 51.12 p. c., och den olösliga 48.88, således alldeles lika som i Blansko-stenen.
 
 Det lösliga mineralet fanns innehålla:
+ 
+|                                              |          |                      |
+|----------------------------------------------|----------|----------------------|
+| Kiseljord                                    | 32.607   | håller syre 16.96.   |
+| Talkjord                                     | 34.357   | --- 13.29            |
+| Jernoxidul                                   | 28.801   | --- 6.56             |
+| Manganoxidul                                 | 0.821    | --- 0.19             |
+| Nickeloxid, smittad af tenn- och koppar-oxid | 0.456    |                      |
+| Natron och kali                              | 0.977    | ~                    |
+| Förlust                                      | 1.981.   |                      |
+|                                              | 100.000. | ~                    |
 
-Kiseljord . . « . 32.607 håller syre 16.96.
+Det olösliga mineralet fanns innehålla:
 
-Kalkjond.1,-avyue ue at MARINA RIS
-Jernoxidul . . . . 28.80r --- 6.56220.04.
-Manganoxidul . . . 0.821 --- 0.19
+|                                      |          |                      |
+|--------------------------------------|----------|----------------------|
+| Kiseljord                            | 56.252   | håller syre 29.75.   |
+| Talkjord                             | 20.396   | --- 7.91             |
+| Kalkjord                             | 3.106    | --- 0.88             |
+| Jernoxidul                           | 9.723    | --- 2.21             |
+| Manganoxidul                         | 0.690    | --- 0.16             |
+| Nickeloxid med tenn- och koppar-oxid | 0.138    | --- 0.05             |
+| Lerjord                              | 6.025    | --- 2.81             |
+| Natron                               | 1.000    | --- 0.26             |
+| Kali                                 | 0.512    | --- 0.08             |
+| Chromjern                            | 1.100    |                      |
+| Förlust                              | 1.058    |                      |
+|                                      | 100.000. |                      |
 
-Nickeloxid, smittad af
+Här är således en förvånande likhet i sammansättning, oaktadt olikhet i utseende. Det vill vid jemförelse visa sig som åtföljdes en större kalkhalt af en större lerjordshalt. Deraf kan slutas att dessa utgöra beståndsdelar af ett särskilt mineral, som kan till olika qvantitet vara inblandadt.
 
-tenn- och koppar-oxid 0.456
-Natron och kali . . 0.977
-1 SER BIS a Ae SE EAS
+Då jag hade bättre tillgång af denna meteorsten än af andra, sökte jag att skaffa mig ett begrepp om tennhalten deri genom följande försök. 2.93 gr. slammadt och från magnetiska delar befriadt stenpulver, sönderdelades af fluorvätesyra, hvilket skedde med mycken häftighet. Efter afdunstning utjagades fluorvätesyran med svafvelsyra, saltmassan löstes i vatten och lemnade dervid olöst 0.025 gr. chromjern. Ur lösningen fälldes med svafvelbunden vätgas svafveltenn, som rostadt vägde 0.002 gr. och i reduktion gaf ett i gult dragande korn, af deri innehållen koppar. Chromjernet, upplöst genom smältning i surt svafvelsyradt kali, och lösningen behandlad med svafvelbunden vätgas, gaf ännu 0.0015 gr. tennoxid, hvari för blåsrör ganska svaga spår af koppar kunde upptäckas. Denna meteorsten innehåller således ungefär 1/10 procent tennoxid och 0.84 af en procent chromjern. Deraf följer då, att den i föregående analys, i det olösliga funna chromjernhalten är för låg. Detta härrörde deraf, att den med bernstenssyrad ammoniak utfällda jernoxiden, efter glödgning och vägning, förlorades innan den blef smält med alkali och salpeter, men hvilket ej ansågs af den vigt att förtjena ett nytt försök. Efter det nu anförda hade chromjernet bordt utfalla till 1.7 p. c. af det olösliga mineralet.
 
-100.000.
+_3. Meteorsten från Lautolax._
 
-") GingBeErtTs Annalen der Physik, LX, 247.
+Denna meteorsten föll d. 13 Dec. 1813, i granskapet af byen Lautolax, i Savitaipals socken i Wiborgs Län af Finland. En stor del af styckena föllo på isen, hvarifrån de upphämtades.* Den har blifvit mineralogiskt beskrvifven af Nordenskiöld,* som haft den godheten att deraf meddela mig en liten bit, hvaraf jag användt större delen till här följande undersökning.
 
+*) A. N. Scherers Allgemeine nordische Annalen, 1., 174.
 
+*) Bidrag till närmare kännedom af Finlands mineralier och geognosie 1., 99.
 
+Efter Nordenskiölds uppgift innehåller denna meteorsten, såsom blandningsdelar, följande: 1:0 ett ljust olivegrönt mineral, som för blåsröret förhåller sig likt olivin. Qvantiteten deraf är ringa och storleken öfverstiger icke den af en knappnåls-knapp; 2:0 ett halfklart, hvitt, skifrigt mineral, som på ytan ser kristalliniskt ut, och som lätt smulas sönder; 3:0 svarta punkter, som följa magneten och 4:0 ett askgrått ämne af föga sammanhaug, som smälter till svart kula utan pösning, och som utgör stenens ymnigaste massa. Ytterst är den omgifven af en vanlig svart slagghinna.
 
+Hvad jag af denna meteorsten fått, består nästan endast af det under 2:0 anförda, med några af de svarta, magnetiska punkterna, men är alldeles i saknad af den askgrå hufvudmassan.
 
-Det olösliga mineralet fanns innehålla :
-Kiseljord . +. - . 56.252 håller syre 29.75.
-Onda a as 20.300 9
-Kalkjord - . > » « 3.106 0.88
-Senor mn 0 oo. HINES 221
+Jag skall derföre i korthet beskrifva det af mig till analysen använda. Det är, jemfördt med de vanliga meteorstenarne, hvitt; men bredvid hvita mineralier är det gråaktigt, knappt märkbart dragande i grönt. Det har här och der inströdda svarta punkter, som följa magneten, och som upplösas i saltsyra, utan lukt af svafvelbundet väte och utan gasutveckling, till en mörkgul vätska, hvaraf således följer, att de utgöras af jernoxid-oxidul, eller magnetisk jernmalm. Det är föröfrigt ett aggregat af delar, som, utan att vara kristalliserade, likväl hafva kristallinisk textur, hvilka så löst sammanhänga, att stenen med lätthet sönderbrytes. De smulor, som dervid åtskiljas, likna ganska mycket groft pulver af glasig fältspat, hvilket föranledde Nordenskiöld att förmoda dem vara Leucit. Dess pulver är rent hvitt. För blåsrör blir det i ögonblicket svart, samt efter afsvalning mörkrödt. Detta mineral är alldeles osmältligt både i bit och pulver. I öfrigt är förhållandet för blåsrör enahanda med hvad jag vid Blanskostenen anfört.
 
-Manganoxidul « . . 0690 --- 0.16
+1.22 gr. finslammadt pulver, hvarifrån allt magneten följbart var innan rifningen utdraget, och som före vägningen var torkadt vid +150°, lemnade, efter behandling med först kungsvatten och sedan kolsyradt natron, 0.07875 gr. olöst. Resultatet utföll som följer:
 
-Nickeloxid med tenn- 14.34.
-och koppar-oxid . 0.138 --- 0.05
-ENE ess 0025, --- - 2.81
-INalrom, cc de lv äv 0000, =, 40:26
-RNE I ODT2 =E N0:08
+|                                        | Hela massan. | Det lösliga i procent. |                     |
+|----------------------------------------|--------------|------------------------|---------------------|
+| Kiseljord                              | 0.425        | 37.411                 | hålla syre 19.44.   |
+| Talkjord                               | 0.344        | 32.922                 | 12.44               |
+| Jernoxidul                             | 0.325        | 28.61                  | 6.51               |
+| Manganoxidul                           | 0.009        | 0.793                  | 0.17                |
+| Lerjord                                | 0.003        | 0.264                  | 0.12                |
+| Kopparoxid, Tennoxid, Kali och Natron* | spår         | spår                   |                     |
+| Olösligt                               | 0.079        | ---                    |                     |
+|                                        | 1.215        | 100.000.               |                     |
 
-Chromjern ELER 1.100
-NJGDlUSb ;e vel teet oR 1.058
-100.000.
-
-Här är således en förvånande likhet i sam-
-mansättning, oaktadt olikhet i utseende. Det vill
-vid jemförelse visa sig som åtföljdes en större kalk-
-halt af en större lerjordshalt. Deraf kan slutas att
-dessa utgöra beståndsdelar af elt särskilt mineral,
-som kan till olika qvantitet vara inblandadt.
-
-Då jag hade bättre tillgång af denna meteor-
-sten än af andra, sökte jag alt skaffa mig ett be-
-grepp om tennhalten deri genom följande försök.
-2.93 gr. slammadt och från magnetiska delar be-
-friadt stenpulver, sönderdelades af fluorvätesyra,
-hvilket skedde med mycken häftighet. Efter af-
-dunstning utjagades fluorvätesyran med svafvel-
-syra, saltmassan löstes i vatten och lemnade der-
-vid olöst 0.025 gr. chromjern. Ur lösningen fäll-
-des med svafvelbunden vätgas svafveltenn, som
-rostadt vägde 0.002 gr. och i reduktion gaf etti
-gult dragande korn, af deri innehållen koppar.
-
-
-
-
-
-Chromjernet, upplöst genom smältning i surt svaf-
-velsyradt kali, och lösningen bebandlad med svaf-
-velbunden vätgas, gaf ännu 0.0015 gr. tennoxid,
-hvari för blåsrör ganska svaga spår af koppar kun-
-de upptäckas. Denna meteorsten innehåller såle-
-des ungefär +; procent tennoxid och 0.84 af en
-procent chromjern. Deraf följer då, att den i
-föregående analys, i det olösliga fonna chromjern-
-halten är för låg. Detta härrörde deraf, att den
-med bernstenssyrad ammoniak utfällda jernoxi-
-den, efter glödgning och vägning, förlorades in-
-nan den blef smält med alkali och salpeter, men
-hvilket ej ansågs af den vigt att förtjena ett nytt
-försök. Efter det nu anförda hade chromjernet
-bordt utfalla till 1.7 p. c. af det olösliga mine-
-ralet.
-
-3. Meteorsten från Lawutolax.
-
-Denna meteorsten föll d. 13 Dec. 1813, 1
-granskapet af byen Lautolax, i Savitaipals soc-
-ken i Wiborgs Län af Finland. En stor del af
-styckena föllo på isen, hvarifrån de upphämta-
-des "). Den har blifvit mineralogiskt beskrvifven
-af Norbenskiörp ""), som haft den godheten att
-deraf meddela mig en liten bit, hvaraf jag an-
-vändt större delen till här följande undersökning.
-
-Efter Norbenskiörps uppgift- innehåller den-
-na meteorsten, såsom blandningsdelar, följande:
-1:0 ett ljust olivegrönt mineral, som för blåsrö-
-ret förhåller sig likt olivin. Qvantiteten deraf
-är ringa och storleken öfverstiger icke den af en
-knappnåls-knapp; 2:0 ett halfklart, hvitt, skifrigt
-
-mineral,
-
-”) A. N. Scaerers Allgemeine nordische Annalen, I, 174.
-”"y Bidrag till närmare kännedom af Finlands mineralier
-och geognosie I, 99.
-
-
-
-
-
-
-mineral, som på ytan ser kristalliniskt ut, och
-som lätt siwulas sönder; 3:o svarta punkter, som
-följa magneten och 4:o ett askgråtlt ämne af föga
-sammanhaug, som smälter till svart kula ulan
-pösning, och som utgör slenens ymnigaste massa.
-Ytierst är den omgilfven af en vanlig svart slagg-
-hinna.
-
-Hvad jag af denna meteorsten fått, består nä-
-stan endast al det under 2:0 anförda, med några
-af de svarta, magnetiska punkterna, men är all-
-delies i saknad af den askgrå hufvudmassan.
-
-Jag skall derföre i korthet beskrifva det af
-mig till analysen använda. Det är, jemfördt med
-de vanliga meteorstenarne, hvitt; men bredvid
-hvita mineralier är det gråaktigt, knappt märk-
-bart dragande i grönt. Det har här och derin-
-strödda svarta punkter, som följa magneten, och
-som upplösas i saltsyra, utan lukt af svafvelbun-
-det väte och utan gasutveckling, till en mörkgul
-vätska, hvaraf således följer, att de utgöras af jern-
-oxid-oxidul, eller magnetisk jernmalm. Det är
-föröfrigt elt aggregal af delar, som, utan att vara
-kristalliserade, likväl hafva kristallinisk textur,
-hvilka så löst sammanhänga, att stenen med lätt-
-het sönderbrytes. De smulor, som dervid åtskil-
-jas, likna ganska mycket groft pulver af glasig fält-
-spat, hvilket föranledde Norbenskiörp att förmo-
-da dem vara Leucit. Dess pulver är rent hvitt.
-För blåsrör blir det i ögonblicket svart, samt ef-
-ter afsvalning mörkrödt. Detta mineral är allde-
-les osmällligt både i bit och pulver. I öfrigt är
-förhållandet för blåsrör enahanda med hvad jag
-vid Blanskostenen anfört.
-
-1.22 gr. finslammadt pulver, hvarifrån allt
-magneten följbart var innan rifningen utdraget,
-
-och som före vägningen var torkadt vid +1502,
-lemnade, efter behandling med först kungsvatten
-och sedan kolsyradt natron, 0.07875 gr. olöst.
-Resultatet utföll som följer:
-
-; Hela massan. = Det lösliga i procent.
-Kiseljord SLINE 0.425 $ 37.41 I hålla syre 19.44.
-Talkjord =. + + 0.344 32.022 12.44
-Jernoxidul =. . 0.325 28.610 6.51
-Manganoxidul «+ 0.009 0.793 0.17
-Tuenjordin 4 ven 2 oro0D,. 0264 Ola
-Kopparoxid, Tenn-
-
-oxid, Kali och Na-
-
-rom Ne. et on SPÅR spår
-Ölöshet" "IE fNNMo.070 ---
-
-1.215. 100 000.
-
-Händelsen hade således här tillskyndat mig
-ett prof af det mineral, som utgör hufvudmassan
-af meteorstenarnes af syror lösliga beståndsdel,
-hvaraf den slutsats kan dragas, att denna bestånds-
-del är ett silikat af talkjord och jernoxidul, troli-
-gen i varierande mbördes förhållanden, men i
-hvilket kiseljordens och basernas syre är lika. Det
-öfverskott i det sednare, som i de föregående ana-
-lyserna visat sig, härrörer uppenbarligen till en
-del från inblandadt svafveljern, hvilket i analy-
-sen erhållits oxideradt, men om dervid tillika
-funnits antingen jernoxid-oxidul eller ett mera
-basiskt silikat, lemna mina försök oafgjordt.
-
-”) Tennoxidhalten var ungefär såsom i meteorstenarne
-vanligt; men kopparoxidens halt var så ringa att
-reaktion deraf var svår att för blåsrör framtaga.
-
-
-
-
-
-
-Det här analyserade mineralet ger temli-
-gen otvunget formeln fS+2S; emedlertid är
-det skäl att förmoda, att atomförhållandet är en
-ullfällighet, och att meteor-olivin innehåller dessa
-isomorfa silikater i varierande förhållanden.
-
-Den delen af Lautolaxstenen, som icke löstes
-af syra och kolsyradt natron och utgjorde 6.37
-p- c. af stenens vigt, lemnade, efter behandling
-med fluorvätesyra, chromjern olöst till ungefär I
-procent (0.0127 af det analyserade qvantum),
-hvari förhållandet för blåsrör utviste närvaro af
-tenn. Flusspatssyran hade upplöst talkjord, kalk-
-jord, jernoxidul, lerjord och manganoxidul, i för-
-hållanden som synas utvisa, att det är at lika
-sammansättning med det olösliga mineralet ur de
-föregående meteorstenarne.
-
-4. Meteorsten från Alais.
-
-Denna meteorsten föll d. 15 Mars 1806, kl.
-1 till 6 på e. m. i granskapet af Alais i Frank-
-rike. Man hörde tvenne knallar och tvenne ste-
-nar föllo, den ena vid St. Etienne de Lolm, och
-den andra vid Valence; dessa. ställen äro byar,
-den ena på 41, den andra på 2 lieux afstånd
-från Alais. Vid Valence slog den fallande ste-
-nen en gren af ett fikonträd. På båda ställena
-bevittnades fallet af tillstädesvarande personer,
-som upphämtade dem. Den förra vägde 8, den
-sednare omkring, 4 skålpund. De sönderslogos i
-fallet. Denna meteorsten är olik alla andra. Den
-liknar en hårdnad lera och sönderfaller i vatten
-med lerlukt. TuHéÉnArp, som först undersökte den,
-fann deri, jemte meteorstenars vanliga bestånds-
-
-
-
-
-delar, en portion kol, hvilka uppgifter sedan af
-VAUQUEIIN besannades "). ;
-
-Jag har erbållit ett ganska ringa prof af den-
-ne meteorstlen, af den Franske mineralogen Lvu-
-cAs; men alltid ansett den för en klimp af den
-åkerjord, på hvilken stenen föll, i hvilken miss-
-tanke jag så bekräftades af dess förhållande till
-vatten, vid förberedningen till analysen, att jag
-var nära alt bortkasta alllsamman. Innan dess
-uppsökte jag likväl urkunderna derom, och fann
-deras uppgifter så iustämma med hvad som nu
-förefanns, att jag med så mycket större intresse
-fortsalte undersökningen, Det uppstod nemligen
-den fråga: denna kolbaltiga jord, innehåller den
-väl humus eller spår al andra organiska förenin-
-gar? Ger den möjligen en vink om organiska
-kroppars tillvaro på andra verldskroppar?
-
-Jag skall här lemna en kort beskrifning af
-stenen, efter den bit jag deraf äger. Färgen är
-svart, något åt grått, med täta, fina, hvita punkter
-eller anflog. Dessa finnes icke angifne i de äldre
-beskrifningarne, men 1 Dictionnaire des Sciences
-naturelles, T. XXX, p. 339, anföres, att denne me-
-teorsten har den benägenbeten att betäcka sig med
-en efflorescence, som författaren der uppger vara
-jernvitriol. Stenen är lätt att sönderbryta och
-smulas emellan fingrarne. Gniden med nageln el-
-ler någon annan slät kropp, tager den politur så-
-som det ofta är händelsen med leror. Lagd i
-vatten, faller den om några ögonblick sönder till
-en grågrön välling af en stark lerlukt, med hvil-
-ken blandar sig en ej oangenäm lukt af grönt hö.
-Slammade och sedan torkade pulvret har en färg,
-sammansatt af svart, grönt och brunt. Upphet-
-
-") GirBeRTs Annalen der Physik, XXIV, 193.
-
-
-
-tad i kolf för blåsrör, ger den vatten, svafvel-
-syrlighet och slutligen ett mörkbrunt sublimat,
-men ingen vidbränd olja. Återstoden är sotsvart
-och bränner sig röd i öppen luft. Smälter ytterst
-trögt till en svart, slaggig, ej riktigt fluten massa.
-Med flusserna förhåller den sig alldeles likt van-
-liga meteorstenar. Magneten utdrager derur en
-svart, icke glänsande massa, som det är ganska
-svårt att befria från den lerlika matrix.
-
-Det vatten, hvari meteorstenen sönderfaller,
-utdrager derur ett i vatten lösligt salt. Mot 39.7
-d. slammadt och vid +100? torkadt stenpulver,
-svarade 10.3 d. salt, vägdt i vattenfritt tillstånd.
-Ur dessa 89.7 utdrog magneten 11.92 d.; men
-deribland var ännu mycket matrix, som jag icke
-förmådde afskilja.
-
-a) Det med magneten utdragna visade sig
-innehålla fina, hvita, meltallglänsande flittror i
-ringa mängd, och större delen endast under mi-
-kroskopet rätt urskiljbara. Dessa flittror, utleta-
-de och lagde i saltsyra, upplöste sig med ut-
-veckling af vätgas, och voro således metalliskt jern.
-För att bestämma om en nickelhalt fanns deri,
-hade jag för litet metallflittror; men betviflar ej
-dess närvaro, då nickel fanns oxiderad i sten-
-pulvret. Det öfriga magnetiska upplöstes i salt-
-syra utan gasutveckling, med mörkgul färg och
-svag, men bestämd, lukt af svafvelbundet väte.
-Det magnetiska bestod således af ganska litet me-
-talliskt jern, litet svafvelbundet jern och till det
-mesta af jernoxid-oxidul. Spår af chrom kunde
-icke upptäckas deri vid smältning med litet alkali
-och salpeter.
-
-p) Det med vatten utdragna gaf en blek,
-gulaktig, i allmänhet svagt färgad, upplösning,
-som efter frivillig afdunstning lemnade en kristal-
-
-
-
-
-liserad, icke vittrande saltmassa. En del af den-
-na sallmassa upphettades till kristallvattnets för-
-jagande. Vid en temperatur, som ännu icke geck
-till glödgning, blef det brunbrändt, med vid-
-bränd lukt, och afsatte sedan, då det upplöstes
-i vatten, ett svartbrunt, koligt ämne, som torkadt
-förbrändes utan lemning. "Vattnet hade således
-utdragit ett organiskt ämne, föga färgadt, relativt
-till den kolhbalt det lemnade, eller till den mörka
-färg det vid upphettning antog. Oaktadt det sto-
-ra intresset alt närmare lära känna detta ämnes
-egenskaper, måste jag låta bero vid att hafva
-igenkänt dess tillvaro. Då stenpulvret var väl
-utdraget med varmt vatten, upplöste hvarken am-
-moniak eller kaustikt kali något organiskt ämne
-mer derur.
-
-En del af det kristalliserade saltet, som i
-lufttorkadt tillstånd vägde 0.285 gr:, upplöstes i
-vatten och försattes med ett par droppar kolsy-
-rad ammoniak. Deraf uppkom ingen fällning,
-till bevis att saltet intet jern innehåller och så-
-ledes icke var jernvitriol. Litet vätesvafladt svaf-
-velammonium gaf en svart fällning, som fick
-sjunka 1 korkad flaska. Denna gaf 0.005 gr. nic-
-keloxid, som för blåsrör visade sig smittad af
-kopparoxid, men gaf med fosforsalt icke den opa-
-lisering under afsvalning, som närvaro af tenn-
-oxid frambringar. - Nickeloxiden emoltsvarar 0.01
-svafvelsyrad nickeloxid.
-
-Genom sönderdelning med ättiksyrad baryt
-och vidare vånliga analytiska metoder erhölls der-
-ur : 0.04 gr. talkjord, svarande emot o.r18 gr.
-vattenfri svafvelsyrad talkjord, 0,034 gr. svafvel-
-syradt natron, 0.004 gr. svafvelsyradt kali och
-0.012 gr. svafvelsyrad kalk, eller tillsamman 0.178
-salter och 0.107 kristallvatten, hvars fördelning
-
-
-
-
-
-
-troligen ej ekett på hvart salt särskilt, utan på
-dubbelsalter af natron och kali med talkjord och
-nickeloxid, och på en portion fri svafvelsyrad
-talkjord.
-
-I detta salt finnes ännu ytterligare ett spår
-af svafvelsyrad ammoniak; blandar man stenen
-med vatten, och låter den sönderfalla deri, så
-uppkommer en mycket stark hölukt, och en
-med salpetersyra fuktad glaspropp ger hvita ån-
-gor, ganska synbara, men i ringa mängd, då den
-bålles deröfver. Denna ammoniakhalt är likväl
-troligen icke ursprunglig, ty om stenpulvrel be-
-handlas med ammoniak, utlakas väl med vatten,
-och, efter torkning i vattenbad, utsättes för torr
-destillation, så får man ett starkt ammoniakhal-
-tigt vatten, hvilket icke är händelsen före behand-
-lingen med alkalit. Denna ammoniak kan såle-
-des mycket väl hafva tillkommit under de 28 år
-stenen legat i mineralskåp.
+*) Tennoxidhalten var ungefär såsom i meteorstenarne vanligt; men kopparoxidens halt var så ringa att reaktion deraf var svår att för blåsrör framtaga.
+
+Händelsen hade således här tillskyndat mig ett prof af det mineral, som utgör hufvudmassan af meteorstenarnes af syror lösliga beståndsdel, hvaraf den slutsats kan dragas, att denna beståndsdel är ett silikat af talkjord och jernoxidul, troligen i varierande inbördes förhållanden, men i hvilket kiseljordens och basernas syre är lika. Det öfverskott i det sednare, som i de föregående analyserna visat sig, härrörer uppenbarligen till en del från inblandadt svafveljern, hvilket i analysen erhållits oxideradt, men om dervid tillika funnits antingen jernoxid-oxidul eller ett mera basiskt silikat, lemna mina försök oafgjordt.
+
+Det här analyserade mineralet ger temligen otvunget formeln ƒS+2MS; emedlertid är det skäl att förmoda, att atomförhållandet är en tillfällighet, och att meteor-olivin innehåller dessa isomorfa silikater i varierande förhållanden.
+
+Den delen af Lautolaxstenen, som icke löstes af syra och kolsyradt natron och utgjorde 6.37 p. c. af stenens vigt, lemnade, efter behandling med fluorvätesyra, chromjern olöst till ungefär 1 procent (0.0127 af det analyserade qvantum), hvari förhållandet för blåsrör utviste närvaro af tenn. Flusspatssyran hade upplöst talkjord, kalkjord, jernoxidul, lerjord och manganoxidul, i förhållanden som synas utvisa, att det är af lika sammansättning med det olösliga mineralet ur de föregående meteorstenarne.
+
+_4. Meteorsten från Alais._
+
+Denna meteorsten föll d. 15 Mars 1806, kl. 1/2 till 6 på e. m. i granskapet af Alais i Frankrike. Man hörde tvenne knallar och tvenne stenar föllo, den ena vid St. Etienne de Lolm, och den andra vid Valence; dessa ställen äro byar, den ena på 4 1/2, den andra på 2 lieux afstånd från Alais. Vid Valence slog den fallande stenen en gren af ett fikonträd. På båda ställena bevittnades fallet af tillstädesvarande personer, som upphämtade dem. Den förra vägde 8, den sednare omkring, 4 skålpund. De sönderslogos i fallet. Denna meteorsten är olik alla andra. Den liknar en hårdnad lera och sönderfaller i vatten med lerlukt. Thénard, som först undersökte den, fann deri, jemte meteorstenars vanliga beståndsdelar, en portion kol, hvilka uppgifter sedan af Vauquelin besannades.*
+
+*) Gilberts Annalen der Physik, 24., 193.
+
+Jag har erhållit ett ganska ringa prof af denne meteorsten, af den Franske mineralogen Lucas; men alltid ansett den för en klimp af den åkerjord, på hvilken stenen föll, i hvilken misstanke jag så bekräftades af dess förhållande till vatten, vid förberedningen till analysen, att jag var nära att bortkasta alltsamman. Innan dess uppsökte jag likväl urkunderna derom, och fann deras uppgifter så instämma med hvad som nu förefanns, att jag med så mycket större intresse fortsatte undersökningen. Det uppstod nemligen den fråga: denna kolhaltiga jord, innehåller den väl humus eller spår af andra organiska föreningar? Ger den möjligen en vink om organiska kroppars tillvaro på andra verldskroppar?
+
+Jag skall här lemna en kort beskrifning af stenen, efter den bit jag deraf äger. Färgen är svart, något åt grått, med täta, fina, hvita punkter eller anflog. Dessa finnes icke angifne i de äldre beskrifningarne, men i Dictionnaire des Sciences naturelles, T. 30., p. 339, anföres, att denne meteorsten har den benägenheten att betäcka sig med en efflorescence, som författaren der uppger vara jernvitriol. Stenen är lätt att sönderbryta och smulas emellan fingrarne. Gniden med nageln eller någon annan slät kropp, tager den politur såsom det ofta är händelsen med leror. Lagd i vatten, faller den om några ögonblick sönder till en grågrön välling af en stark lerlukt, med hvilken blandar sig en ej oangenäm lukt af grönt hö. Slammade och sedan torkade pulvret har en färg, sammansatt af svart, grönt och brunt. Upphettad i kolf för blåsrör, ger den vatten, svafvelsyrlighet och slutligen ett mörkbrunt sublimat, men ingen vidbränd olja. Återstoden är sotsvart och bränner sig röd i öppen luft. Smälter ytterst trögt till en svart, slaggig, ej riktigt fluten massa. Med flusserna förhåller den sig alldeles likt vanliga meteorstenar. Magneten utdrager derur en svart, icke glänsande massa, som det är ganska svårt att befria från den lerlika matrix.
+
+Det vatten, hvari meteorstenen sönderfaller, utdrager derur ett i vatten lösligt salt. Mot 89.7 d. slammadt och vid +100° torkadt stenpulver, svarade 10.3 d. salt, vägdt i vattenfritt tillstånd. Ur dessa 89.7 utdrog magneten 11.92 d.; men deribland var ännu mycket matrix, som jag icke förmådde afskilja.
+
+_α) Det med magneten utdragna_ visade sig innehålla fina, hvita, metallglänsande flittror i ringa mängd, och större delen endast under mikroskopet rätt urskiljbara. Dessa flittror, utletade och lagde i saltsyra, upplöste sig med utveckling af vätgas, och voro således metalliskt jern. För att bestämma om en nickelhalt fanns deri, hade jag för litet metallflittror; men betviflar ej dess närvaro, då nickel fanns oxiderad i stenpulvret. Det öfriga magnetiska upplöstes i saltsyra utan gasutveckling, med mörkgul färg och svag, men bestämd, lukt af svafvelbundet väte. Det magnetiska bestod således af ganska litet metalliskt jern, litet svafvelbundet jern och till det mesta af jernoxid-oxidul. Spår af chrom kunde icke upptäckas deri vid smältning med litet alkali och salpeter.
+
+_β) Det med vatten utdragna_ gaf en blek, gulaktig, i allmänhet svagt färgad, upplösning, som efter frivillig afdunstning lemnade en kristalliserad, icke vittrande saltmassa. En del af denna saltmassa upphettades till kristallvattnets förjagande. Vid en temperatur, som ännu icke geck till glödgning, blef det brunbrändt, med vidbränd lukt, och afsatte sedan, då det upplöstes i vatten, ett svartbrunt, koligt ämne, som torkadt förbrändes utan lemning. Vattnet hade således utdragit ett organiskt ämne, föga färgadt, relativt till den kolhalt det lemnade, eller till den mörka färg det vid upphettning antog. Oaktadt det stora intresset att närmare lära känna detta ämnes egenskaper, måste jag låta bero vid att hafva igenkänt dess tillvaro. Då stenpulvret var väl utdraget med varmt vatten, upplöste hvarken ammoniak eller kaustikt kali något organiskt ämne mer derur.
+
+En del af det kristalliserade saltet, som i lufttorkadt tillstånd vägde 0.285 gr., upplöstes i vatten och försattes med ett par droppar kolsyrad ammoniak. Deraf uppkom ingen fällning, till bevis att saltet intet jern innehåller och således icke var jernvitriol. Litet vätesvafladt svafvelammonium gaf en svart fällning, som fick sjunka i korkad flaska. Denna gaf 0.005 gr. nickeloxid, som för blåsrör visade sig smittad af kopparoxid, men gaf med fosforsalt icke den opalisering under afsvalning, som närvaro af tennoxid frambringar. Nickeloxiden emoltsvarar 0.01 svafvelsyrad nickeloxid.
+
+Genom sönderdelning med ättiksyrad baryt och vidare vanliga analytiska metoder erhölls derur 0.04 gr. talkjord, svarande emot 0.118 gr. vattenfri svafvelsyrad talkjord, 0.034 gr. svafvelsyradt natron, 0.004 gr. svafvelsyradt kali och 0.012 gr. svafvelsyrad kalk, eller tillsamman 0.178 salter och 0.107 kristallvatten, hvars fördelning troligen ej skett på hvart salt särskilt, utan på dubbelsalter af natron och kali med talkjord och nickeloxid, och på en portion fri svafvelsyrad talkjord.
+
+I detta salt finnes ännu ytterligare ett spår af svafvelsyrad ammoniak; blandar man stenen med vatten, och låter den sönderfalla deri, så uppkommer en mycket stark hölukt, och en med salpetersyra fuktad glaspropp ger hvita ångor, ganska synbara, men i ringa mängd, då den hålles deröfver. Denna ammoniakhalt är likväl troligen icke ursprunglig, ty om stenpulvret behandlas med ammoniak, utlakas väl med vatten, och, efter torkning i vattenbad, utsättes för torr destillation, så får man ett starkt ammoniakhaltigt vatten, hvilket icke är händelsen före behandlingen med alkalit. Denna ammoniak kan således mycket väl hafva tillkommit under de 28 år stenen legat i mineralskåp.
 
 Af vigt hade varit att kunna genast efter ste-
 nens fall utröna om den innehållit detta salt färdig-
@@ -825,12 +311,6 @@ salpeter, gaf en fällning med chlorbarium, som
 svarade emot 33 Pp- C. svafvel, så finner man att
 stenen antingen hållit vanlig svafvelkis : eller ett
 svafvelsyradt salt. Båda äro visserligen ovanliga,
-
-
-
-
-
-
 
 men det sednare visade sig i milt försök vara
 fallet, och det är troligt, att så var äfven då TnÉ-
