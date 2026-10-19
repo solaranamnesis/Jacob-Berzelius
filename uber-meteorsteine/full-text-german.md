@@ -208,7 +208,7 @@ Verlust|1,971.
 Im unlöslichen Minerale fand sich:
 
 Kieselerde|56,252.|29,75.  
-Taikerde|20,396.|7,91.  
+Talkerde|20,396.|7,91.  
 Kalk|3,106.|0,88.  
 Eisenoxydul|9,723.|2,21.  
 Manganoxydul|0,690|0,16.  
