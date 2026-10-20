@@ -294,84 +294,13 @@ Genom sönderdelning med ättiksyrad baryt och vidare vanliga analytiska metoder
 
 I detta salt finnes ännu ytterligare ett spår af svafvelsyrad ammoniak; blandar man stenen med vatten, och låter den sönderfalla deri, så uppkommer en mycket stark hölukt, och en med salpetersyra fuktad glaspropp ger hvita ångor, ganska synbara, men i ringa mängd, då den hålles deröfver. Denna ammoniakhalt är likväl troligen icke ursprunglig, ty om stenpulvret behandlas med ammoniak, utlakas väl med vatten, och, efter torkning i vattenbad, utsättes för torr destillation, så får man ett starkt ammoniakhaltigt vatten, hvilket icke är händelsen före behandlingen med alkalit. Denna ammoniak kan således mycket väl hafva tillkommit under de 28 år stenen legat i mineralskåp.
 
-Af vigt hade varit att kunna genast efter ste-
-nens fall utröna om den innehållit detta salt färdig-
-bildadt, och om det då varit förenadt med kvistall-
-vatten, hvarigenom frågan om vattnets tillvaro i
-meteorstenarnes hemort kunnat besvaras. Nu kan
-man gissa att saltet uppkommit af ett talkjords-
-silikat och svafveljern, som förvandlat sig till
-jernvitriol, hvilken blifvit af talkjorden sönderde-
-Jad, under det jernoxidulen öfvergått till jernoxid-
-oxidul. Likväl, då man lemnar uppmärksamhet
-åt TrtÉnArps uppgift å ena sidan, att stenen med
-syror utvecklade ganska litet;svafvelbundet väte,
-men å den andra, att den, efter detonation med
-salpeter, gaf en fällning med chlorbarium, som
-svarade emot 33 Pp- C. svafvel, så finner man att
-stenen antingen hållit vanlig svafvelkis : eller ett
-svafvelsyradt salt. Båda äro visserligen ovanliga,
+Af vigt hade varit att kunna genast efter stenens fall utröna om den innehållit detta salt färdigbildadt, och om det då varit förenadt med kristallvatten, hvarigenom frågan om vattnets tillvaro i meteorstenarnes hemort kunnat besvaras. Nu kan man gissa att saltet uppkommit af ett talkjordssilikat och svafveljern, som förvandlat sig till jernvitriol, hvilken blifvit af talkjorden sönderdelad, under det jernoxidulen öfvergått till jernoxidoxidul. Likväl, då man lemnar uppmärksamhet åt Thénards uppgift å ena sidan, att stenen med syror utvecklade ganska litet svafvelbundet väte, men å den andra, att den, efter detonation med salpeter, gaf en fällning med chlorbarium, som svarade emot 3 1/2 p. c. svafvel, så finner man att stenen antingen hållit vanlig svafvelkis eller ett svafvelsyradt salt. Båda äro visserligen ovanliga, men det sednare visade sig i mitt försök vara fallet, och det är troligt, att så var äfven då Thénards försök anställdes, emedan han erhöll 17 p. c. vatten, hvilket är mycket mer än den från salt befriade stenen innehåller, och skulle kunna visa, att stenen från början varit vattenhaltig. Emedlertid anställdes Thénard's analys omkring 2 månader efter stenens fall, på hvilken tid det fint fördelade vattenfria saltet kunnat upptaga en stor portion kristallvatten. Det är nemligen möjligt att anfloget af bittersalt småningom bildat sig i jordens atsmosfer, derigenom att saltet upptagit kristallvatten och utsvällt af vattnets tillkomst.
 
-men det sednare visade sig i milt försök vara
-fallet, och det är troligt, att så var äfven då TnÉ-
-NARDS försök anställdes, emedan han erhöll 17 p.
-ce. vallen, hvilket är mycket mer än den från salt
-befriade stenen innehåller, och skulle kunna vi-
-sa, att stenen från början varit vattenhaltig. Emed-
-lertid anställdes THÉnarp's analys omkring 2 må-
-nader efter stenens fall, på hvilken tid det fint
-fördelade vattenfria saltet kunnat upptaga en stor
-portion kristallvatten. Det är nemligen möjligt
-att anfloget af bittersalt småningom bildat sig i
-jordens atsmosfer, derigenom att saltet upptagit
-kristallvatten och utsvällt af vattnets tillkomst.
+_γ) Det med vatten utlakade stenpulvret_ innehåller, efter Thénards analys, en portion kol. Det var naturligt att förmoda, att detta kol utgjorde någon förening med väte och syre, kanske också med qväfve. Då hvarken kali eller ammoniak utdrog någon organisk förening, så återstod endast att studera produkterna af denna förenings sönderdelning med torr destillation, emedan lösning i syror skulle förblanda det med de öfriga oorganiska ämnen, som antingen lösas eller lemnas olösta. Det väl utkokade, slammade och vid +100° torkade pulvret upphettades i en liten destillationsapparat till glödgning, och den utvecklade gasen inleddes i en omstjelpt flaska fylld med kalkvatten. 1.586 gr. stenpulver lemnade 1.398 kolsvart återstod.
 
-Y) Det med vatten utlakade stenpulvret in-
-nehåller, efter THÉnArpos analys, en portion kol.
-Det var naturligt att förmoda, att detta kol ut-
-gjorde någon förening med väte och syre, kan-
-ske också med qväfve. Då hvarken kali eller am-
-moniak utdrog någon organisk förening, så åter-
-stod endast att studera produkterna af denna för-
-enings sönderdelning med torr destillation, eme-
-dan lösning i syror skulle förblanda det med
-de öfriga oorganiska ämnen, som antingen lösas
-eller lemnas olösta. Det väl utkokade, slammade
-och vid +100? torkade pulvret upphettades 1 en
-liten destllationsapparat till glödgning, och den
-utvecklade gasen inleddes i en omstjelpt flaska
-fylld med kalkvatten. 1.586 gr. stenpulverlem-
-nade 1.398 kolsvart återstod.
+Ingen droppa vidbränd olja visade sig i retorthalsen, men deremot samlades mycket och ofärgadt vatten. En fin remsa lakmuspapper, inträdd i halsen af den lilla retorten, blef röd. Gasen absorberades under stark grumling af kalkvattnet, och lemnade ganska litet oupptaget, som icke öfversteg hvad kärlens luft bort utgöra och hvari ingen främmande gas syntes innehållas. Thénard hade fått bränbara gaser, men i hans försök var ej det i vatten lösliga organiska ämnet aflägsnadt. Kolsyregasen gaf 0.15 kolsyrad kalk, svarande emot 0.0696 gr. kolsyra eller 0.01813 gr. kol.
 
-Ingen droppa vidbränd olja visade sig i re-
-torthalsen, men deremot samlades mycket och
-ofärgadt vatten. En fin remsa lakmuspapper, in-
-trädd i halsen af den lilla retorten, blef röd.
-Gasen absorberades under stark grumling af kalk-
-vattnet, och lemnade ganska litet oupptaget, som
-icke öfversteg hvad kärlens luft bort utgöra och
-
-
-
-
-
-
-hvari ingen främmande gas syntes innehållas.
-THÉsarp hade fått bränbara gaser, men i hans
-försök var ej det i vatten lösliga organiska äm-
-net aflägsnadt. Kolsyregasen gaf o.15 kolsyrad
-kalk, svarande emot 0,0696 gr. kolsyra eller
-0.018:13 gr. kol.
-
-Vattnet i retorthalsen hade en stark lukt af
-hö, elier snarare af tonkaböna, hvilken genom
-torkning försvann. Högst ringa spår af ett hvitt
-salt, med en portion svartbrunt sublimat funnos
-i retortbalsens bakre del. Det hvita saltet var
-lösligt i vatten, kaustikt kali utvecklade spår af
-ammoniak, men lösningen fälldes icke af salpe-
-tersyrad silfveroxid. Jag kunde ej erfara med
-hvad syra ammoniaken var bunden.
+Vattnet i retorthalsen hade en stark lukt af hö, eller snarare af tonkaböna, hvilken genom torkning försvann. Högst ringa spår af ett hvitt salt, med en portion svartbrunt sublimat funnos i retorthalsens bakre del. Det hvita saltet var lösligt i vatten, kaustikt kali utvecklade spår af ammoniak, men lösningen fälldes icke af salpetersyrad silfveroxid. Jag kunde ej erfara med hvad syra ammoniaken var bunden.
 
 Det bruna sublimalet är en mig alldeles obe-
 kant kropp. Det utgjorde af den använda qvan-
