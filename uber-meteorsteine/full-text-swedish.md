@@ -337,122 +337,32 @@ Förlusten, som utgör omkring 3 procent är nog stor. En del deraf är syre i j
 
 Denna meteorstens olösliga, kolsvarta del behandlades med fluorvätesyra och derefter med svafvelsyra, hvarefter återstod ett svart pulver olöst, som togs på ett vägdt filtrum, och hvaraf sedan en vägd portion förbrändes i syrgas, som leddes deröfver och sedan i en blandning af kaustik ammoniak med chlorcalcium, i ett Liebigskt absorptionsrör. Den förbrändes med liflighet.
 
-Den ammoniakhaltiga vätskan hade i 48 tim-
-mar stått i korkad flaska, innan den inhälldes i
-absorptionsröret, hvarigenom således all kolsyrad
-kalk, som genom en ringa kolsyrehalt i ammo-
-niaken kunde vara bildad, hade afsatt sig. Den
-lemnades efter försökets slut i 24 timmar, då den
-nybildade kolsyrade kalken anskjutit på glaset,
-och vätskan kunde klar afhällas, samt den afsat-
-ta kolsyrade kaiken sköljas. Den upplöstes sedan
-i saltsyra, förvandlades i gips medelst tillsats af
-svafvelsyra, afröktes i vägd platinadegel och glöd-
-gades. Efter gipsens qvantitetl beräknades kolet,
-som på det hela utföll till 0.02586 gr.
+Den ammoniakhaltiga vätskan hade i 48 timmar stått i korkad flaska, innan den inhälldes i absorptionsröret, hvarigenom således all kolsyrad kalk, som genom en ringa kolsyrehalt i ammoniaken kunde vara bildad, hade afsatt sig. Den lemnades efter försökets slut i 24 timmar, då den nybildade kolsyrade kalken anskjutit på glaset, och vätskan kunde klar afhällas, samt den afsatta kolsyrade kalken sköljas. Den upplöstes sedan i saltsyra, förvandlades i gips medelst tillsats af svafvelsyra, afröktes i vägd platinadegel och glödgades. Efter gipsens qvantitet beräknades kolet, som på det hela utföll till 0.02586 gr.
 
-Efter kolets förbränning 1 syrgas återstodo
-0.00525 gr. chromjern, som höll tennoxid.
+Efter kolets förbränning i syrgas återstodo 0.00525 gr. chromjern, som höll tennoxid.
 
 Det i flusspatssyra upplösta gaf
 
-Talkerde|0,0050.  
-Eisenoxydul|0,0266.  
-Nickeloxyd|0,0055.  
-Tonerde|0,0025.  
-Zinnoxyd|0,0020.  
-Kieselerde|0,0462.
+|            |         |
+|------------|---------|
+| Talkjord   | 0.0050  |
+| Jernoxidul | 0.0266  |
+| Nickeloxid | 0.0055  |
+| Lerjord    | 0.0025  |
+| Tennoxid   | 0.0020  |
+| Kiseljord  | 0.0482. |
 
-Kiseljordens qvantitet är bedömd af förlu-
-sten. Kalkjord saknades alldeles. Talkjorden höll
-spår af manganoxidul. Nickeloxiden af kobolt.
-Det är klart, att det olösliga mineralet i Alaisste-
-nen icke är af samma art som i de föregående.
+Kiseljordens qvantitet är bedömd af förlusten. Kalkjord saknades alldeles. Talkjorden höll spår af manganoxidul. Nickeloxiden af kobolt. Det är klart, att det olösliga mineralet i Alaisstenen icke är af samma art som i de föregående.
 
-Denna meteorsten kan icke betraktas såsom
-annat än en jordklimp, och visar, att, 1 dess hem-
-vist, bergarter af någon geologisk process blifvit
-förvandlade till jord, likasom händelsen är på vår
-planet. Den omständighet, att den innehåller me-
-talliskt jern, svafveljern, samt oxider af nickel,
-kobolt, tenn, koppar och chrom, utvisar att den-
-na jord blifvit bildad af vanlig -meteorstensmas-
+Denna meteorsten kan icke betraktas såsom annat än en jordklimp, och visar, att, i dess hemvist, bergarter af någon geologisk process blifvit förvandlade till jord, likasom händelsen är på vår planet. Den omständighet, att den innehåller metalliskt jern, svafveljern, samt oxider af nickel, kobolt, tenn, koppar och chrom, utvisar att denna jord blifvit bildad af vanlig meteorstensmassa; hvilken här hufvudsakligt bestått af meteorolivin. Det är således otvifvelaktigt att den undersökta stenen, oaktadt alla sina olikheter i yttre förhållanden, är en meteorsten härrörande, efter all sannolikhet, från de vanliga meteorstenarnes hembygd.
 
+Kolhalten deri synes icke vara ursprungligen endast kol, hvilket man bäst ser deraf, att stenpulvret har en i grönt dragande brunaktig färg, men blir i torr destillation kolsvart. Kolet finnes således i en förening, som af hettan sönderdelas, med lemning af kol, och under utveckling af kolsyregas, antingen ensamt, eller under utveckling af kolsyregas och vatten. I förra fallet funnes kolet i förening med endast syre, i en med honingstenssyra analogt sammansatt kropp, i det sednare i en förening med syre och väte. En sådan som sönderdelas i endast kol, kolsyra och vatten är dock ännu icke känd. Mera analogt med telluriskt organiska föreningar, är det ämne som vatten utdrager tillika med bittersaltet. Denna halt af ämnen som innehålla kol i meteorjorden, har analogi med humushalten i den telluriska jorden; men den är förmodligen tillkommen på annat sätt, har andra egenskaper, och synes icke berättiga att förmoda en bestämmelse för analoga ändamål, med de kolhaltiga ämnenas i den telluriska jorden.
 
+Emellan det nu meddelade resultatet och det af Thénard erhållna, visar sig åtskillig olikhet. Detta bevisar dock icke att vi ej haft samma ämne att undersöka. Redan den omständigheten, att jag före analysen afskilt 10 p. c. lösliga saller, blandade med ett organiskt ämne, och 12 p. c. magneten följande beståndsdelar, har gjort en väsendtlig skillnad. Thénard sökte lerjord deri, utan att finna den. Detta är vanligt med mineralier, som hålla talkjord, då fällningen med kaustik ammoniak behandlas med kali. Återupplösning i syra, och fällning med ett tvåfaldt kolsyradt salt synes icke af Thénard hafva blifvit använd.
 
+_5. Pallasjernet och Pallasolivin._
 
-
-
-
-sa; hvilken här hufvudsakligt bestått af meteor-
-olivin. Det är således otvifvelaktigt att den un-
-dersökta stenen, oaktadt alla sina olikheter 1 yt-
-tre förhållanden, är en meteorsten härrörande,
-efter all sannolikhet, från de vanliga meteorste-
-narnes hembygd.
-
-Kolhalten deri synes icke vara ursprungli-
-gen endast kol, hvilket man bäst ser deraf, att
-stenpulvret har en i grönt dragande brunaktig
-färg, men blir i torr destillation kolsvart. Kolet
-finnes således i en förening, som af hettan sön-
-derdelas, med lemning af kol, och under utveck-
-ling af kolsyregas, anlingen ensamt, eller under
-utveckling af kolsyregas och vatten. I förra fal-
-let funnes kolet i förening med endast syre, i en
-ned honingstenssyra analogt sammansatt kropp,
-i det sednare i en förening med syre och väte.
-En sådan som sönderdelas i endast kol, kolsyra
-och vatlen är dock ännu icke känd. Mera ana-
-logt med telluriskt organiska föreningar, är det
-ämne som vatten utdrager tillika med bittersal-
-tet. Denna halt af ämnen som innehålla kol i
-meteorjorden, har analogi med humushalten i den
-telluriska jorden; men den är förmodligen till-
-kommen på annat sätt, har andra egenskaper, och
-synes icke berättiga att förmoda en bestämmelse
-för analoga ändamål, med de kolhaltiva ämnenas
-i den telluriska jorden.
-
-Emellan det nu meddelade resultatet och det
-af THtsarD erhållna, visar sig åtskillig olikhet.
-Detta bevisar dock icke att vi ej haft samma äm-
-ne att undersöka. Redan den omständigheten,
-alt jag före analysen afskilt 10 p. c. lösliga sal-
-ler, blandade med ett organiskt ämne, och 12 p.
-c. magneten följande beståndsdelar, har gjort en
-väsendtlig skillnad. ”Tnrtnarv sökte lerjord deri,
-
-
-
-
-
-
-
-utan att finna den. Detta är vanligt med mine-
-ralier, som hålla talkjord, då fällningen med kau-
-stik ammoniak behandlas med kali. Återupplös-
-ning i syra, och fällning med ett tvåfaldt kolsy-
-radt salt synes icke af Tutnarp hafva blifvit
-använd. |
-
-5. Pallasjernet och Pallasolivin.
-
-Denna ryktbara meteormassa, som genom Par-
-ras blifvit bekant i Europa, låg nära kammen på
-ett skifferberg, i en trakt af Siberien, emellan
-Krasnojarsk och Abekansk. Invånarne der anså-
-go den för en från himmelen fallen helgedom,
-och folksagan bevarade på detta sätt minnet af
-dess fall, fastän historisk anteckning derom sak-
-nades. Parras skattade dess vigt till omkring
-1600 skålpund. Nu lärer den väl vara hel och
-hållen fördelad emellan allmänna och enskilta
-mineral-kabinetter. Denna ofantliga meteorsten
-utgjordes hufvudsakligen af ett skelett af jern,
-likt ett väljäst bröd, hvars runda och täta hålig-
-heter voro uppfyllda af en svagt grönaktig, glas-
-klar olivin.
+Denna ryktbara meteormassa, som genom Pallas blifvit bekant i Europa, låg nära kammen på ett skifferberg, i en trakt af Siberien, emellan Krasnojarsk och Abekansk. Invånarne der ansågo den för en från himmelen fallen helgedom, och folksagan bevarade på detta sätt minnet af dess fall, fastän historisk anteckning derom saknades. Pallas skattade dess vigt till omkring 1600 skålpund. Nu lärer den väl vara hel och hållen fördelad emellan allmänna och enskilta mineral-kabinetter. Denna ofantliga meteorsten utgjordes hufvudsakligen af ett skelett af jern, likt ett väljäst bröd, hvars runda och täta håligheter voro uppfyllda af en svagt grönaktig, glasklar olivin.
 
 Det till analysen använda pallasjernet ham-
 rades först så, att all dervid fastsittande, ofta ej
