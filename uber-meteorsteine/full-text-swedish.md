@@ -302,119 +302,43 @@ Ingen droppa vidbränd olja visade sig i retorthalsen, men deremot samlades myck
 
 Vattnet i retorthalsen hade en stark lukt af hö, eller snarare af tonkaböna, hvilken genom torkning försvann. Högst ringa spår af ett hvitt salt, med en portion svartbrunt sublimat funnos i retorthalsens bakre del. Det hvita saltet var lösligt i vatten, kaustikt kali utvecklade spår af ammoniak, men lösningen fälldes icke af salpetersyrad silfveroxid. Jag kunde ej erfara med hvad syra ammoniaken var bunden.
 
-Det bruna sublimalet är en mig alldeles obe-
-kant kropp. Det utgjorde af den använda qvan-
-titelen 0.015 gr. Det ringa jag kunnat utröna af
-dess egenskaper är följande: dess färg är i tunn
-kant svartbrun, genomlysande, i reflection nära
-svart. Den inåt röret vända sidan är mörkgrå,
-och något glänsande. Det har hvarken smak el-
-ler lukt, då hölukten försvunnit. I syrefri luft
-kan det sublimeras; visar inga tecken till kristal-
-lisation. Upphettadt i luften eller i syrgas, för-
-vandlas det till en hvit rök, som lägger sig på
-kallare kroppar. Denna rök har en stickande lukt.
-Det hvita anfloget deraf är lösligt i vatten, och
-reagerar ej på lakmuspapper, och fäller ej salpe-
-tersyrad silfveroxid. Då det brännes i syrgas,
-visar sig intet spår af fuktighet, och kalkvatten
-grumlas ej af gasen och afsätter intet spår af kol-
-syrad kalk genom hvila. Den bruna kroppen är
-olöslig i vatten, i ammoniak, i kaustikt kali, i
-saltsyra, i kokande salpetersyra af 1.24. Är den
-en produkt af den torra destillation, eller fanns
+Det bruna sublimatet är en mig alldeles obekant kropp. Det utgjorde af den använda qvantiteten 0.015 gr. Det ringa jag kunnat utröna af dess egenskaper är följande: dess färg är i tunn kant svartbrun, genomlysande, i reflection nära svart. Den inåt röret vända sidan är mörkgrå, och något glänsande. Det har hvarken smak eller lukt, då hölukten försvunnit. I syrefri luft kan det sublimeras; visar inga tecken till kristallisation. Upphettadt i luften eller i syrgas, förvandlas det till en hvit rök, som lägger sig på kallare kroppar. Denna rök har en stickande lukt. Det hvita anfloget deraf är lösligt i vatten, och reagerar ej på lakmuspapper, och fäller ej salpetersyrad silfveroxid. Då det brännes i syrgas, visar sig intet spår af fuktighet, och kalkvatten grumlas ej af gasen och afsätter intet spår af kolsyrad kalk genom hvila. Den bruna kroppen är olöslig i vatten, i ammoniak, i kaustikt kali, i saltsyra, i kokande salpetersyra af 1.24. Är den en produkt af den torra destillation, eller fanns den förut färdig och sublimeras af hettan? Jag kan ej nöjaktigt besvara dessa frågor.*
 
+*) Ville man fråga: är det en enkel, bränbar kropp? så vore det kanske att lägga mera vigt derpå, än den har.
 
-den förut färdig och sublimeras af hettan? Jag
-kan ej nöjaktigt besvara dessa frågor =).
+Af det nu anförda följer, att den vid +100° torkade, från lösliga salter befriade meteormassan gifvit
 
-Af det nu anförda följer, att den vid +100?
-torkade, från lösliga salter befriade meteormassan
-gifvit
+|                        |          |
+|------------------------|----------|
+| Svart glödgad återstod | 88.146   |
+| Gråbrunt sublimat      | 0.944    |
+| Kolsyregas             | 4.328    |
+| Vatten                 | 6.582    |
+| ~                      | 100.000. |
 
-Svart glödgad återstod . . 88.146
-Gråbrunt sublimat =. . - 0.944
-KoolsyreCIASo, etcj ler dorb SR, see peng AS
+_Analys af den svarta, glödgade återstoden._ Den vägde 1.382 och sönderdelades med saltsyra. Lösningen var mycket mörkgul. Det olösta svart. Svafvelbundet väte borttog lösningens färg. Den dervid erhållna fällningen lemnade efter svaflets bortbränning 0.005 gr. tennoxid, smittad af kopparoxid. För öfrigt gick analysen alldeles efter den redan meddelade allmänna planen. Lösningen af kiseljorden i kolsyradt natron var gulaktig, men blef färglös genom mättning med syra. Efter kiseljordens afskiljande genom afdunstning, fälldes ur saltets lösning i vatten, med en droppa causik ammoniak 0.006 gr. tennoxid. Den efter behandling med kolsyradt natron olösliga delen var kolsvart. Ett försök att bränna bort kolet i syrgas och att uppsamla kolsyran, lyckades blott partielt, emedan endast ytan syrsattes och blef röd. Vatten afgafs dervid. Det glödgade vägde 0.12. De använda 1.382 hade gifvit:
 
-Valter img: tdi ev en JÖDES
+|                            |         |                     |
+|----------------------------|---------|---------------------|
+| Kiseljord                  | 0.4315  | håller syre 21.5.   |
+| Talkjord                   | 0.3070  | 11.88               |
+| Kalkjord                   | 0.0032  | 0.09                |
+| Jernoxidul                 | 0.4011  | 9.13                |
+| Nickeloxid                 | 0.0190  | 0.40                |
+| Manganoxidul               | 0.0036  | 0.07                |
+| Lerjord                    | 0.0325  | 1.52                |
+| Chromjern, sönderdeladt    | 0.0087  |                     |
+| Tennoxid, kopparhaltig     | 0.0110  |                     |
+| Olöslig kolhaltig återstod | 0.1200  |                     |
+| Förlust                    | 0.0444  |                     |
+|                            | 1.3820. |                     |
 
-100.000.
+Förlusten, som utgör omkring 3 procent är nog stor. En del deraf är syre i jernoxid-oxidulen. Här inträffar i öfrigt samma förhållanden, som emellan syret i kiseljorden och syret i baserna i de föregående meteorstenarne. Öfverskottet i det sednare har troligen samma orsak här som i dessa, och denna är här mera tydligt en inblandning af jernoxid-oxidul.
 
-Analys af den svarta, glödgade återstoden.
-Den vägde 1.382 och sönderdelades med saltsy-
-ra. Lösningen var mycket mörkgul. Det olösta
-svart. Svafvelbundet väte borttiog lösningens färg.
-Den dervid erhållna fällningen lemnade efter
-svaflets bortbränning 0.005 gr. tennoxid, smittad
-af kopparoxid. För öfrigt gick analysen alldeles
-efter den redan meddelade allmänna planen. Lös-
-ningen af kiseljorden i kolsyradt natron var gul-
-aktig, men blef färglös genom mättning med sy-
-ra. Efter kiseljordens afskiljande genom afdunst-
-ning, fälldes ur saltets lösning i vatten, med en
-droppa causik ammoniak 0.006 gr. tennoxid. Den
-efter behandling med kolsyradt natron olösliga
-delen var kolsvart. Ett försök att bränna bort
-kolet i syrgas och att uppsamla kolsyran, lycka-
-des blott partielt, emedan endast ytan syrsattes
-och blef röd. Vatten afgafs- dervid. Det glöd-
-gade vägde 0.12. De använda 1.332 hade gifvit:
-
-aa
-
-") Ville man fråga: är det en enkel, bränbar kropp?
-så vore det kanske att lägga mera vigt derpå, än
-den har.
-
-
-
-
-
-
-Rigdljörd 25 2020 GA4315 haller syre 31.5.
-EOrd. sas AL 80070 11.88
-Mälkjord; ara &o a kro00å2 0.09
-
-Jemoxidul "10208 odon! 9.13
-
-) $ 23.09.
-INTEEGlOSId re a ser. GÖLNO 0:40
-Manganoxidul . . + 0.0036 0.07
-FRV I ERO IE, v00325 1.52
-
-Chromjern, sönderde-
-farter svrys de te 0008
-Tennoxid, kopparhaltig 0o.or10
-Olöslig kolhaltig återstod o.1200
-Förlust vERodpse rr 3 O:0444
-1.3320.
-
-Förlusten, som utgör omkring 3 procent är
-nog stor. En del deraf är syre i jernoxid-oxi-
-dulen. Här inträffar i öfrigt samma förhållanden,
-som emellan syret i kiseljorden och syret i ba-
-serna i de föregående meteorstenarne. Öfverskot-
-tet i det sednare har troligen samma orsak här
-som i dessa, och denna är här mera tydligt en
-inblandning af' jernoxid-oxidul.
-
-Denna meteorstens olösliga, kolsvarta del be-
-handlades med - fluorvätesyra och derefter med
-svafvelsyra, hvarefter återstod ett svart pulver
-olöst, som togs på ett vägdt filtrum, och hvaraf
-sedan en vägd portion förbrändes i syrgas, som
-leddes deröfver och sedan i en blandning af kau-
-stik ammoniak med chlorcalcium, i ett Liebigskt
-absorptionsrör. Den förbrändes med liflighet.
+Denna meteorstens olösliga, kolsvarta del behandlades med fluorvätesyra och derefter med svafvelsyra, hvarefter återstod ett svart pulver olöst, som togs på ett vägdt filtrum, och hvaraf sedan en vägd portion förbrändes i syrgas, som leddes deröfver och sedan i en blandning af kaustik ammoniak med chlorcalcium, i ett Liebigskt absorptionsrör. Den förbrändes med liflighet.
 
 Den ammoniakhaltiga vätskan hade i 48 tim-
 mar stått i korkad flaska, innan den inhälldes i
-
-
-
-
-
-
 absorptionsröret, hvarigenom således all kolsyrad
 kalk, som genom en ringa kolsyrehalt i ammo-
 niaken kunde vara bildad, hade afsatt sig. Den
@@ -432,13 +356,12 @@ Efter kolets förbränning 1 syrgas återstodo
 
 Det i flusspatssyra upplösta gaf
 
-Talkjordo ji yägs «4; 0:0030
-Jernoxidul . . . «. 0.0266
-Nickeloxid . . . . 0.0055
-Terjosd., »; +. ie ie [0,0025
-Tennoxid . . . . 0.0020
-
-Kiseljord . . +. «+ 0.0482.
+Talkerde|0,0050.  
+Eisenoxydul|0,0266.  
+Nickeloxyd|0,0055.  
+Tonerde|0,0025.  
+Zinnoxyd|0,0020.  
+Kieselerde|0,0462.
 
 Kiseljordens qvantitet är bedömd af förlu-
 sten. Kalkjord saknades alldeles. Talkjorden höll
@@ -747,21 +670,16 @@ vades den återstående vätska på balt af fosför-
 syra, hvaraf intet tydligt spår kunde upptäckas;
 Efter denna mndersökning består Pallasjernet af
 
-Jegnsö0s sar0l noh.etrus8d:d42
-BRRCKel! 9 AONLEN 901495 KIRS
-11700 3) a SRA NA EINRSE TV ERE PORER 0 a
-Magnesium . «cc; 2571: 0:050
-WATER KL Root RAG IP ÖRA
-Tenn och koppar -. 0.066
-Kobslymnadin fe sasw. mood
-Svalvel! an e00sIR2g Pe
-Olöst återstod . . . 0.480
-
-100.000.
-
-
-
-
+Eisen|88,042.  
+Nickel|10,732.  
+Kobalt|0,455.  
+Magnesium|0,050.  
+Mangan|0,132.  
+Zinn und Kupfer|0,066.  
+Kohle|0,043.  
+Schwefel|Spur.  
+Unlöslichem Rückstand|0,480.  
+100,000.
 
 I KnAPRoTH'nppber, att Pallasjernet skulle in-
 nehålla endast 2 p; ce. nickel och lösas utan lem-
@@ -867,13 +785,12 @@ de 0.0035 gr. fosforsyrad kalk, svarande emot
 0.00064 gr. fosfor, tillsamman 0.00554 gr. fos-
 for eller 18.47 p. c. Försöket hade således guvat
 
-Jern =. . :0.0146 49.67
-Nickel : +. -0.0055 18.33
-Magnesium = 0.0029 9.66
-Fosfor . +. 0.0055 13.47
-Förlust. «I 0.:0015-. > 4:37
-
-0.0300 100.00.
+Eisen|0,0146.|48,67.  
+Nickel|0,0055.|18,33.  
+Magnesium|0,0029.|9,66.  
+Phosphor|0,0055.|18,47.  
+Verlust|0,0015.|4,87.  
+0,0300.|100,00.
 
 Denna förlust är allt för stor, men' vid prof-
 vets ringhet lätt möjlig... En liten del deraf är
@@ -885,12 +802,6 @@ någon säkerhet.
 
 Vid dessa försök fann jag, att pallasjern, som
 upplöses i en något utspädd syra, hvarvid lösnin-
-
-
-
-
-
-
 
 gen understödes med värme, sedan välskan blif-
 vit mycket mättad med neutralt jernsalt, lemnar
@@ -907,13 +818,12 @@ under vigten öktes till o.114. Dessa upplöstes i
 saltsyra, och massan analyserades efter förut an-
 förda plan, hvarvid erhöllos
 
-Fenn naundinenrg teexs103il Bh
-BNet MAR tek TAND
-Magnesium |. « ;» :- 4.52
-Tenn och koppar .o«w 3.75
-KORA soc. BEBIRNIÖTSD 5
-
-100.00.
+Eisen|57,18.  
+Nickel|34,00.  
+Magnesium|4,52.  
+Zinn und Kupfer|3,75.  
+Kohle|0,55.  
+100,00.
 
 Deri innehölls ett ytterst ringa spår af fos-
 for, som dock sannolikt tillhört de af skelettet om-
@@ -959,15 +869,13 @@ en procent chlor-alkali.
 Jag skall här sammanställa resultaten af min
 och af WarmstEpts analyser.
 
-wW. B.
-Kiseljord . -. 40.83 40.46 hålla syre 21.039.
-Falkjörd! +: VIA 14:30 18.32
-
-Jernoxidul . 11.53 11.72 2.67721.08.
-Manganoxidul = 0.20 = 0.43 0.09
-Tennoxid . - ST 0.17
-
-100.39 100.13.
+|W.|B.|Sauerstoffgehalt.
+Kieselerde|40,83.|40,86.|21,039.
+Talkerde|47,74.|47,35.|18,32.
+Eisenoxydul|11,53.|11,72.|2,67.
+Manganoxydul|0,29.|0,43.|0,09.
+Zinnoxid|-,-.|0,17.
+|100,39.|100,53.|
 
 ”) Härvid nyttjade saltsyra och vatten voro förut mät-
 tade med svafvelbundet väte, som i kokning åter
@@ -1056,19 +964,13 @@ eller 2.211 procent.
 Lösningen analyserades på lika sätt som pal-
 lasjernets. Ellenbogener-jernet fanns bestå af
 
-
-
-Fernior .. Wm wan al 6
-
-. 88.23i
-NIELS Me oe far BA JAERO TT
-
-KGROl SE a snskysr ett JANNE: ÖR
-Masiestamirv cs ot fIINNO.270
-Föstormetaller” "co o2 EN 2211
-Spår af svafvel och mangan
-
-100.000.
+Eisen|88,231.  
+Nickel|8,517.  
+Kobalt|0,762.  
+Magnesium|0,279.  
+Phosphormetallen|2,211.  
+Schwefel und Mangan|Spur.  
+100,000.
 
 Nickeln höll tenn och koppar, men jag ha-
 de ej material till ett särskilt försök på dessas
@@ -1088,14 +990,9 @@ mast med de sistnämda. Jag erhöll nemligen,
 oberäknadt en förlust, nära lika stor som på Pal-
 las-jernets flittror, vid en analys af 0.028 gr.
 
-> OS.1t1 
-
-
-Nickel och magnesium 17.72
-
-ETS ber vs uden
-
-NOSIGKA SLS si KAR 14.17.
+Eisen|68,11.  
+Nickel und Magnesium|17,72.  
+Phosphor|14,17.
 
 Bohumilie-jernets fosformetaller -gåfvo jern
 65.977» nickel 15.008, fosfor 14.023, kisel 2.037,
@@ -1441,22 +1338,17 @@ bion. och LavGiers analyser:
 
 ") PocGexborees Annaler, IV, 173.
 
-
-
-Stannern "),. = Jonzac "9. Juavenas vy
-
-Kiseljord FR ROS 20 46.00 40.0
-Talkjord . +. 2.00 1.60 0.8
-Kalkjord -« «+ 9.50 7.50 9.2
-Jernoxidul . . 23.00 32.40 23.5
-Lerjord för AOC 6.00 10.
-
-Manganoxid . --- 2.30 6.5
-Kalk --- 0.2
-Kopparoxid . oo --- --- 0.i
-Chromoxid =. --- 1.00 1.0
-SNAUNE fan se 2 1.50 0.5
-100.00 93.50 102
+ |Stannern*|Jonzac*|Juvenas*  
+Kieselerde|48,25.|46,00.|40,0.  
+Talkerde|2,00.|1,60.|0,8.  
+Kalk|9,50.|7,50.|9,2.  
+Eisenoxydul|23,00.|32,40.|23,5.  
+Tonerde|14,50.|6,00.|10,4.  
+Manganoxyd|-,-.|2,80.|6,5.  
+Kali|-,-.|-,-.|0,2.  
+Kupferoxyd|-,-.|-,-.|0,1.  
+Chromoxyd|-,-.|1,00.|1,0.  
+Schwefel|2,75.|1,50.|0,5.
 
 Meteorstenen från Stanhern har nyligen blif-
 vit ånyo undersökt af v. Horcer »); men på ett
