@@ -364,156 +364,19 @@ _5. Pallasjernet och Pallasolivin._
 
 Denna ryktbara meteormassa, som genom Pallas blifvit bekant i Europa, låg nära kammen på ett skifferberg, i en trakt af Siberien, emellan Krasnojarsk och Abekansk. Invånarne der ansågo den för en från himmelen fallen helgedom, och folksagan bevarade på detta sätt minnet af dess fall, fastän historisk anteckning derom saknades. Pallas skattade dess vigt till omkring 1600 skålpund. Nu lärer den väl vara hel och hållen fördelad emellan allmänna och enskilta mineral-kabinetter. Denna ofantliga meteorsten utgjordes hufvudsakligen af ett skelett af jern, likt ett väljäst bröd, hvars runda och täta håligheter voro uppfyllda af en svagt grönaktig, glasklar olivin.
 
-Det till analysen använda pallasjernet ham-
-rades först så, att all dervid fastsittande, ofta ej
-synbar olivin söndersmulades och afföll. Deref-
-ter rengjordes det från rost med litet utspädd
-svafvelsyra, aftvättades väl och torkades vid en
-temperatur öfver +100?. Det upplöstes 1 saltsy-
-ra och vätgasen leddes genom en upplösning af
-salpetersyrad silfveroxid, försatt med kaustik am-
-moniak. I början grumlades icke denna vätska,
-men mot slutet, särdeles då lösningen understöd-
-des med värme, erböllos tydliga spår af utveck-
-ladt svafvelbundet väte, dock alldeles för obe-
-tydliga, att till vigten bestämmas, fastän försö-
+Det till analysen använda pallasjernet hamrades först så, att all dervid fastsittande, ofta ej synbar olivin söndersmulades och afföll. Derefter rengjordes det från rost med litet utspädd svafvelsyra, aftvättades väl och torkades vid en temperatur öfver +100°. Det upplöstes i saltsyra och vätgasen leddes genom en upplösning af salpetersyrad silfveroxid, försatt med kaustik ammoniak. I början grumlades icke denna vätska, men mot slutet, särdeles då lösningen understöddes med värme, erhöllos tydliga spår af utveckladt svafvelbundet väte, dock alldeles för obetydliga, att till vigten bestämmas, fastän försöket anställdes med ända till 7.742 grammer Pallasjern.
 
+Då all gasutveckling i värme upphört, ehuru vätskan ännu höll mycket fri syra, afhälldes det klara från en återstod, som bestod dels af ett fint, kollikt ämne; dels af små metallglänsande korn och flittror, på hvilka ny saltsyra var utan verkan. De upptogos på ett urglas, tvättades och torkades på glaset, för att vid ett blifvande försök på en kolhalt, vara fri från allt ludd af silpapperet. De vägde 0.0371 eller 0.48 af en procent.
 
+Jernlösningen oxiderades med salpetersyra, blandades med kaustik ammoniak till dess att en stor del af jernoxiden utfallit och utfälldes sedan i värme med bernstenssyrad ammoniak. Det klara frånsilades, och återstoden utkoktes i flera omgångar med vatten, hvartill sattes litet salmiak och litet bernstenssyrad ammoniak, hvarefter den togs på filtrum och tvättades. Tvättvattnen afdunstades och lades till den först genomgångna vätskan, hvarefter det hela i korkad flaska blandades med en lösning af svafvelnatrium (NaS⁵) och lemnades till dess vätskan klarnat och var rent gul, hvarefter svafvelmetallen togs på filtrum. Det genomgångna sönderdelades med saltsyra, hvars öfverskott afdunstades, hvarefter den silade upplösningen försattes med en blandning af ammoniak och fosforsyradt natron. Den grumlades icke genast, men efter någon stund hade ett storfjälligt salt fällt sig, som liknade fosforsyrad ammoniak-talk, det uppsamlades, tvättades, glödgades och blef svart. Det befanns vara hufvudsakligen fosforsyrad mangan, som i glödgningen öfvergått till basiskt oxidsalt. Fullt talkjordsfri var den väl icke, men jag har i resultatet beräknat den såsom mangansalt. Den vägde 0.028 gr. och motsvarar 0.0103 mangan eller 0.13 af en procent.
 
+Svafvelmetallerna, som för att icke oxideras, tvättades med kokande vatten, rostades sedan, löstes i saltsyra, den öfverflödiga syran afröktes i vattenbad till torrhet, saltet löstes å nyo i vatten, och lösningen blandades med kaustik ammoniak, hvaraf den blef starkt blå; men en fällning uppkom, som icke upplöste sig af mera tillslaget ammoniak. Denna fällning upphämtades på filtrum och var skönt grön, samt befanns olöslig i kolsyrad ammoniak. Den vägde glödgad 0.03 gr. var svartgrå, och visade sig vid försök dermed hufvudsakligen innehålla koboltoxid. Af de försök som särskilt anställdes för att utröna orsaken till ett så afvikande förhållande från hvad jag förut erfarit vid behandling af kobolthaltig nickel, utröntes, att då lösningen icke innehåller något ammoniaksalt, hvarmed dubbelsalt kan bildas, så utfälles en del af koboltoxiden med grön färg, och då vätskan tillika innehåller talkjord, så fälles denna, förenad med koboltoxiden, och denna förening behåller sig grön under tvättning, då koboltoxiden ensam blir brun. Så ofta lösningen har öfverskott af syra eller håller ett ammoniaksalt i tillräcklig mängd, så att dubbelsalter kunna bildas, så fås icke denna fällning, förr än då nickeloxiden utfälles med kalihydrat, hvarvid den blandas med denne, och kobolthalten kan dervid så alldeles försvinna, att i den med kaustikt kali fällda vätskan icke finnes ett spår dertill.* De ofvan anförde 0.03 gr. behandlades, på förr angifvet sätt, med utspädd salpetersyra, och denna lösning med vätesvafladt svafvelammonium, och sönderdelades i 0.00625 gr. talkjord, smittad af litet mangan, men återställande den blå färgen på ett rodnadt lakmuspapper, och i 0.02375 gr. koboltoxid, i hvilken en ringa halt af nickeloxid kunde upptäckas.
 
-
-ket anställdes med ända till 7.742 grammer Pal-
-lasjern.
-
-Då all gasutveckling i värme upphört, ehu-
-ru vätskan ännu höll mycket fri syra, afhälldes
-det klara från en återstod, som bestod dels af ett
-fint, kollikt ämne; dels af små metallglänsande
-korn och flittror, på hvilka ny saltsyra var utan
-verkan. De upptogos på ett urglas, tvättades och
-torkades på glaset, för att vid ett blifvande för-
-sök på en kolhalt, vara fri från allt ludd af sil-
-papperet. De vägde 0.037: eller 0.48 af en procent.
-
-Jernlösningen oxiderades med salpetersyra,
-blandades med kaustik ammoniak till dess att en
-stor del af jernoxiden utfallit och utfälldes sedan
-i värme med bernstenssyrad ammoniak. Det kla-
-ra frånsilades, och återstoden utkoktes i flera om-
-gångar med vatten, hvartill sattes litet salmiak
-och litet bernstenssyrad ammoniak, hvarefter den
-togs på filtrum och tvättades. Tvättvattnen af-
-dunstades och lades till den först genomgångna
-vätskan, hvarefter det hela i korkad flaska blan-
-dades med en lösning af svafvelnatrium (JVaS?)
-och lemnades till dess vätskan klarnat och var
-rent gul, hvarefter svafvelmetallen togs på fit-
-rum. Det genomgångna sönderdelades med salt-
-syra, hvars öfverskott afdunstades, hvarefter den
-silade upplösningen försattes med en blandning
-af ammoniak och fosforsyradt natron. Den grum-
-lades icke genast, men efter någon stund hade
-ett storfjälligt salt fällt sig, som liknade fosfor-
-syrad ammoniak-talk, det uppsamlades, tvättades,
-glödgades och blef svart. Det befanns vara huf-
-vudsakligen fosforsyrad mangan, som i glödgnin-
-gen öfvergått till basiskt oxidsalt. Fullt talkjords-
-fri var den väl icke, men jag har i resultatet be-
-räknat den såsom mangansalt. Den vägde 0.028 gr.
-
-
-
-
-
-
-och motsvarar 0.0103 mangan eller 0.13 af en
-procent.
-
-Svafvelmetallerna, som för att icke oxideras;
-tvättades med kokande vatten, rostades sedan,
-löstes i saltsyra, den öfverflödiga syran afröktes
-i vattenbad till torrhet, saltet löstes å nyo i vat-
-ten, och lösningen blandades med kaustik ammo-
-niak, hvaraf den blef starkt blå; men en fällning
-uppkom, som icke upplöste sig af mera tillslaget
-ammoniak. Denna fällning upphämtades på fil-
-trum och var skönt grön, samt befanns olöslig i
-kolsyrad ammoniak. Den vägde glödgad 0.03 gr.
-var svartgrå, och visade sig vid försök dermed
-hafvudsakligen innehålla koboltoxid. Af de för-
-sök som särskilt anställdes för att utröna orsaken
-till ett så afvikande förhållande från hvad jag
-förut erfarit vid behandling af kobolthaltig nic-
-kel, utröntes, alt då lösningen icke innehåller nå-
-got ammoniaksalt, hvarmed dubbelsalt kan bildas,
-så utfälles en del af koboltoxiden med grön färg,
-och då vätskan tillika innehåller talkjord, så fäl-
-les denna, förenad med koboltoxiden, och denna
-förening behåller sig grön under tvättning, då
-koboltoxiden ensam blir brun. Så ofta lösningen
-har öfverskott af syra eller håller ett ammoniak-
-salt i tillräcklig mängd, så att dubbelsalter kun-
-na bildas, så fås icke denna fällning, förr än då
-nickeloxiden utfälles med kalibydrat, hvarvid den
-blandas med denne, och kobolthalten kan dervid
-så alldeles försvinna, att i den med kaustikt kali
-fällda vätskan icke finnes elt spår dertill 5). De
-
-ofvan
-
-”) I hänseende till denna koboltförenings bildning, må
-följande anföras. Ren nickelfri koboltoxid, renad på
-LavGiers metod, upplöstes i saltsyra och afröktes till
-torrhet i vattenbad. Det blå saltet upplöstes i vat-
-ten, Med kaustik ammoniak gaf det en grön fällning,
-
-
-
-ofvan anförde 0.03 gr: behandlades, :på förr an-
-gifvel sätt; med utspädd salpetersyra, och denna
-lösning med vätesvafladt svafvelaramonium, och
-sönderdelades 1 0.00625 gr. talkjord, smittad af
-litet mangan, men återställande den blå färgen
-på ett-rodnadt lakmuspapper, och i 0.02375 gr.
-koboltoxid, i hvilken en ringa halt af nickeloxid
-kunde upptäckas.
+*) I hänseende till denna koboltförenings bildning, må följande anföras. Ren nickelfri koboltoxid, renad på Laugiers metod, upplöstes i saltsyra och afröktes till torrhet i vattenbad. Det blå saltet upplöstes i vatten. Med kaustik ammoniak gaf det en grön fällning, som om några timmar blef brun. En annan del af saltet blandades med litet chlormagnesium; den gaf äfvenväl en grön fällning med ammoniak, men den blef ej brun. Dessa fällningar, så väl den rena gröna oxiden, som den talkjordshaltiga, upplöstes genast åter, utan lemning, då en lösning af salmiak tillsattes. Lösningen blef icke röd, utan smutsigt gul. Kaustikt kali, som tillblandades i tillräcklig qvantitet, fällde oxiden åter med grön färg. Den rena blef brun, den talkjordshaltiga behöll sig i vätskan oförändradt grön, fast än den lemnades så en hel vecka. Den var så lik den, som under vanliga omständigheter fås af nickeloxiden, att den på blotta utseendet ej kunde skiljas derifrån. Den höll dock icke mer än knappt 10 p. c. talkjord, och således mycket fri koboltoxid. Den ofvanstående vätskan var färglös. Häraf inser man lätt att det _Phillipska_ profvet, vid analyser af detta slag, lätt kan vilseföra, och att väl aldrig en på detta sätt bestämd kobolthalt kan blifva fullt säker, hvilket också gäller om dem jag här meddelar. Men det är för i fråga varande fall afingen vigt om ett ringa fel deri inträffar. De ofvan anförda försöken visa, att svafvelmagnesium har samma benägenhet att fällas med svafvelkobolt och svafvelnickel, som talkjord med de oxiderade metallerna. Jag tror att dessa omständigheter förtjena att iakttagas vid analysen af föreningar, som hålla nickel och kobolt.
 
 Den blå ammoniakvätskan, fälld med kau-
 stikt kali, gaf en vackert äplegrön nickeloxid,
 som glödgad vägde 1.02175 gr.; för alt pröfvas
-
-som om någva' timmar blef brun. En annan del af
-saltet blandades med litet chlormagnesium; den gaf
-äfvenväl en grön fällning med ammoniak, men den
-blef ej brun. Dessa fällningar, så väl den rena grö-
-na oxiden, som den talkjordshaltiga, upplöstes genast
-åter, utan lemning, då en lösning af salmiak tillsat-
-tes. Lösningen blef icke röd, utan smutsigt gul. Kau-
-stikt kali, som tillblandades i tillräcklig qvantitet,
-fällde oxiden åter med grön färg. Den rena blef
-brun, den talkjordshaltiga behöll sig i vätskan oför-
-ändradt grön, fast än den lemnades så en hel vecka.
-Den var så lik den, som under vanliga omständighe-
-ter fås af nickeloxiden, att den på blotta utseendet
-ej kunde skiljas derifrån. Den höll dock icke mer
-än knappt 10 p. c. talkjord, och således mycket fri
-koboltoxid. Den ofvanstående vätskan var färglös.
-Häraf inser man lätt att det Phillipska profvet, vid
-analyser af detta slag, lätt kan vilseföra, och att väl
-aldrig en på detta sätt bestämd kobolthalt kan blif-
-va fullt säker, hvilket också gäller om dem jag här
-meddelar. Men det är för i fråga varande fall afin-
-gen vigt om ett ringa fel deri inträffar. De ofvan
-anförda försöken visa, att svafvelmagnesium har sam-
-ma benägenhet att fällas med svafvelkobolt och svaf-
-velnickel, som talkjord med de oxiderade metallerna.
-Jag tror att dessa omständigheter förtjena att iakt-
-
-tagas vid analysen af föreningar, som hålla nickel
-och kobolt,
-
-
-
 på sin syrehalt, reducerades 0.981 gr. deraf ge-
 nom glödgning i en ström af vätgas. En silfver-
 hvit metall erbölls, som vägde 0.771. Den ha-
