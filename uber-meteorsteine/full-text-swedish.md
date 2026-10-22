@@ -374,408 +374,122 @@ Svafvelmetallerna, som för att icke oxideras, tvättades med kokande vatten, ro
 
 *) I hänseende till denna koboltförenings bildning, må följande anföras. Ren nickelfri koboltoxid, renad på Laugiers metod, upplöstes i saltsyra och afröktes till torrhet i vattenbad. Det blå saltet upplöstes i vatten. Med kaustik ammoniak gaf det en grön fällning, som om några timmar blef brun. En annan del af saltet blandades med litet chlormagnesium; den gaf äfvenväl en grön fällning med ammoniak, men den blef ej brun. Dessa fällningar, så väl den rena gröna oxiden, som den talkjordshaltiga, upplöstes genast åter, utan lemning, då en lösning af salmiak tillsattes. Lösningen blef icke röd, utan smutsigt gul. Kaustikt kali, som tillblandades i tillräcklig qvantitet, fällde oxiden åter med grön färg. Den rena blef brun, den talkjordshaltiga behöll sig i vätskan oförändradt grön, fast än den lemnades så en hel vecka. Den var så lik den, som under vanliga omständigheter fås af nickeloxiden, att den på blotta utseendet ej kunde skiljas derifrån. Den höll dock icke mer än knappt 10 p. c. talkjord, och således mycket fri koboltoxid. Den ofvanstående vätskan var färglös. Häraf inser man lätt att det _Phillipska_ profvet, vid analyser af detta slag, lätt kan vilseföra, och att väl aldrig en på detta sätt bestämd kobolthalt kan blifva fullt säker, hvilket också gäller om dem jag här meddelar. Men det är för i fråga varande fall afingen vigt om ett ringa fel deri inträffar. De ofvan anförda försöken visa, att svafvelmagnesium har samma benägenhet att fällas med svafvelkobolt och svafvelnickel, som talkjord med de oxiderade metallerna. Jag tror att dessa omständigheter förtjena att iakttagas vid analysen af föreningar, som hålla nickel och kobolt.
 
-Den blå ammoniakvätskan, fälld med kau-
-stikt kali, gaf en vackert äplegrön nickeloxid,
-som glödgad vägde 1.02175 gr.; för alt pröfvas
-på sin syrehalt, reducerades 0.981 gr. deraf ge-
-nom glödgning i en ström af vätgas. En silfver-
-hvit metall erbölls, som vägde 0.771. Den ha-
-de, efter räkning från nickelddidehs vänliga sy-
-rehalt, bordt väga 0.77213, hvilket således utvi-
-sar en ringa inblandning af superoxid. Det er-
-hållna qvantum hickelåsitt; beräknadt i metall ef-
-ter reduktionsprofvet, svarar emot o. 803 gr. eller
-10.372 p. c. metallisk nickel. Denna upplöstes i
-saltsyra genom användande af värme, och lösnin-
-gen gaf med svafvelbundet väte en mörkgul, ef-
-ter torkning nära svart fällning, som glödgad
-vägde 0.002 gr. och var kopparhaltig tennoxid.
+Den blå ammoniakvätskan, fälld med kaustikt kali, gaf en vackert äplegrön nickeloxid, som glödgad vägde 1.02175 gr.; för att pröfvas på sin syrehalt, reducerades 0.981 gr. deraf genom glödgning i en ström af vätgas. En silfverhvit metall erhölls, som vägde 0.771. Den hade, efter räkning från nickeloxidens vanliga syrehalt, bordt väga 0.77213, hvilket således utvisar en ringa inblandning af superoxid. Det erhållna qvantum nickeloxid, beräknadt i metall efter reduktionsprofvet, svarar emot 0.803 gr. eller 10.372 p. c. metallisk nickel. Denna upplöstes i saltsyra genom användande af värme, och lösningen gaf med svafvelbundet väte en mörkgul, efter torkning nära svart fällning, som glödgad vägde 0.002 gr. och var kopparhaltig tennoxid.
 
-Den vätska, hvarur nickeloxiden var fälld med
-kaustikt kali, hade en tydlig dragning i rosen-
-rödt. Den gaf efter ammoniakens bortdunstning,
-koboltoxid, som glödgad vägde 0.021 gr. och till-
-samman med te förut érbållga 0.02375 gifva
-0.04475 oxid eller 0.0352:1 kobolt, svarande emot
-0.495 af en procent af meteorjernels. vigt.
+Den vätska, hvarur nickeloxiden var fälld med kaustikt kali, hade en tydlig dragning i rosenrödt. Den gaf efter ammoniakens bortdunstning, koboltoxid, som glödgad vägde 0.021 gr. och tillsamman med de förut erhållna 0.02375 gifva 0.04475 oxid eller 0.03521 kobolt, svarande emot 0.455 af en procent af meteorjernets vigt.
 
-För alt undersöka om jernet håller kol, hvar-
-af en portion kan bortgå med vätgasen under
-upplösningen, användes a gr. pallasjern, som
-upplöstes i utspädd destillerad svafvelsyra med
-tillhjelp af värme. Vätgasen leddes genom en
-med kopparoxid fylld, öfver spritlampa upphet-
-tad glaskula, hvaraf den, sedan kärlens atm. luft
-var utjagad, förvandlades till vatten, så att gan-
-ska litet gas blef öfver. Denne inleddes i en
-blandning af ammoniak och chlorcaletwm, på sätt
-förut är nämdt; men qvantiteten deraf var så
-ringa, att den slutligen utkristalliserade kolsyra-
-de kalken icke gaf mer än 0.03 gr. gips, svaran-
-de emot 0.00266 gr. kol, eller 0.043 af en procent.
+För att undersöka om jernet håller kol, hvaraf en portion kan bortgå med vätgasen under upplösningen, användes 6.132 gr. pallasjern, som upplöstes i utspädd destillerad svafvelsyra med tillhjelp af värme. Vätgasen leddes genom en med kopparoxid fylld, öfver spritlampa upphettad glaskula, hvaraf den, sedan kärlens atm. luft var utjagad, förvandlades till vatten, så att ganska litet gas blef öfver. Denne inleddes i en blandning af ammoniak och chlorcalcium, på sätt förut är nämdt; men qvantiteten deraf var så ringa, att den slutligen utkristalliserade kolsyrade kalken icke gaf mer än 0.03 gr. gips, svarande emot 0.00266 gr. kol, eller 0.043 af en procent.
 
-Genom den 1 svafvelsyra erhållna lösningen
-passerades en ström af svafvelbundet väte, hvar-
+Genom den i svafvelsyra erhållna lösningen passerades en ström af svafvelbundet väte, hvaraf den om några ögonblick antog en blekgul grumling, som efter full utfällning, och samling var mörkgul åt brunt, och lemnade, efter svaflets bortbränning, 0.005 gr. tennoxid, så starkt smittad af kopparoxid, att den var nära svart i glödgadt tillstånd, och gaf i reduktion en tennkula, hvars färg hade synbar dragning i gult. Den svarar emot 0.066 af en procent kopparhaltigt tenn.
 
+Jernhalten bestämdes efter den grund, att hvad som icke var något annat, måste hafva varit jern. Den erhållna, med bernstenssyra förenade oxiden, pröfvades: _a)_ i smältning med salpeter och litet kolsyradt alkali på en chromhalt; hvartill intet spår kunde upptäckas. Salpeterlösningen, försatt med blysalt, blef väl gul af syror, men det var af salpetersyrligt bly, som icke fälldes utan behöll sig upplöst. _b)_ Efter upplösning i saltsyra och utfällning med svafvelnatrium, pröfvades den återstående vätska på halt af fosforsyra, hvaraf intet tydligt spår kunde upptäckas. Efter denna undersökning består Pallasjernet af
 
+|                 |          |
+|-----------------|----------|
+| Jern            | 88.042   |
+| Nickel          | 10.732   |
+| Kobolt          | 0.455    |
+| Magnesium       | 0.050    |
+| Mangan          | 0.132    |
+| Tenn och koppar | 0.066    |
+| Kol             | 0.043    |
+| Svafvel         | spår     |
+| Olöst återstod  | 0.480    |
+|                 | 100.000. |
 
+Klaproth uppger, att Pallasjernet skulle innehålla endast 2 p. c. nickel och lösas utan lemning. Howard slöt af sina försök, att nickelhalten skulle utgöra 17 procent. Halten af magnesium, oaktadt ej ovanlig i tackjern, skulle kunna tillskrifvas närvaro af olivin; men då sådant vore fallet, återstår alltid olivins kiseljord i hvita, ganska synbara korn, bland den olösta svarta eller metalliska lemningen, då deremot det olivinfria jernet icke lemnar ringaste spår af olöst kiseljord, och dock håller magnesium. Vi skola dessutom i analysen af den olösliga återstoden få ett förnyadt bevis att magnesium innehålles metalliskt i meteorjernet.
 
+_Den olösliga återstoden_ är en ganska intressant del af meteorjernet. Det är i det hela samma fosforförening, som jag, vid undersökningen af meteorjernet från Bohumilie, analyserat och beskrifvit. Sådan den efter jernets upplösning qvarblef, bestod den af tvenne, till utseende olika delar, af hvilka den ena var svart, kollik och lätt, den andra metallglänsande och kristallinisk. Jag ansåg den förra för att vara kol, och skilde dem derföre mycket noga åt, för att bränna det kollika i syrgas och uppsamla kolsyregasen. En ganska liflig förbränning ägde verkligen rum, pulvret vann betydligt i vigt, men jag fick endast ett spår af kolsyregas, och det visade sig, vid fortsatt undersökning, att det icke varit annat än samma förening med det kristalliniska, men som varit så utblandad med jernet, att den återstod gestaltlös och i en särdeles fin mekanisk fördelning.
 
-af den om: några ögonblick antog.en blekgulgrum-
-ling, som efter full utfällning, och samling var
-mörkgul åt brunt, och lemnade, efter svaflets bort-
-bränning, 0:005 gr. tennoxid, så starkt smittad af
-kopparoxid, allden var nära svart i glödgadttill-
-stånd, och gaf isreduktion en stennkula, : hvars
-färg hade synbar dragning 1 -gult. Den. svarar
-emot 0.066 af en: procent 'kopparhaltigt. tenns,:s
-Jernhalten bestämdes efter den grund; att
-hvad som icke var något annat, måste Hue va-
-rit jern. Den Gilsllna. med ”bernstenssyra före-
-nade oxiden; pröfvades: a) i smältning med sal-
-peter och litet .skolsyvwadt alkali på -en chromhalt;
-hvartill intet spår kunde upptäckas... Salpeterlös-
-ningen, försatt med -blysalt, blef väl gul af syror,
-men det. var af; salpetersyrligt bly, som icke fäll-
-des utan behöll sig upplöst. 6)-Efter upplösning
-i saltsyra och örfällnibe ved svafvelnatrium, pröf-
-vades den återstående vätska på balt af fosför-
-syra, hvaraf intet tydligt spår kunde upptäckas;
-Efter denna mndersökning består Pallasjernet af
+Det metalliska visade sig under mikroskopet bestå af kristaller, som företedde den besynnerligheten, att några sidor voro fullt utkristalliserade, under det att andra alldeles liknade brottytor. Dess färg var alldeles lik meteorjernets, det angreps icke af saltsyra men väl af kungsvatten, som med lätthet löste det. Jag hade endast 0.03 gr. deraf att använda, till analys. Dessa löstes i kungsvatten, lösningen neutraliserades med kaustik ammoniak och blandades med vätesvafladt svafvelammonium i öfverskott, hvilket öfverskott genom kokning utjagades, hvarefter svafvelmetallerna upptogos på filtrum och tvättades med kokhett vatten. Den genomgångna vätskan koncentrerades genom afdunstning och blandades i en flaska med kaustik ammoniak, utan att någon fällning uppkom, hvaraf frånvaro af talkjord deri ådagalägges. Nu tillsattes chlorcalcium, så länge någon fällning uppkom, flaskan korkades och vätskan lemnades att klarna. Den afsatte fosforsyrad kalkjord, som glödgad vägde 0.023 gr., gaf för blåsrör fosforjern i ymnighet och svarar emot 0.0049 gr. fosfor.
 
-Eisen|88,042.  
-Nickel|10,732.  
-Kobalt|0,455.  
-Magnesium|0,050.  
-Mangan|0,132.  
-Zinn und Kupfer|0,066.  
-Kohle|0,043.  
-Schwefel|Spur.  
-Unlöslichem Rückstand|0,480.  
-100,000.
+Svafvelmetallerna oxiderades med kungsvatten, vätskan neutraliserades med kaustik ammoniak, och jernet utfälldes med bernstenssyrad ammoniak, som gaf 0.021 gr. jernoxid, svarande emot 0.01456 gr. jern. Den med bernstenssyrad ammoniak fällda lösningen blef blå af ammoniak, utan att fällas. Kaustikt kali fällde en flockig, voluminös, blekt grön fällning, som tydligt innehöll något mer än nickeloxid. Den vägde glödgad 0.01175. Behandlad på förut anförda sätt med utspädd salpetersyra och vätesvafladt svafvelammonium, erhölls derur 0.00475 gr. hvit talkjord, som starkt återställde det rodnade lakmuspapperets blå färg. Den motsvarar 0.00191 gr. magnesium. Nickeloxidens vigt har således varit 0.007 gr., svarande emot 0.0055 gr. nickel. Den höll spår af tenn, koppar och kobolt, som, då profvet sker på en större qvantitet af massan, visserligen kunna till sin qvantitet bestämmas, men hvilket så i smått icke lät sig göra.
 
-I KnAPRoTH'nppber, att Pallasjernet skulle in-
-nehålla endast 2 p; ce. nickel och lösas utan lem-
-ning. Howard slöt af sina försök, att nickelhal-
-ten skulle utgöra 17 procent. : Halten af magne-
-sium, oaktadt ej ovanlig i tackjern, skulle kunna
-tillskrifvas närvaro afcolivin ; men då sådant vo-
-re fallet, ålerstår "alltid olivins kiseljord i hvita,
-ganska synbara (korn, bland den: olösta svarta el-
-ler metalliska lemningen, då deremot: det olivin-
-fria jernet icke'lemnar ringaste "spår af olöst ki-
-seljord, och dock "håller magnesium. "Vi skola dess-
-utom 1 analysen af den olösliga återstoden få ett
-förnyadt bevis att magnesium innehålles metal-
-liskt i meteorjernet; |
-wo cDen olösliga återstoden är en ganska in-
-tressant del af meteéorjernet.; ) Det är: i det hela
-samma fosforförening, som: jag, vid undersöknin- :
-gen af meteorjernet från Bohumilie, analyserat
-och beskvifvit. Sådan den efter jernets upplös-
-ning qvarblef, bestod: den af tvenne, till: utseen-
-de olika deiar, af hvilka den ena var svart, kol-
-lik och lätt, den andra metallglänsande och kri-
-stallinisk. " Jag ansåg den förra för att vara kol,
-och skilde dem derföre mycket noga åt, för att
-bränna det kollika 1 syrgas och uppsamla kolsy-
-regasen. En ganska liflig förbränning ägde verk-
-ligen rum, pulvret vann betydligt i vigt, men
-jag fick endast ett spår af kolsyregas, och det vi-
-"sade sig, vid fortsatt undersökning, att det icke
-varit annat än samma förening med det kristal-
-liniska, men som varit så utblandad med jernet,
-alt den återstod gestaltlös och i en särdeles fin
+Den med vätesvafladt svafvelammonium erhållna fällningen innehöll icke endast svafvelmetaller, deri fanns äfven en portion fosforsyrad ammoniaktalk. En del af denna fosforsyra har otvifvelaktigt fällt sig tillika med det bernstenssyrade jernet, i hvilket, vid försökets anställande, eftersökning deraf blef förgäten, hvilket jag sedan icke kunnat godtgöra. En annan del deraf fanns i det kaustika kali, som tjenat till nickeloxidens afskiljande, och erhölls efter saltets förvandling till chlorcalcium, samt fällning med chlorcalcium och kaustik ammoniak. Den bildade 0.0035 gr. fosforsyrad kalk, svarande emot 0.00064 gr. fosfor, tillsamman 0.00554 gr. fosfor eller 18.47 p. c. Försöket hade således gifvit
 
-mekanisk fördelning.
-Det metalliska visade sig under mikroskopet
-bestå af kristaller, som företedde "den besynner-
-ligheten, att några sidor voro fullt utkristallise-
+|           |        |         |
+|-----------|--------|---------|
+| Jern      | 0.0146 | 48.67   |
+| Nickel    | 0.0055 | 18.33   |
+| Magnesium | 0.0029 | 9.66    |
+| Fosfor    | 0.0055 | 18.47   |
+| Förlust   | 0.0015 | 4.87    |
+|           | 0.0300 | 100.00. |
 
+Denna förlust är allt för stor, men vid profvets ringhet lätt möjlig. En liten del deraf är kol. Skulle hela förlusten antagas till fosfor, så komme förhållandet nära R²P; men ett så i smått anställt försök, med en så blandad kropp, kan icke blifva tillräckligt noggrant för beräkning med någon säkerhet.
 
+Vid dessa försök fann jag, att pallasjern, som upplöses i en något utspädd syra, hvarvid lösningen understödes med värme, sedan vätskan blifvit mycket mättad med neutralt jernsalt, lemnar olöst ett skelett af jernets form, men lätt, så att det af gasutvecklingen kringföres i vätskan. Jag lät lösningen fortsättas tills all gasutveckling upphört, och uttvättade då skelettet med kokande vatten. Det befanns vara svart och poröst, så att det kunde sammantryckas emellan fingrarne. Jag kunde till analys använda endast 0.088 gr. deraf. Det brändes i syrgas, brann med liflighet och frambragte 3 3/4 milligramm kolsyrad kalk, hvarunder vigten öktes till 0.114. Dessa upplöstes i saltsyra, och massan analyserades efter förut anförda plan, hvarvid erhöllos
 
+|                 |         |
+|-----------------|---------|
+| Jern            | 57.18   |
+| Nickel          | 34.00   |
+| Magnesium       | 4.52    |
+| Tenn och koppar | 3.75    |
+| Kol             | 0.55    |
+|                 | 100.00. |
 
+Deri innehölls ett ytterst ringa spår af fosfor, som dock sannolikt tillhört de af skelettet omslutne delar af fosforföreningen. Närvaro af magnesium häri, visar att denna metall, i förening med jern och nickel blifvit mindre lättlöst än sjelfva jernet.
 
-rade, under det att andra alldeles Iiknade brotts;
-ytor. Dess färg. var alldeles, lik meteorjernets;
-det angreps icke af saltsyra men, väl / af, kungs-,
-vatten, som med lätthet löste det. ;Jag hade en-.
-dast 0.03 gr. deraf att använda, till:analys. iDes-
-sa löstes i kungsvatten;, lösningen neutraliserades
-med -kaustik ammoniak och .blandades med väte-;
-svafladt svafvelammonium! i öfverskott, hvilket.
-öfverskolt genom ,. kokning; utjagades, hvarefter
-svafvelmetallerna ;:upptogos på . filtrum och. tvät-
-tades med kokhett vatten, : Den genomgångna vät-
-skan koncentrerades genom afdunstning och blan-
-dades i en;flaska med kaustik ammoniak, utan;
-att någon fällning uppkom; hvaraf frånvaro: af
-tålkjord deri ådagalägges. Nu tillsattes chlorcal-
-cium, så länge någon fällning uppkom, flaskan,
-korkades och. vätskan lemnades' att klarna., Den
-afsatte fosforsyrad kalkjord, som 'glödgad: vägde
-0.023 gr., gaf för blåsrör fosforjern i ymnighet
-och svarar emot 0.0049 gr. fosfor.
-Svafvelmetallerna oxiderades med kungsvat-
-ten, vätskan neutraliserades med kaustik ammo-
-niak, och jernet utfälldes med bernstenssyrad am-
-moniak, som gaf 0.021 gr. jernoxid, svarande
-emot 0.01456 gr. jern. Den med bernstenssyrad
-ammoniak fällda lösningen blef blå af ammoniak,
-utan att fällas., Kaustikt kali fällde en flockig,
-voluminös, blekt grön fällning, som tydligt in-
-nehöll något. mer än nickeloxid. Den vägde glöd-
-gad 0.011735., Behandlad på förut anförda sätt
-med utspädd salpetersyra och vätesvafladt svaf-
-velammonium, erhölls derur 0.00475 gr. hvit
-talkjord, som starkt, återställde det rodnade lak-
-muspapperets blå färg. "Den motsvarar 0.00191
-gr. magnesium. Nickeloxidens vigt har således
-varit 0.007 gr., svarande emot 0.0055 gr. nickel,
+_Pallas-olivin_ har blifvit analyserad af Walmstedt* och af Stromjer.* Den förre fann, att dess sammansättning fullkomligt uttryckes med formeln {Mg,ƒ}S; den sednare, som funnit nickel i andra oliviner, fann likväl, emot allt hvad man haft anledning att förmoda, pallas-olivin derifrån alldeles fri. Howard hade dock angifvit ända till 1 procent nickeloxid deri. Herr Professor Walmstedt har haft den godheten att medela mig ett litet prof af denna nu mera sällsamma substans, hvilket utfallit ur den större stuff Pallasjern, som förvaras i Upsala Universitets mineralkabinett.
 
+*) Kongl. Vetenskaps-Academiens Handlingar, 1824, p. 361.
 
+*) Gött. gel. Anz. d. 27 Dec. 1824.
 
+Jag har analyserat den efter förut angifna plan, d. ä. medelst det slammade pulvrets sönderdelning med saltsyra, lösningens behandling med svafvelbundet väte, o. s. v. och erhöll dervid en tennoxid, smittad af kopparoxid,* alldeles såsom af föregående meteorstenar, men deremot kunde jag, lika litet som Stromejer, deri upptäcka ringaste spår af nickel. Min analys instämmer i öfrigt nästan fullkomligt med Walmstedts. Han fann spår af kalk och lera, jag fann spår af kali och natron, som tillsamman gåfvo 0.007 af en procent chlor-alkali.
 
+Jag skall här sammanställa resultaten af min och af Walmstedts analyser.
 
-Den höll 'spår af tenn; koppar och > kobolt;' som,
-då profvet sker på en större qvantilet af massan,
-visserligen kunna" till "sin qvantitet bestämmas,
-mén hvilket så i smålt icke lät sig göra.
+| ~            | W.     | B.      |                    |
+|--------------|--------|---------|--------------------|
+| Kiseljord    | 40.83  | 40.46   | hålla syre 21.039. |
+| Talkjord     | 47.74  | 47.35   | 18.32              |
+| Jernoxidul   | 11.53  | 11.72   | 2.67               |
+| Manganoxidul | 0.29   | 0.43    | 0.09               |
+| Tennoxid     | ---    | 0.17    |                    |
+|              | 100.39 | 100.13. | ~                  |
 
-Den med'vätesvafladt svafvelammonium er-
-bållna fällningen innehöll icke endast svafvelme-
-taller, 'deri fanns "äfven en" portion fosforsyrad
-ammoniaktalk. "En del af denna” fosforsyra har
-otvifvelaktigt fällt sig tillika med det bernstens-
-syrade jernet, 1 hvilket, vid försökets"anställan-
-de, eftersökning deraf blef förgäten, hvilket jag
-sedan icke kunnat godtgöra. En annan del deraf
-fanns i det kaustika kali, som: tjenat till nickel-
-oxidens afskiljande, och erhölls "efter saltets för-
-vandling till ehlorcaleium, samt fällning med
-chlorealeium och kaustik ammoniak. ' Den bilda-
-de 0.0035 gr. fosforsyrad kalk, svarande emot
-0.00064 gr. fosfor, tillsamman 0.00554 gr. fos-
-for eller 18.47 p. c. Försöket hade således guvat
+*) Härvid nyttjade saltsyra och vatten voro förut mättade med svafvelbundet väte, som i kokning åter förjagades, för att vara säker för all tennhalt i reagentia.
 
-Eisen|0,0146.|48,67.  
-Nickel|0,0055.|18,33.  
-Magnesium|0,0029.|9,66.  
-Phosphor|0,0055.|18,47.  
-Verlust|0,0015.|4,87.  
-0,0300.|100,00.
+Närvaro af tennoxid i olivin föranledde mig att söka samma oxid äfven i telluriska oliviner, hvilkas nickelhalt förut bragt dem i öfverensstämmelse med de meteoriska. Jag valde till denna undersökning 2 slag oliviner, af hvilka den ena förekommer i Böhmen vid Boscowich ej långt från Aussig, och den andra var af mig sjelf hämtad från någon af lavamassorna i Departementet Puy de Dôme i Frankrike. Båda höllo tennoxid smittad af kopparoxid, alldeles såsom de i det föregående behandlade meteor-olivinerna, och till en qvantitet som icke fullt utgjorde 1/5 procent. Kopparoxidens närvaro upptäcktes med lätthet, då tennoxiden smältes på kol för blåsrör med ganska litet borax, hvarvid tennet reducerades till en enda fluten kula, och lemnade på sidan ett glas, som under afsvalning blef ogenomskinligt och rödt.
 
-Denna förlust är allt för stor, men' vid prof-
-vets ringhet lätt möjlig... En liten del deraf är
-kol. Skulle hela förlusten antagas till fosfor, så
-komme förhållandet nära R?P ; men ett så i smått
-anställt försök, med en så blandad kropp, kan ic-
-ke blifva tillräckligt noggrant för beräkning med
-någon säkerhet.
+Den Böhmiska olivinen var till utseendet fullkomligt lik Pallas-olivin; jag fortsatte derföre undersökningen deraf, för att finna om äfven den var nickelfri. Lösningen oxiderades med salpetersyra, jernoxiden utfälldes med bernstenssyrad ammoniak, den silade lösningen, mättad med kolsyrad ammoniak, så att en svag reaktion för alkali uppkom, gaf ingen fällning; men fällde med vätesvafladt svafvelammonium, en portion svafvelnickel, som med fosforsalt och metalliskt tenn visade sig hålla ett spår af kobolt. Denna öfverensstämmelse i halt af tillfälliga beståndsdelar emellan tellurisk olivin och meteor-olivin är, i min tanke, särdeles anmärkningsvärd.
 
-Vid dessa försök fann jag, att pallasjern, som
-upplöses i en något utspädd syra, hvarvid lösnin-
+_6. Meteorjern från Ellenbogen._
 
-gen understödes med värme, sedan välskan blif-
-vit mycket mättad med neutralt jernsalt, lemnar
-olöst ett skelett af jernets form, men lätt, så att
-det af gasulvecklingen kringföres i vätskan. Jag
-lät lösningen fortsättas tills all gasutveckling upp-
-hört, och uttvättade då skelettet med kokande vat-
-ten. Det befanns vara svart och poröst, så att
-det kunde sammantryckas emellan fingiarne. Jag
-kunde till analys använda endast. 0.088 gr. der-
-af. Det brändes 1 syrgas, brann med liflighet
-och frambragte 33 milligramm kolsyrad kalk, hvar-
-under vigten öktes till o.114. Dessa upplöstes i
-saltsyra, och massan analyserades efter förut an-
-förda plan, hvarvid erhöllos
+Denna meteorjern-massas fall har icke eller blifvit historiskt antecknadt; men dess förvarande sedan en obekant tid, på Staden Ellenbogens Rådhus, antyder att det blifvit bemärkt, hvilket föranledt dess tillvaratagande. Det af folket i orten densamma tillagda namnet: _Der verwünschte Burggraf_ synes tillkännagifva, att den fallit under den temligen korta period då Ellenbogen styrdes af Burggrefvar, hvilket skedde i slutet af 1300:talet och början af 1400:talet. Den förvaras nu i Wien. Det stycke jag deraf äger, har säkerligen passerat många händer innan det kom i mina, och dess ursprung från Ellenbogenermassan kan således icke anses fullkomligt säkert; men de derpå genom etsning framkallade figurer, öfverensstämma så med det aftryck af Wienerstyckets figurer, som meddelas i v. Schreibers's Beyträge zur Geschichte und Kentniss meteorischer Stein- und Metall-massen, Tab. 10., att jag ej har anledning att misstänka någon substitution, särdeles då så sölida stycken af meteorjern icke äro allmänna.
 
-Eisen|57,18.  
-Nickel|34,00.  
-Magnesium|4,52.  
-Zinn und Kupfer|3,75.  
-Kohle|0,55.  
-100,00.
+Till analysen användes en afsågad skifva af 1.47 gr. vigt. Den löstes i saltsyra. Vätgasen gaf ytterst ringa spår af svafvel i den ammoniakhaltiga silfversolution; men gaf dem dock omisskänliga. Under lösningen afföll från det renare jernet ett sotlikt pulver, hvilket icke märktes på de Widmanstädtska figurerna, som behöllo sig blanka. Jemte detta svarta pulver afföllo likadana metalliska flittror, såsom från Pallasjernet, men somliga deribland voro temligen stora, liknande sönderbrutna kristaller. Det olösta vägde 0.0325 eller 2.211 procent.
 
-Deri innehölls ett ytterst ringa spår af fos-
-for, som dock sannolikt tillhört de af skelettet om-
-slutne delar af fosforföreningen. Närvaro af ma-
-gnesium häri, visar att denna metall, i förening
-med jern och nickel blifvit mindre lättlöst än
-sjelfva jernet.
+Lösningen analyserades på lika sätt som pallasjernets. Ellenbogener-jernet fanns bestå af
 
-Pallas-olivin har blifvit analyserad af WaArm-
-steEpDT ") och af StromJer 75). Den förre fann, att
-dess sammansättning fullkomligt uttryckes med
+|                            |          |
+|----------------------------|----------|
+| Jern                       | 88.231   |
+| Nickel                     | 8.517    |
+| Kobolt                     | 0.762    |
+| Magnesium                  | 0.279    |
+| Fosformetaller             | 2.211    |
+| Spår af svafvel och mangan | ---      |
+|                            | 100.000. |
 
-formeln MELSs den sednare, som funnit nickel
+Nickeln höll tenn och koppar, men jag hade ej material till ett särskilt försök på dessas mängd, som i alla fall är högst ringa. Klaproth fick af Ellenbogener-jernet blott 2 1/2 p. c. nickel, Neumann deremot fann 6.45 p. c. Åsigten af figurernas olika täthet på detta meteorjern visar, att den i olika stycken ej kan vara lika; men en sådan afvikning som den Klaproths resultat förutsätter, kan endast bero på en felaktig metod till nickelns afskiljande.
 
-Så FA Vetenskaps-Academiens Handlingar, 1824, p-
-i.
-"") Gött. gel. Anz. d. 27 Dec. 1824.
+De olösliga fosformetallerna liknade alldeles dem ur Pallas- och Bohumilie-jernet, men öfverensstämde i sammansättnings-proportioner närmast med de sistnämda. Jag erhöll nemligen, oberäknadt en förlust, nära lika stor som på Pallas-jernets flittror, vid en analys af 0.028 gr.
 
-
-
-i andra oliviner, fann likväl, emot allt hvad man
-haft anledning att förmoda, pallas-olivin derifrån
-alldeles fri. Howarpb hade dock angifvit ända
-till rr procent nickeloxid deri. Herr Professor
-WarmstepT har haft den godheten att medela mig
-ett litet prof af denna nu mera sällsamma substans,
-hvilket utfallit ur den större stuff Pallasjern, som
-förvaras i Upsala Universitets mineralkabinett.
-
-Jag har analyserat den efter förut angifna plan,
-d. ä. medelst det slammade pulvrets sönderdel-
-ning med saltsyra, lösningens behandling med
-svafvelbundet väte, o. s. v. och erhöll dervid en
-tennoxid, smiltad af kopparoxid "), alldeles så-
-som af föregående meteorstenar, men deremot
-kunde jag, lika litet som STRomMEJER, deri upptäc-
-ka ringaste spår af nickel. Min analys instäm-
-mer i öfrigt nästan fullkomligt med WaALMSTEDTS.
-Han fann spår af kalk och lera, jag fann spår af
-kali och natron, som tillsamman gåfvo 0.007 af
-en procent chlor-alkali.
-
-Jag skall här sammanställa resultaten af min
-och af WarmstEpts analyser.
-
-|W.|B.|Sauerstoffgehalt.
-Kieselerde|40,83.|40,86.|21,039.
-Talkerde|47,74.|47,35.|18,32.
-Eisenoxydul|11,53.|11,72.|2,67.
-Manganoxydul|0,29.|0,43.|0,09.
-Zinnoxid|-,-.|0,17.
-|100,39.|100,53.|
-
-”) Härvid nyttjade saltsyra och vatten voro förut mät-
-tade med svafvelbundet väte, som i kokning åter
-förjagades, för att vara säker för all tennhalt i rea-
-gentia,
-
-
-
-
-Närvaro af tennoxid i olivin föranledde mig
-all söka samma oxid äfven i telluriska oliviner,
-hvilkas nickelbalt förut bragt dem i öfverensstäm-
-melse med de meteoriska. Jag valde till denna
-undersökning 2 slag oliviner, af hvilka den ena
-förekommer i Böhmen vid Boscowich ej långt från
-Aussig, och den andra var af mig sjelf hämtad
-från någon af lavamassorna i Departementet Puy de
-Döme i Frankrike. Båda höllo tennoxid smittad
-af kopparoxid, alldeles såsom de i det föregående
-behandlade meteor-olivinerna, och till en qvan-
-tilet som icke fullt utgjorde 3 procent. Kop-
-paroxidens närvaro upptäcktes med lätthet, då
-tennoxiden smältes på kol för blåsrör med gan-
-ska litet borax, hvarvid tennet reducerades till
-en enda fluten kula, och lemnade på sidan elt
-glas, som under afsvalning blef ogenomskinligt
-och rödt.
-
-Den Böhmiska olivinen var till utseendet full-
-komligt lik Pallas-olivin; jag fortsatte derföre un-
-dersökningen deraf, för alt finna om äfven den
-var nickelfri. Lösningen oxiderades med salpe-
-tersyra, jernoxiden utfälldes med bernstenssyrad
-ammoniak, den silade lösningen, mättad med kol-
-syrad ammoniak, så att en svag reaktion för al-
-kali uppkom, gaf ingen fällning; men fällde med
-vätesvafladt svafvelammonium, en portion svaf-
-velnickel, som med fosforsalt och metalliskt tenn
-visade sig hålla ett spår af kobolt. Denna öf-
-verensstämmelse i halt af tillfälliga beståndsdelar
-emellan tellurisk olivin och meteor-olivin är, i
-min tanke, särdeles anmärkningsvärd.
-
-6. Meteorjern från Ellenbogen.
-
-Denna meteorjern-massas fall bar icke eller
-blifvit historiskt antecknadt; men dess förvaran-
-
-
-
-
-de sedan en obekant tid, på Staden Ellenbogens
-Rådbhus, antyder att det blifvit bemärkt, hvilket
-föranledt dess uUllvaratagande. Det af folket i
-orten densamma tillagda namnet: Der wver-
-winschte Burggraf synes tillkännagifva, att den
-fallit under den temligen korta period då Ellen-
-bogen styrdes af Burggrefvar, hvilket skedde i
-slutet. af 1300:talet och början af 140o0:talet. Der
-förvaras nu i Wien. Det stycke jag deraf äger,
-har säkerligen passerat många händer innan det
-kom i mina, och dess ursprung från Ellenbogener-
-massan kan således icke anses fullkomligt kd
-men de derpå genom etsning framkallade Helen
-öfverensstämma så med det aftryck af Wiener-
-styckets figurer, som meddelas 1 V. SCHREIBERS'S
-Beyträge zur Geschichte und Kentniss meteori-
-scher Stein- und Metall-massen, Tab. X; att jag
-ej har anledning att misstänka någon substitution,
-särdeles då så Sölida stycken af meteorjern icke
-äro allmänna.
-
-Till analysen användes en afsågad skifva af
-1.47 gr. vigt. Den löstes i saltsyra. Vätgasen
-gaf ytterst ringa spår af svafveli den ammoniak-
-hålliga silfversolution; men gaf dem dock omiss-
-känliga. Under lösningen afföll från det renare
-jernet ett sotlikt pulver, hvilket icke märktes på
-de Widmanstädtska figurerna, som beböllo sig
-blanka. Jemte detta svarta pulver afföllo likada-
-na metalliska flittror, såsom från Pallasjernet, men
-somliga deribland voro temligen stora, liknande
-nde bnötia kristaller. Det olösta vägde 0.0325
-eller 2.211 procent.
-
-Lösningen analyserades på lika sätt som pal-
-lasjernets. Ellenbogener-jernet fanns bestå af
-
-Eisen|88,231.  
-Nickel|8,517.  
-Kobalt|0,762.  
-Magnesium|0,279.  
-Phosphormetallen|2,211.  
-Schwefel und Mangan|Spur.  
-100,000.
-
-Nickeln höll tenn och koppar, men jag ha-
-de ej material till ett särskilt försök på dessas
-mängd, som i alla fall är högst ringa. KLAPROTH
-fick af Eilenbogener-jernet blott 23 p. c. nickel,
-NEUMANN deremot fann 6.45 p. c. Åsigten af fi-
-gurernas oiika täthet på detta meteorjern visar, att
-den i olika stycken ej kan vara lika; men en så-
-dan afvikning som den KraArrotns resultat förut-
-sätter, kan endast bero på en felaktig metod till
-nickelns afskiljande.
-
-De olösliga fosformetallerna liknade alldeles
-dem ur Pallas- och Bohumilie-jernet, men öfver-
-ensstämde i sammansätlnings-proporlioner mnär-
-mast med de sistnämda. Jag erhöll nemligen,
-oberäknadt en förlust, nära lika stor som på Pal-
-las-jernets flittror, vid en analys af 0.028 gr.
-
-Eisen|68,11.  
-Nickel und Magnesium|17,72.  
-Phosphor|14,17.
+|                      |        |
+|----------------------|--------|
+| Jern                 | 68.11  |
+| Nickel och magnesium | 17.72  |
+| Fosfor               | 14.17. |
 
 Bohumilie-jernets fosformetaller -gåfvo jern
 65.977» nickel 15.008, fosfor 14.023, kisel 2.037,
 kol 1.422. Till kisel fanns intet spår i Ellen-
 bogener-jernet; på kol skedde ingen undersökning
 då dertill användes endast oförbränliga kristal-
-
 ler. Nickeln höll spår af tenn och kobolt. För-
-
-
 öfrigt är här samma fel begånget, som vid Pal-
 Jas-jernets fosforföreningars undersökning, att fos-
 forsyra ej eftersöktes i den med bernstenssyrad
@@ -815,10 +529,6 @@ tenn, koppar, svafvel, kol och stundom spår äf-
 ven af fosfor; svafvel och kol bortgå med vät-
 gasen. Tenn och koppar upplösas, äfven ulan
 
-
-
-
-
 tillsats af salpetersyra, jemte jernet och nickeln.
 Då det gedigna jetnet upplöses, affalla derifrån, i
 syror olösliga, fosformetaller, af hvilka en del va-
@@ -857,17 +567,9 @@ utdragas med magneten, emedan det vid rifnin-
 gen fäster sig vid och färgar delarne af det hår-
 dare pulvret. Howarp analyserade svafveljern ur
 
-
-
-
-
-
 meteorsten från Benares, och fann jern 10.5, nic-
 kel 1.0, svafvel 2.0 och förlust 0.5. Svafvelhal-
-1
-
 en är icke É af hvad nickeln och svaflet uppta-
-
 ga i Fe och Ni, och bevisar tillräckligt att Ho-
 warp till analysen användt en blandning af svaf-
 veljern med fint fördeladt nickeljern. Sådana bland-
@@ -903,18 +605,11 @@ blandning af jernoxid-oxidul i så fördeladt till-
 stånd, att magneten icke afskiljer den annorlunda
 än ganska ofullkomligt.
 
-
-
-
-
-
 4:0 Meteor-olivin utgör omkring hälften i
 vigt af bvad som återstår efter de magnetiska be-
 ståndsdelarnes utdragning, och sönderdelas af sy-
 ror med lemning af kiseljord. Dess formel är all-
-
 deles densamma som för vanlig olivin; ="7:S,
-
 hvari M och f£f variera i relativ myckenhet. Den
 innehåller, såsom isomorfa substitutioner, små
 qvantliteter silikat af nickeloxid och manganoxi-
@@ -926,7 +621,6 @@ liga mineralets begynta sönderdelning, kan för
 det närvarande ej afgöras. Det samma gäller om
 den ringa lerjordshalt, som stundom träffas deri.
 Anmärkningsvärdt är, alt den nästan aldrig inne-
-
 håller kalkjor d.
 
 5:o I syror olösliga silikater af fikon
@@ -934,7 +628,6 @@ kalkjord, jernoxidul, AT PESO lerjord
 kali och natron, 1 hvilka kiseljordens syre är 2
 gr: basernes. Desse utgöra troligen mer än ett
 mineral. Man kunde gissa på el pyroxenarladt
-
 C3$S? och ett Leucitartadt i S?4+-3AS?,
 dö K
 
@@ -948,10 +641,6 @@ narne voro bildade af tellurisk olivin och pyro-
 AX 0. .” .
 xén, skulle deras färg vara grön eller till och
 med kolsvart, genom jernets högre oxidering deri,
-
-
-
-
 
 hvaraf allt för väl synes, att den smälta, svarta
 hinnan uppkommit först i jordens almosfer.
@@ -996,10 +685,6 @@ Talkjorden förekommer sparsamt. Finkornigheten
 och det ringa sammanhanget 1 meteorstenarnes
 textur
 
-
-
-
-
 iextar skulle kunna tyda på att de blifvit utkas
 stade i smält tillstånd och således kunde förlik=
 nas vid telluriska volkanprodukter. Likväl tyc-
@@ -1035,8 +720,6 @@ haltiga ämne denna jord håller inblandadt, synes
 icke hertiltiga till slutsatsen af en organisk naturs
 tillvarelse i denna jords ursprungliga hemort. Dess
 egenskap af jord tyckes mer än någon annan om-
-
-
 
 ständighet visa, alt meteorstenarne icke blifvit i
 flytande form utkastade och stelnat sedan, eme-
@@ -1074,11 +757,6 @@ nare. Ungefär 1 af deras massa är löslig i syror
 analys på meteorstenen från Juvenas, hvaraf man
 väl kan förmoda, att i den lösliga delen håller
 kiseljord och baser lika syre, och i den olösliga
-
-
-
-
-
 
 delen är den förras två gånger de sednares, lika-
 som i de förut beskiifna.
@@ -1146,10 +824,6 @@ kungsvatten erbållna lösningen och begagnade sig
 ><) BaumGaETnERs Zeitschrift fur Physik und verwandte 
 
 Wissenschaften, Il, 293.
-
-
-
-
 
 Udertill af benzoesyradt alkali, så blef denna fäll-
 ning mindre färgad, än med jernoxidsalter är
