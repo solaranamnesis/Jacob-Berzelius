@@ -1,4 +1,4 @@
-# Jacob Berzelius' Meteorite Works
+# Jöns Jacob Berzelius.
 
 ## Über Meteorsteine (1834)
 
