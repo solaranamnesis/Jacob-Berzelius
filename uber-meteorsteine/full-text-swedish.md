@@ -484,27 +484,11 @@ De olösliga fosformetallerna liknade alldeles dem ur Pallas- och Bohumilie-jern
 | Nickel och magnesium | 17.72  |
 | Fosfor               | 14.17. |
 
-Bohumilie-jernets fosformetaller -gåfvo jern
-65.977» nickel 15.008, fosfor 14.023, kisel 2.037,
-kol 1.422. Till kisel fanns intet spår i Ellen-
-bogener-jernet; på kol skedde ingen undersökning
-då dertill användes endast oförbränliga kristal-
-ler. Nickeln höll spår af tenn och kobolt. För-
-öfrigt är här samma fel begånget, som vid Pal-
-Jas-jernets fosforföreningars undersökning, att fos-
-forsyra ej eftersöktes i den med bernstenssyrad
-ammoniak afskilda jernoxiden. De med Bohu-
-milie-jernet anställda försöken visa, att fosfor verk-
-ligen finnes i detta jern, utöfver hvad som ingår i
-de olösliga fosformetallerna. Förmodligen hålla
-de sednare äfven der magnesium.
+Bohumilie-jernets fosformetaller gåfvo jern 65.977, nickel 15.008, fosfor 14.023, kisel 2.037, kol 1.422. Till kisel fanns intet spår i Ellenbogener-jernet; på kol skedde ingen undersökning då dertill användes endast oförbränliga kristaller. Nickeln höll spår af tenn och kobolt. Föröfrigt är här samma fel begånget, som vid Pallas-jernets fosforföreningars undersökning, att fosforsyra ej eftersöktes i den med bernstenssyrad ammoniak afskilda jernoxiden. De med Bohumilie-jernet anställda försöken visa, att fosfor verkligen finnes i detta jern, utöfver hvad som ingår i de olösliga fosformetallerna. Förmodligen hålla de sednare äfven der magnesium.
 
-De nu anförda undersökningarne ådagalägga,
-att meteorstenarne äro bergarter, blandade af fle-
-ra mineralier i något varierande förhållanden.
-Dessa mineralier äro följande:
+De nu anförda undersökningarne ådagalägga, att meteorstenarne äro bergarter, blandade af flera mineralier i något varierande förhållanden. Dessa mineralier äro följande:
 
-1:0 Gediget jern. Detta utgör stundom huf-
+1:0 _Gediget jern_. Detta utgör stundom huf-
 vudmassan af hvad som nedfallit, dock har in-
 gen sådan massa fallit sedan 1802, så vidt hit-
 tills blifvit bekant. De meteor-massor hvari jer-
