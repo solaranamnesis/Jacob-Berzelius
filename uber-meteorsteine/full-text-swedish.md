@@ -488,84 +488,9 @@ Bohumilie-jernets fosformetaller gåfvo jern 65.977, nickel 15.008, fosfor 14.02
 
 De nu anförda undersökningarne ådagalägga, att meteorstenarne äro bergarter, blandade af flera mineralier i något varierande förhållanden. Dessa mineralier äro följande:
 
-1:0 _Gediget jern_. Detta utgör stundom huf-
-vudmassan af hvad som nedfallit, dock har in-
-gen sådan massa fallit sedan 1802, så vidt hit-
-tills blifvit bekant. De meteor-massor hvari jer-
-net är den ymnigaste beståndsdelen, söndersprin-
-ga icke i fallet, och utgöra derigenom de största
-meteorstenar, som funnits. Jernet deri är stun-
-dom i tät massa, stundom i vridna större och
-mindre delar, samt i korn, vanligen fulla af gro-
-par och ihåligheter, som innesluta stenmassa. Jer-
-net är blandadt med andra metaller, förnämligast
-med nickel, hvars qvantitet synes icke vara kon-
-stant. En kemisk förening af jern och nickel
-har i det öfriga anskjutit, och, då den trögare lö-
-ses af syror än det emellanliggande, renare jer-
-net, så framkomma genom etsning teckningar af
-dessa kristaller, kände under namn af Widmann-
-städtska figurer. Då en sådan etsad yta anlöpes,
-efter polering, blir jernet mörkblått och nickel-
-legeringen brandgul. Jernet innehåller dessutom
-små qvantiteter af kobolt, magnesium, mangan,
-tenn, koppar, svafvel, kol och stundom spår äf-
-ven af fosfor; svafvel och kol bortgå med vät-
-gasen. Tenn och koppar upplösas, äfven ulan
+1:0 _Gediget jern_. Detta utgör stundom hufvudmassan af hvad som nedfallit, dock har ingen sådan massa fallit sedan 1802, så vidt hittills blifvit bekant. De meteor-massor hvari jernet är den ymnigaste beståndsdelen, sönderspringa icke i fallet, och utgöra derigenom de största meteorstenar, som funnits. Jernet deri är stundom i tät massa, stundom i vridna större och mindre delar, samt i korn, vanligen fulla af gropar och ihåligheter, som innesluta stenmassa. Jernet är blandadt med andra metaller, förnämligast med nickel, hvars qvantitet synes icke vara konstant. En kemisk förening af jern och nickel har i det öfriga anskjutit, och, då den trögare löses af syror än det emellanliggande, renare jernet, så framkomma genom etsning teckningar af dessa kristaller, kände under namn af Widmannstädtska figurer. Då en sådan etsad yta anlöpes, efter polering, blir jernet mörkblått och nickellegeringen brandgul. Jernet innehåller dessutom små qvantiteter af kobolt, magnesium, mangan, tenn, koppar, svafvel, kol och stundom spår äfven af fosfor; svafvel och kol bortgå med vätgasen. Tenn och koppar upplösas, äfven utan tillsats af salpetersyra, jemte jernet och nickeln. Då det gedigna jetnet upplöses, affalla derifrån, i syror olösliga, fosformetaller, af hvilka en del varit jemt utblandade med jernet, och afskilja sig i lätta, svarta kåfvor, som likna kol, en annan del affaller i små, tunga, metallglänsande kristaller, som visa det egna förhållande, att vissa af deras sidor likna brottytor, då andra äro riktiga kristallytor. Det svarta pulvret brinner i syrgas, ger dervid ett ringa spår af kolsyregas. Den egentliga förbränningen tillhör metallerna och fosforen. Det är utan allt tvifvel att kristallerna äro fosforeta af jern, nickel och magnesium uti bestämda förhållanden, men mina analyser derå äro ännu så ofullkomliga, att dessa föreningars riktiga sammansättning icke kan slutas deraf. Det första steget har varit att bestämma att sådana fosforföreningar verkligen finnas i meteorjernet. Det andra blir, då tillräckligt material för en noggrann undersökning står att få, att bestämma deras precisa sammansättning.
 
-tillsats af salpetersyra, jemte jernet och nickeln.
-Då det gedigna jetnet upplöses, affalla derifrån, i
-syror olösliga, fosformetaller, af hvilka en del va-
-rit jemt utblandade med jernet, och afskilja sig i
-lätta, svarta kåfvor, som likna kol, en annan del
-affaller i små, tunga, metallglänsande kristaller,
-som visa det egna förhållande, att vissa af deras
-sidor likna brottytor, då andra äro riktiga kri-
-stallytor. Det svarta pulvret brinner i syrgas,
-ger dervid ett ringa spår af kolsyregas, Den
-egentliga förbränningen tillhör metallerna och fos-
-foren. Det är utan allt tvifvel att kristallerna
-äro fosforeta af jern, nickel och magnesium uti
-bestämda förhållanden, men mina analyser derå
-äro ännu så ofullkomliga, att dessa föreningars rik-
-tiga sammansättning icke kan slutas deraf. Det
-första steget har varit att bestämma att sådana
-fosforföreningar verkligen finnas i meteorjernet.
-Det andra blir, då tillräckligt material för en nog-
-grann undersökning står att få, att bestämma de-
-ras precisa sammansättning.
-
-2:0 Svafveljern. Detta är icke svafvelkis;
-knappast är det magnetkis, utan troligen det svaf-
-veljern, som innehåller i at. af hvardera bestånds-
-delen. Deraf kan man förklara dess ringa ma-
-gnetiska polaritet och den stora häftighet, hvar-
-med det af syror under utveckling af svafvelbun-
-det väte sönderdelas. På de meteorstenar jag un-
-dersökt, har jag icke funnit deti skilda delar, utan
-så inblandadt med bergarten, att jag icke kun-
-nat få kännedom om dess utseende. Det bidra-
-ger troligen till meteorstenarnes mörka färg. Det
-kan, såsom redan Howarp anmärkt, aldrig fullt
-utdragas med magneten, emedan det vid rifnin-
-gen fäster sig vid och färgar delarne af det hår-
-dare pulvret. Howarp analyserade svafveljern ur
-
-meteorsten från Benares, och fann jern 10.5, nic-
-kel 1.0, svafvel 2.0 och förlust 0.5. Svafvelhal-
-en är icke É af hvad nickeln och svaflet uppta-
-ga i Fe och Ni, och bevisar tillräckligt att Ho-
-warp till analysen användt en blandning af svaf-
-veljern med fint fördeladt nickeljern. Sådana bland-
-ningar har åtminstone jag alltid fått, då jag ve-
-lat afsöndra svafveljern till analys. Huru sanno-
-likt det kan vara att svafveljernet innehåller bå-
-de litet svafvelnickel och svafvelkoppar, så kan
-sådant dock icke slutas af de försök vi hittills äga.
-En analys af svafveljernet 1 meteorstenar är så-
-ledes ett desideratum; men det blir dervid nöd-
-vändigt att icke låta missleda sig genom en in-
-blandning af fint fördeladt nickeljern.
+2:0 _Svafveljern_. Detta är icke svafvelkis; knappast är det magnetkis, utan troligen det svafveljern, som innehåller 1 at. af hvardera beståndsdelen. Deraf kan man förklara dess ringa magnetiska polaritet och den stora häftighet, hvarmed det af syror under utveckling af svafvelbundet väte sönderdelas. På de meteorstenar jag undersökt, har jag icke funnit det i skilda delar, utan så inblandadt med bergarten, att jag icke kunnat få kännedom om dess utseende. Det bidrager troligen till meteorstenarnes mörka färg. Det kan, såsom redan Howard anmärkt, aldrig fullt utdragas med magneten, emedan det vid rifningen fäster sig vid och färgar delarne af det hårdare pulvret. Howard analyserade svafveljern ur meteorsten från Benares, och fann jern 10.5, nickel 1.0, svafvel 2.0 och förlust 0.5. Svafvelhalten är icke 1/3 af hvad nickeln och svaflet upptaga i _Fe′_ och _Ni′_, och bevisar tillräckligt att Howard till analysen användt en blandning af svafveljern med fint fördeladt nickeljern. Sådana blandningar har åtminstone jag alltid fått, då jag velat afsöndra svafveljern till analys. Huru sannolikt det kan vara att svafveljernet innehåller både litet svafvelnickel och svafvelkoppar, så kan sådant dock icke slutas af de försök vi hittills äga. En analys af svafveljernet i meteorstenar är således ett desideratum; men det blir dervid nödvändigt att icke låta missleda sig genom en inblandning af fint fördeladt nickeljern.
 
 3:o Magnetisk jernmalm. Ehuru jernet i
 meteorslenarne förekommer hufvudsakligast me-
