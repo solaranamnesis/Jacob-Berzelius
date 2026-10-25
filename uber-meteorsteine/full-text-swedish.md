@@ -492,92 +492,21 @@ De nu anförda undersökningarne ådagalägga, att meteorstenarne äro bergarter
 
 2:0 _Svafveljern_. Detta är icke svafvelkis; knappast är det magnetkis, utan troligen det svafveljern, som innehåller 1 at. af hvardera beståndsdelen. Deraf kan man förklara dess ringa magnetiska polaritet och den stora häftighet, hvarmed det af syror under utveckling af svafvelbundet väte sönderdelas. På de meteorstenar jag undersökt, har jag icke funnit det i skilda delar, utan så inblandadt med bergarten, att jag icke kunnat få kännedom om dess utseende. Det bidrager troligen till meteorstenarnes mörka färg. Det kan, såsom redan Howard anmärkt, aldrig fullt utdragas med magneten, emedan det vid rifningen fäster sig vid och färgar delarne af det hårdare pulvret. Howard analyserade svafveljern ur meteorsten från Benares, och fann jern 10.5, nickel 1.0, svafvel 2.0 och förlust 0.5. Svafvelhalten är icke 1/3 af hvad nickeln och svaflet upptaga i _Fe′_ och _Ni′_, och bevisar tillräckligt att Howard till analysen användt en blandning af svafveljern med fint fördeladt nickeljern. Sådana blandningar har åtminstone jag alltid fått, då jag velat afsöndra svafveljern till analys. Huru sannolikt det kan vara att svafveljernet innehåller både litet svafvelnickel och svafvelkoppar, så kan sådant dock icke slutas af de försök vi hittills äga. En analys af svafveljernet i meteorstenar är således ett desideratum; men det blir dervid nödvändigt att icke låta missleda sig genom en inblandning af fint fördeladt nickeljern.
 
-3:o Magnetisk jernmalm. Ehuru jernet i
-meteorslenarne förekommer hufvudsakligast me-
-talliskt och 1 minimum af oxidation, så förefal-
-ler dock jernoxid-oxidul ganska bestämdt 1 me-
-teorstenen från Lautolax, hvars enda magneten
-följbara beståndsdel deraf utgöres, samt i meteor-
-jorden från Alais, der den" utgör det mesta af
-hvad magneten ultdrager, oaktadt dock gediget
-jern finnes i ringa mängd inblandadt. Om den
-finnes i meleorstenarne vanligen, vet jag ej med
-säkerhet. Men då deras pulver med saltsyra öf-
-vergjutes, så utvecklas först litet svafvelbunden
-vätgas, hvilket om ett ögonblick är förbi och se-
-dan blir syran gul, hvilket utan närvaro af jern-
-oxid ej vore möjligt, förr än den hunnit absor-
-bera syre från luften. Det är deraf troligt att
-öfverskotten af basernas syre, i meteorstenarnes af
-syror lösliga beståndsdel, kan härröra från en in-
-blandning af jernoxid-oxidul i så fördeladt till-
-stånd, att magneten icke afskiljer den annorlunda
-än ganska ofullkomligt.
+3:0 _Magnetisk jernmalm_. Ehuru jernet i meteorstenarne förekommer hufvudsakligast metalliskt och i minimum af oxidation, så förefaller dock jernoxid-oxidul ganska bestämdt i meteorstenen från Lautolax, hvars enda magneten följbara beståndsdel deraf utgöres, samt i meteorjorden från Alais, der den utgör det mesta af hvad magneten utdrager, oaktadt dock gediget jern finnes i ringa mängd inblandadt. Om den finnes i meteorstenarne vanligen, vet jag ej med säkerhet. Men då deras pulver med saltsyra öfvergjutes, så utvecklas först litet svafvelbunden vätgas, hvilket om ett ögonblick är förbi och sedan blir syran gul, hvilket utan närvaro af jernoxid ej vore möjligt, förr än den hunnit absorbera syre från luften. Det är deraf troligt att öfverskotten af basernas syre, i meteorstenarnes af syror lösliga beståndsdel, kan härröra från en inblandning af jernoxid-oxidul i så fördeladt tillstånd, att magneten icke afskiljer den annorlunda än ganska ofullkomligt.
 
-4:0 Meteor-olivin utgör omkring hälften i
-vigt af bvad som återstår efter de magnetiska be-
-ståndsdelarnes utdragning, och sönderdelas af sy-
-ror med lemning af kiseljord. Dess formel är all-
-deles densamma som för vanlig olivin; ="7:S,
-hvari M och f£f variera i relativ myckenhet. Den
-innehåller, såsom isomorfa substitutioner, små
-qvantliteter silikat af nickeloxid och manganoxi-
-dul, äfvensom en portion tennoxid, hvari den lik-
-nar den telluriska olivin. Om de små qvantite-
-ter af kali och natron, som analyserna angifva,
-tillhöra den väsendtligt, eller äro prof af det olös-
-liga mineralets begynta sönderdelning, kan för
-det närvarande ej afgöras. Det samma gäller om
-den ringa lerjordshalt, som stundom träffas deri.
-Anmärkningsvärdt är, alt den nästan aldrig inne-
-håller kalkjor d.
+4:0 _Meteor-olivin_ utgör omkring hälften i vigt af hvad som återstår efter de magnetiska beståndsdelarnes utdragning, och sönderdelas af syror med lemning af kiseljord. Dess formel är alldeles densamma som för vanlig olivin; ={M,ƒ}S, hvari _M_ och _ƒ_ variera i relativ myckenhet. Den innehåller, såsom isomorfa substitutioner, små qvantiteter silikat af nickeloxid och manganoxidul, äfvensom en portion tennoxid, hvari den liknar den telluriska olivin. Om de små qvantiteter af kali och natron, som analyserna angifva, tillhöra den väsendtligt, eller äro prof af det olösliga mineralets begynta sönderdelning, kan för det närvarande ej afgöras. Det samma gäller om den ringa lerjordshalt, som stundom träffas deri. Anmärkningsvärdt är, att den nästan aldrig innehåller kalkjord.
 
-5:o I syror olösliga silikater af fikon
-kalkjord, jernoxidul, AT PESO lerjord
-kali och natron, 1 hvilka kiseljordens syre är 2
-gr: basernes. Desse utgöra troligen mer än ett
-mineral. Man kunde gissa på el pyroxenarladt
-C3$S? och ett Leucitartadt i S?4+-3AS?,
-dö K
+5:0 _I syror olösliga silikater af talkjord, kalkjord, jernoxidul, manganoxidul, lerjord, kali och natron_, i hvilka kiseljordens syre är 2 gr. basernes. Desse utgöra troligen mer än ett mineral. Man kunde gissa på ett pyroxènartadt {M,C,ƒ}S² och ett Leucitartadt {M,C,N,K}S²+3AS².
 
-Den svarta skorpan utpå meteorsten är en
-följd af dessa silikaters smältbarhet, som bidra-
-ger att sätta äfven den för sig sjelf icke smält-
-bara olivin 1 fluss.
+Den svarta skorpan utpå meteorsten är en följd af dessa silikaters smältbarhet, som bidrager att sätta äfven den för sig sjelf icke smältbara olivin i fluss.
 
-Särskilt förtjenar nämnas, att om meteorste-
-narne voro bildade af tellurisk olivin och pyro-
-AX 0. .” .
-xén, skulle deras färg vara grön eller till och
-med kolsvart, genom jernets högre oxidering deri,
+Särskilt förtjenar nämnas, att om meteorstenarne voro bildade af tellurisk olivin och pyroxèn, skulle deras färg vara grön eller till och med kolsvart, genom jernets högre oxidering deri, hvaraf allt för väl synes, att den smälta, svarta hinnan uppkommit först i jordens atmosfer.
 
-hvaraf allt för väl synes, att den smälta, svarta
-hinnan uppkommit först i jordens almosfer.
+6:0 _Chromjern_. Att detta mineral är en så beständig följeslagare af meteorstenar, är i sanning anmärkningsvärdt då det alltid funnits endast i ganska ringa myckenhet. De ofvananförda försöken visa huru det odekomponeradt afskiljes, dock blir dervid alltid en portion chromjern sönderdeladt, hvars beståndsdelar måste sökas i den afskilda jernoxiden, med hvilken de följa.
 
-6:o Chromjern.. Att detta mineral är en så
-beständig följeslagare af meteorslenar, är 1 sanning
-anmärkningsvärdt då det alltid funnits endast i
-ganska ringa myckenhet. De ofvananförda för-
-söken visa huru det odekomponeradt afskiljes, dock
-blir dervid alltid en portion chromjern sönder-
-deladt, hvars beståndsdelar måste sökas i den af-
-skilda jernoxiden, med hvilken de följa.
+7:0 _Tennmalm_. Den tennhalt meteorstenarne hålla, härrör dels från det gedigna jernet, som är tennhaltigt, och dels från en ringa portion tennoxid, som jemte chromjernet är utblandad deri, och som likt chromjernet, till en del upplöses under den analytiska behandlingen, och till en annan del återstår blandad med chromjernet. Tennoxiden är kopparhaltig, om den äfven håller litet jern- och manganoxidul, såsom den telluriska, har icke kunnat utrönas.
 
-:o Tennmalm. Den tennhalt meteorstenar-
-ne hålla, härrör dels från det gedigna jernet,
-som är tennhaltigt, och dels från en ringa por-
-tion tennoxid, som jemte chromjernel är utblan-
-dad deri, och som likt chromjernet, till en del
-upplöses under den analytiska behandlingen, och
-till en annan del återstår blandad med chrom-
-jernet. ”Tennoxiden är kopparhaltig, om den äf-
-ven håller KHtet jern- och manganoxidul, såsom
-den telluriska, har icke kunnat utrönas.
-
-Ett ännu noggrannare studium af eteorste-
-nar från den synpunkt, ifrån hvilken jag har ut-
-gått, skall tvifvelsutan framdeles göra oss bekan-
-ta med ännu flera blandningsdelar deraf.
+Ett ännu noggrannare studium af meteorstenar från den synpunkt, ifrån hvilken jag har utgått, skall tvifvelsutan framdeles göra oss bekanta med ännu flera blandningsdelar deraf.
 
 Då vi betrakta meteorstenarne såsom prof
 på bergarter, och jemföra dem med vår jords, så
@@ -590,11 +519,8 @@ meteorbergarten, då det på jorden är omvändt.
 Kiseljorden öfverflödar, och silikater af lerjord och
 alkali äro hufvudsakliga blandningsdelar öfverallt.
 Talkjorden förekommer sparsamt. Finkornigheten
-
 och det ringa sammanhanget 1 meteorstenarnes
-textur
-
-iextar skulle kunna tyda på att de blifvit utkas
+textur skulle kunna tyda på att de blifvit utkas
 stade i smält tillstånd och således kunde förlik=
 nas vid telluriska volkanprodukter. Likväl tyc-
 kes ett sådant förhållande icke hafva varit hän-
@@ -633,7 +559,7 @@ egenskap af jord tyckes mer än någon annan om-
 ständighet visa, alt meteorstenarne icke blifvit i
 flytande form utkastade och stelnat sedan, eme-
 dan en jordbildning under sådana omständighe-
-ter icke är tänkbar. |
+ter icke är tänkbar.
 Hvad jag nu anfört gäller om det största an-
 talet af meteorstenar, hvilka kunna anses alla
 härröra från en gemensam trakt. : Men bland de
