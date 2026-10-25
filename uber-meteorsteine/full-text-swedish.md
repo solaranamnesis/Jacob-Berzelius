@@ -508,251 +508,64 @@ Särskilt förtjenar nämnas, att om meteorstenarne voro bildade af tellurisk ol
 
 Ett ännu noggrannare studium af meteorstenar från den synpunkt, ifrån hvilken jag har utgått, skall tvifvelsutan framdeles göra oss bekanta med ännu flera blandningsdelar deraf.
 
-Då vi betrakta meteorstenarne såsom prof
-på bergarter, och jemföra dem med vår jords, så
-visar sig, äfven då halten af gediget jern undan-
-tages, väsendtliga skillnader. Rikedomen på talk-
-jord, som öfver allt är den rådande beståndsde-
-len, sparsamhet på kiseljord och den obetydliga
-halten af silikater af lerjord och alkali, utmärka
-meteorbergarten, då det på jorden är omvändt.
-Kiseljorden öfverflödar, och silikater af lerjord och
-alkali äro hufvudsakliga blandningsdelar öfverallt.
-Talkjorden förekommer sparsamt. Finkornigheten
-och det ringa sammanhanget 1 meteorstenarnes
-textur skulle kunna tyda på att de blifvit utkas
-stade i smält tillstånd och således kunde förlik=
-nas vid telluriska volkanprodukter. Likväl tyc-
-kes ett sådant förhållande icke hafva varit hän-
-delsen. Om man noga iakttager texturen af stör-
-re meteorstens-stycken, finner man dem ofta hafz
-va varit spruckna, och att sprickan blifvit igen-
-fylld af en annan, till färgen merendels mörkare
-stenmassa. Dylika förhållanden finner man af=
-bildade i v. ScHremeErs förut citerade arbete om
-meteorstenar. Det utvisar en långsammare och
-lugnare bildningsperiod. Att olivin förekommer
-bland telluriska volkanprodukter och sällan i an-
-dra, bevisar icke nödvändigheten att olivin alltid
-skall vara en volkanprodukt. Den är osmältlig,
-och finnes innesluten i den volkaniska bergarten,
-af det skäl, att han ej med den kunnat samman-
-gjulas; i meteorstenarne är den åter så jemt ul-
-blandad med de öfriga beståndsdelarne, att det
-är tydligt att dess närvaro i dessa har annan
-grund än olivin-körtlarnes i lava och basalt. Me-
-Weorslenen från Alais visar, alt bergarter blifvit,
-i meteorstenarnes hemland, grusade och förvand-
-lade till ett slags jord, under någon geognostisk
-tilldragelse, och att sjelfva denna olivinartade, med
-gediget jern blundade massa, varit den bergart,
-som blilvit grusad. Halten af i valten lösliga sal-
-ter i denna jord tyckes visa all det antingen skett
-utan medverkan al vatten, eller i ett som hållit
-betydliga qvantiteter af dessa ;.salter upplösta ,
-hvilka vid uttorkningen qvarstannat. Det kol-
-haltiga ämne denna jord håller inblandadt, synes
-icke hertiltiga till slutsatsen af en organisk naturs
-tillvarelse i denna jords ursprungliga hemort. Dess
-egenskap af jord tyckes mer än någon annan om-
+Då vi betrakta meteorstenarne såsom prof på bergarter, och jemföra dem med vår jords, så visar sig, äfven då halten af gediget jern undantages, väsendtliga skillnader. Rikedomen på talkjord, som öfver allt är den rådande beståndsdelen, sparsamhet på kiseljord och den obetydliga halten af silikater af lerjord och alkali, utmärka meteorbergarten, då det på jorden är omvändt. Kiseljorden öfverflödar, och silikater af lerjord och alkali äro hufvudsakliga blandningsdelar öfverallt. Talkjorden förekommer sparsamt. Finkornigheten och det ringa sammanhanget i meteorstenarnes textur skulle kunna tyda på att de blifvit utkastade i smält tillstånd och således kunde förliknas vid telluriska volkanprodukter. Likväl tyckes ett sådant förhållande icke hafva varit händelsen. Om man noga iakttager texturen af större meteorstens-stycken, finner man dem ofta hafva varit spruckna, och att sprickan blifvit igenfylld af en annan, till färgen merendels mörkare stenmassa. Dylika förhållanden finner man afbildade i v. Schreibers förut citerade arbete om meteorstenar. Det utvisar en långsammare och lugnare bildningsperiod. Att olivin förekommer bland telluriska volkanprodukter och sällan i andra, bevisar icke nödvändigheten att olivin alltid skall vara en volkanprodukt. Den är osmältlig, och finnes innesluten i den volkaniska bergarten, af det skäl, att han ej med den kunnat sammangjutas; i meteorstenarne är den åter så jemt utblandad med de öfriga beståndsdelarne, att det är tydligt att dess närvaro i dessa har annan grund än olivin-körtlarnes i lava och basalt. Meteorstenen från Alais visar, att bergarter blifvit, i meteorstenarnes hemland, grusade och förvandlade till ett slags jord, under någon geognostisk tilldragelse, och att sjelfva denna olivinartade, med gediget jern blundade massa, varit den bergart, som blifvit grusad. Halten af i vatten lösliga salter i denna jord tyckes visa att det antingen skett utan medverkan af vatten, eller i ett som hållit betydliga qvantiteter af dessa salter upplösta, hvilka vid uttorkningen qvarstannat. Det kolhaltiga ämne denna jord håller inblandadt, synes icke berättiga till slutsatsen af en organisk naturs tillvarelse i denna jords ursprungliga hemort. Dess egenskap af jord tyckes mer än någon annan omständighet visa, att meteorstenarne icke blifvit i flytande form utkastade och stelnat sedan, emedan en jordbildning under sådana omständigheter icke är tänkbar.
 
-ständighet visa, alt meteorstenarne icke blifvit i
-flytande form utkastade och stelnat sedan, eme-
-dan en jordbildning under sådana omständighe-
-ter icke är tänkbar.
-Hvad jag nu anfört gäller om det största an-
-talet af meteorstenar, hvilka kunna anses alla
-härröra från en gemensam trakt. : Men bland de
-meteorstenar, som blifvit undersökte, hafva tren-
-ne visat sig äga en så väsendtligt olika samman-
-sätlning med de öfriga, att man med säkerhet
-kan säga, att de icke komma från samma ställe
-som dessa, utan härröra antingen från en annan
-verldskropp, eller från en annan trakt af den
-som skickar oss de förut omtalade. Deremot öf-
-verensstämma de sins emellan så, att man väl
-kan förmoda att de hafva samma hemland. Des-
-sa hafva fallit vid Stannern i Mähren, vid Jonzac
-och vid Juvenasi Frankrike. Den första bar blifvit
-analyserad först af Moser och sedan af KrAPRoTH,
-och de andra begge af Lauvcier. De afvika från
-de föregående deri, att de icke innehålla gediget
-jern, att de äro ett aggregat af tydligt skiljbara
-minerälier, ehuru blaudvingsdelarne äro ytterst
-ringa till volymen, cech att talkjordssilikat endast
-ull en ganska obetydlig qvantitet. ingår i deras
-sammansättning. De innehålla deremot, jemte
-något svafveljern, silikater af kalkjord, lerjord
-och jernoxidul. De innehålla också chrom. För-
-hållandet emellan syret i kiseljorden och syret i
-baserna är sådant, att den förras är mer än lika
-och mindre än dubbelt så mycket som- de sed-
-nare. Ungefär 1 af deras massa är löslig i syror
-(kiseljorden är deri ej inbegiipen), efter LAUGIERS
-analys på meteorstenen från Juvenas, hvaraf man
-väl kan förmoda, att i den lösliga delen håller
-kiseljord och baser lika syre, och i den olösliga
+Hvad jag nu anfört gäller om det största antalet af meteorstenar, hvilka kunna anses alla härröra från en gemensam trakt. Men bland de meteorstenar, som blifvit undersökte, hafva trenne visat sig äga en så väsendtligt olika sammansättning med de öfriga, att man med säkerhet kan säga, att de icke komma från samma ställe som dessa, utan härröra antingen från en annan verldskropp, eller från en annan trakt af den som skickar oss de förut omtalade. Deremot öfverensstämma de sins emellan så, att man väl kan förmoda att de hafva samma hemland. Dessa hafva fallit vid Stannern i Mähren, vid Jonzac och vid Juvenas i Frankrike. Den första har blifvit analyserad först af Moser och sedan af Klaproth, och de andra begge af Laugier. De afvika från de föregående deri, att de icke innehålla gediget jern, att de äro ett aggregat af tydligt skiljbara mineralier, ehuru blandningsdelarne äro ytterst ringa till volymen, och att talkjordssilikat endast till en ganska obetydlig qvantitet ingår i deras sammansättning. De innehålla deremot, jemte något svafveljern, silikater af kalkjord, lerjord och jernoxidul. De innehålla också chrom. Förhållandet emellan syret i kiseljorden och syret i baserna är sådant, att den förras är mer än lika och mindre än dubbelt så mycket som de sednare. Ungefär 1/3 af deras massa är löslig i syror (kiseljorden är deri ej inbegripen), efter Laugiers analys på meteorstenen från Juvenas, hvaraf man väl kan förmoda, att i den lösliga delen håller kiseljord och baser lika syre, och i den olösliga delen är den förras två gånger de sednares, likasom i de förut beskrifna.
 
-delen är den förras två gånger de sednares, lika-
-som i de förut beskiifna.
+G. Rose,* som närmare undersökt detta slag af meteorstenar har gjort det sannolikt, att de kunna vara blandade af labrador och pyroxèn samt litet nickelfri magnetkis, som dock efter hans försök ej följer magneten.
 
-G. Rosr. "), som närmare undersökt detta slag
-af meteorstenar har gjort det sanvolikt, att de
-kunna vara blandade af labrador och pyroxén
-samt litet nickelfri magnetkis, som dock efter hans
-försök ej följer magneten.
+*) Poggendorffs Annaler, 4., 173.
 
-Om dessa olika slag af meteorstenar härröra
-från Månen, så synes dov vara klart alt det sed-
-nare och sällsamma slaget härrör från en trakt
-deraf, så belägen att dess projectiler icke kastas
-så direkte mot jorden, som de vanliga meteor-
-stenarne, och på denna grund sällan hinna hit.
-Alt det gedigna jernet i dem saknas, är anmärk-
-ningsvärdt, det visar, att denna stora halt af ge-
-diget jern, som utmärker de vanliga Mälbbpstes
-narne, icke är allmänt utspridd och det kan gif-
-va stöd åt förslagsmeningen om en slörre sam-
-ling deraf, på en viss trakt af Månen, såsom or-
-sak att denna trakt oföränderligt vändes åt jord-
-klotet genom dettas magnetiska inflytelse derpå.
+Om dessa olika slag af meteorstenar härröra från Månen, så synes det vara klart att det sednare och sällsamma slaget härrör från en trakt deraf, så belägen att dess projectiler icke kastas så direkte mot jorden, som de vanliga meteorstenarne, och på denna grund sällan hinna hit. Att det gedigna jernet i dem saknas, är anmärkningsvärdt, det visar, att denna stora halt af gediget jern, som utmärker de vanliga meteorstenarne, icke är allmänt utspridd och det kan gifva stöd åt förslagsmeningen om en större samling deraf, på en viss trakt af Månen, såsom orsak att denna trakt oföränderligt vändes åt jordklotet genom dettas magnetiska inflytelse derpå.
 
-För att gifva ett begrepp om olikheten i sam-
-mansällningen af dessa 3 meteorstenar med dem
-jag beskiifvit, skall jag här anföra resultaten al
-bion. och LavGiers analyser:
+För att gifva ett begrepp om olikheten i sammansättningen af dessa 3 meteorstenar med dem jag besktifvit, skall jag här anföra resultaten af Klaproths och Laugiers analyser:
 
-") PocGexborees Annaler, IV, 173.
+| ~          | Stannern.* | Jonzac.* | Juvenas.*   |
+|------------|------------|----------|-------------|
+| Kiseljord  | 48.25      | 46.00    | 40.0        |
+| Talkjord   | 2.00       | 1.60     | 0.8         |
+| Kalkjord   | 9.50       | 7.50     | 9.2         |
+| Jernoxidul | 23.00      | 32.40    | 23.5        |
+| Lerjord    | 14.50      | 6.00     | 10.4        |
+| Manganoxid | ---        | 2.80     | 6.5         |
+| Kali       | ---        | ---      | 0.2         |
+| Kopparoxid | ---        | ---      | 0.1         |
+| Chromoxid  | ---        | 1.00     | 1.0         |
+| Svafvel    | 2.75       | 1.50     | 0.5         |
+| ~          | 100.00     | 98.80    | 92.2        |
 
- |Stannern*|Jonzac*|Juvenas*  
-Kieselerde|48,25.|46,00.|40,0.  
-Talkerde|2,00.|1,60.|0,8.  
-Kalk|9,50.|7,50.|9,2.  
-Eisenoxydul|23,00.|32,40.|23,5.  
-Tonerde|14,50.|6,00.|10,4.  
-Manganoxyd|-,-.|2,80.|6,5.  
-Kali|-,-.|-,-.|0,2.  
-Kupferoxyd|-,-.|-,-.|0,1.  
-Chromoxyd|-,-.|1,00.|1,0.  
-Schwefel|2,75.|1,50.|0,5.
+Meteorstenen från Stannern har nyligen blifvit ånyo undersökt af v. Holger*; men på ett sätt som lemnar ingen säkerhet om resultatets riktighet, man kan nästan säga med uppenbart oriktigt resultat. Hvad som kunnat med kungsvatten utdragas, har han ansett för att hafva i form af regulinisk metall befunnit sig i stenen, som på det sättet kommit att bålla ej så obetydligt metalliskt aluminium, calcium, mangan m. fl. Men huru litet än denna undersökning motsvarar vär tids fordringar, så innehåller den likväl en anmärkning, hvilken, i fall den är riktig, visar närvaro af ett ämne, som undgått Moser och Klaproth. Då han ville utfälla jernet ur den med kungsvatten erhållna lösningen och begagnade sig dertill af benzoesyradt alkali, så blef denna fällning mindre färgad, än med jernoxidsalter är vanligt. Genom ganska ofullkomliga försök trodde han sig hafva funnit, att denna fällning, jemte jernoxid innehöll tennoxid och ceroxidul. Att den sednare icke varit hvad v. Holger förmodat, inser man genast deraf, att han afskilt och vägt den i form af ceroxidul, hvilken det är omöjligt att framställa i isolerad form, emedan den förvandlas i tvättning till gult oxidhydrat och i glödgning till röd oxid, i hvilket fall färgförändringen påmint om att skrifva oxid för oxidul. Hvad tennet beträffar, så är dess närvaro, af hvad jag i det föregående anfört, visserligen sannolik; men v. Holger har i stället för det lätta och osvikliga profvet att reducera till tennkorn för blåsrör, bestämt det att vara tenn på den grund att oxiden blef olöslig genom glödgning, och att dess upplösning fälldes gelatinös och hvit af zink. Men dessa egenskaper har tennoxiden gemensamt både med lerjord och zirkonjord, hvilken sednare tillika har den egenskapen att fällas af svaf velsyradt kali lika som ceroxidul. Dessa jordarter fällas också af benzoesyradt alkali ur en neutraliserad lösning. I alla hänseenden förtjenar v. Holgers iakttagelse om beskaffenheten af fällninningen med benzoësyradt alkali att blifva föremål för en ny undersökning.
 
-Meteorstenen från Stanhern har nyligen blif-
-vit ånyo undersökt af v. Horcer »); men på ett
-sätt som lemnar ingen säkerhet om resultatets rik-
-tighet, man kan nästan säga med uppenbart orik=
-tigt. resultat. Hvad som kunnat med kungsvat=
-ten utdragas, har han ansett för alt hafva i form
-af regulinisk metall befunnit sig i stenen, som
+*) Klaproths Beiträge, 5., 237.
 
-å det sättet kommit att bålla ej så obetydligt
-metalliskt aluminium, calcium, mangan m. fl.
-Men huru litet än denna undersökning motsvarar
-vär tids fordringar, så innehåller den likväl en
-anmärkning, hvilken, i fall den är riktig, visar när-
-varo af ett ämne, som undgått Moser och Krar-
-RoTH. Då han ville utfälla jernet ur den med
-kungsvatten erbållna lösningen och begagnade sig
+*) Annales de Chimie et de Physique, 13., 441.
 
-+) KrarroTtns Beyträge, VY, 237.
-"") Annales de Chimie et de Physique, XIII, 441.
-+) GimeerRTs Annalen der Physik, LXXI, 209.
-><) BaumGaETnERs Zeitschrift fur Physik und verwandte 
+*) Gilberts Annalen der Physik, 71., 208.
 
-Wissenschaften, Il, 293.
+*) Baumgartners Zeitschrift für Physik und verwandte Wissenschaften, 2., 293.
 
-Udertill af benzoesyradt alkali, så blef denna fäll-
-ning mindre färgad, än med jernoxidsalter är
-vanligt. Genom ganska ofullkomliga försök trod-
-de han sig bafva funuit, att denna fällning, jem-
-te jernoxid innehöll tennoxid och ceroxidul. Att
-den sednare icke varit hvad v. Horczer förmodat,
-inser man genast deraf, alt han afskilt och vägt
-den i form af ceroxidul, hvilken det är omöjligt
-all framslälla i isolerad form, emedan den för-
-vandlas i tvällning till gult oxidhydrat och i
-glödgning till röd oxid, i hvilket fall färgförän-
-dringen påmint om att skrifva oxid för oxidul.
-Hvad tennet beträffar, så är dess närvaro, af hvad
-jag i det föregående anfört, visserligen sannolik;
-men v. HorceEr har i stället för det lätta och
-osvikliga profvet alt reducera till tennkorn för
-blåsrör, bestämt det att vara tenn på den grund
-atl oxiden blef olöslig genom glödgning, och att
-dess upplösning fälldes gelatinös och hvit af zink.
-Men dessa egenskaper har tennoxiden gemensamt
-både med lerjord och zirkonjord, hvilken sedna-
-re tillika har den egenskapen att fällas af svaf
-velsyradt kali lika som ceroxidul. Dessa jord-
-arter fällas också af benzoesyradt alkali ur en neu-
-traliserad lösning. I alla hänseenden förtjenar v.
-Horcers iakitagelse om beskaffenheten af fällnin-
-ningen med benzoésyradt alkali att blifva före-
-mål för en ny undersökning.
+I hänseende till de enkla kroppar som blifvit funna bland meteorstenarnes elementer, så utgöra desse just jemt en tredjedel af dem som på jorden hittills blifvit upptäckte. De äro:
 
-I hänseende till de enkla kroppar som blif-
-vit funna bland meteorstenarnes elementer, Så ut-
-göra desse just jemt en tredjedel af dem som på
-jorden hittills blifvit. upptäckte. De äro:
+_Syre_, såsom beståndsdel af metalloxider och jordarter.
 
-Syre, såsom beståndsdel af metalloxider och
-jordarter.
+_Väte_, i den lösliga organiska föreningen i stenen från Alais.
 
-Väte, i den lösliga organiska föreningen i
-stenen från Alais.
+_Svafvel_ beståndsdel af svafveljern och af svafvelsyrad talkjord.
 
+_Fosfor_ i de metalliska fjäll, som affalla då meteorjern löses i saltsyra eller svafvelsyra.
 
-Svafvel beståndsdel af svatveljern - och af
-svafvelsyrad talkjord.
+_Kol_ i meteorjern och i obekanta föreningar i Alais-stenen.
 
-Fosfor i de metalliska fjäll, som affalla då
-metleorjern löses i saltsyra eller svafvelsyra.
+_Kisel_ i silicaterna.
 
-Kol 1 meteorjern och i obekanta föreningar
-i Alais-stenen.
+Af saltbildare är, så vidt jag känner ingen funnen. Spår af chlorföreningar kunna efter fallet lätt hafva tillkommit.
 
-Kisel 1 silicaterna.
+Af electronegativa metaller är endast _Chrom_ funnen. Den upptäcktes af Laugier, som också visade att den väsendtligt tillhör meteorstenarne.
 
-Af saltbildare är, så vidt jag känner ingen
-funnen. Spår af cblorföreningar kunna efter fal-
-let lätt bafva tillkommit.
+_Kalium_ anmärktes först af Vauquelin, _Natrium_ kort derefter af Stromejer. _Calcium, Magnesium, Aluminium_ innehållas i dessas oxider, som äro meteorstenarnes allmänna beståndsdelar.
 
-AF eleetronegatliva metaller är endast Chrom
-funnen. Den upptäcktes af LAuGiErR, som också
-visade ail den väsendtligt tillhör mäleorstoba ge.
+(v. Holger har uppgifvit, att han funnit metalliskt _Beryllium_ i meteorjernet från Bohumilie. Jag har visat, att detta är ett misstag och att han troligen tagit en blandning af fosforsyrad kalkjord och fosforsyrad manganoxidul för berylljord. Åtminstone erhöll jag intet annat, då jag sökte barytjorden. v. Holger* har sedan förklarat, att misstaget ligger på min sida, samt att den fosfor jag funnit torde hafva härrört från en tillfällig förorening af det till analysen använda jernet. Jag har i följd deraf på en återstod af 3 1/2 gramm af bohumilitzer-jernet anställt ett särskilt nytt försök till utdragande af berylljord, på det sätt, att lösningen indröps i en lösning af varmt kaustikt kali i öfverskott och koktes dermed. Den afsilade kaustika vätskan höll verkligen ett ringa spår upplöst, som, då det utfälldes, såg ut såsom en jord, men som vid försök dermed befans vara en blandning af fosforsyrade kalk, magnesia och manganoxidul utan spår af berylljord).
 
-Kalium anmärktes först af VAUQuErin, Na-
-triuin köorl derefter af StromeserR. Culcium, Ma-
-gnesium, Aluminium inuehållas i dessas oxider,
-som äre meteorslenarnes allmänna beståndsdelar.
+*) Baumgartners Zeitschrift, 2., 35.
 
-(v. HorcerR har uppgifvit, all han funnit me-
-talliskt Beryllium I meleorjernet från Bohumilie.
-Jag har visal, att detta är ett misstag och att han
-een tagit en blandning af fosforsyrad kalk-
-jord och fosforsyrad manganoxidul för berylljord.
-Åtminstone erhöll jag imtet annat, då jag sökle
-barytltjorden. v. HorcerR ") har sd förklarat,
-att misstaget ligger på min sida, samt att den
-fosfor jag funnit torde hafva härrört från en till-
-fällig förorening af det till analysen använda jer- |
-net. Jag har i följd deraf på en återstod af 31
-gramm äl bohumilitzer-jernet anställt ett särskilt
-nytt försök till utdragande af berylljord, på det
-sätt, att lösningen indröpsi en lösning af varmt
-kaustikt kali i öfverskoyt och koktes dermed. Den
-afsilade kaustika vätskan höll verkligen ett ringa
-spår upplöst, som, då det utfälldes, såg ut såsom
-
-”) BavMseartners Zeitschrift, IL, 33.
-
-en jord, men souw vid försök dermed befans va-
-ra en blandning af fosforsyrade kalk, magnesia
-och manganoxidul utan spår af berylljord).
-
-Af de egentliga metallerna: Jern, Mangan,
-Nicke! upptäckt af Howarpb, Kobolt af STROMEJER,
-Koppar af Lavcier, Tenn, ifall vy. Horcers fynd
-1 meleorstenén från Stannern skulle vara något
-annat än tenn, först med säkerhet ådagalagdt i
-denna afbandling. Således tillsammans 18 enkla
-kroppar.
+Af de egentliga metallerna: _Jern, Mangan, Nickel_ upptäckt af Howard, _Kobolt_ af Stromejer, _Koppar_ af Laugier, _Tenn_, i fall v. Holgers fynd i meteorstenen från Stannern skulle vara något annat än tenn, först med säkerhet ådagalagdt i denna afhandling. Således tillsammans 18 enkla kroppar.
