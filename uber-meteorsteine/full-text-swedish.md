@@ -179,17 +179,15 @@ Att dessa blandningsdelars relativa kvantiteter äro underkastade variationer i 
 
 Jag har tvenne gånger förut meddelat Kongl. Akademien undersökningar av meteorstenar. Den ena av dessa* hade till föremål en sten som fallit i Makedonien. Dess utseende är betydligt olikt det av meteorstenen från Blansko; men de resultat, som vid analysen erhållits, liknade så de nu anförda, att jag ansåg denna överensstämmelse böra eftersökas hos andra. Meteorstenen från Makedonien höll meteorjärn, vari fanns 6 p. c. kobolthaltig nickel, mycket svaveljärn, och det omagnetiska var delbart i 47 1/2 p. c. lösligt och 52 1/2 p. c. olösligt mineral. I det lösliga höllo baserna mera än lika syre med kiseljorden, ända till 1 1/2 gång så mycket. Det är ganska troligt att detta är en följd, snarare av inblandat svaveljärn och magnetisk järnmalm, än av ett så basiskt silikats närvaro. Det olösliga utgjordes av silikater av talkjord, järnoxidul, kalkjord, alkali och lerjord, vari kiseljordens syre är 2 gånger basernas.* Den andra analysen* var anställd på ett meteorjärn funnet i Böhmen, innehållande järn 92.473, nickel 5.667, kobolt 0.235 med spår av svavel och en olöslig förening av fosfor med järn och nickel.
 
-*) Kongl. Vet. Acad. Handlingar, 1828.
+*) Kongl. Vet. Akad. Handlingar, 1828.
 
 Den frågan var alltså ganska naturlig: äro alla meteorstenar blandade av nickeljärn och svaveljärn med silikater av talkjord och järnoxidul lösliga i syror, och silikater av dessa, ävensom av kalkjord, lerjord och alkali olösliga däri, jämte kromjärn och tennmalm; är vidare meteorjärnet alltid tennhaltigt, alltid blandat med fosforföreningar?
 
-Mina föregångares analyser besvara icke dessa frågor. Howard hade väl åtskilt nickeljärnet och svaveljärnet från den omagnetiska bergarten,
+Mina föregångares analyser besvara icke dessa frågor. Howard hade väl åtskilt nickeljärnet och svaveljärnet från den omagnetiska bergarten, vilken han, likasom alla efter honom, analyserat såsom en enda förening; men längre hade han ej gått. Laugier hade upptäckt kromhalten, om vilken Stromejer yttrat den förmodan, att det härrörde från inblandat kromjärn, såsom föregående försök visat. Detta föranledde den utförlighet denna undersökning fått, varvid jag till föremål för mina analyser valt sådana meteorstenar, vilkas utseende mycket afviker från det vanliga, antagande att de, som äro varandra fullt lika, utan fel kunna anses för att härröra från samma ställe, och att hava lika sammansättning; men jag har måst inskränka mig inom det ringa, som i min enskilta samling fanns.
 
 *) I avhandlingen står, att syret är lika, vilket är en redaktions-inadvertens; ty syret i kiseljorden är 13.6 och i baserna sammanräknat 6.5.
 
 *) Ib. 1832, p. 106.
-
-vilken han, likasom alla efter honom, analyserat såsom en enda förening; men längre hade han ej gått. Laugier hade upptäckt kromhalten, om vilken Stromejer yttrat den förmodan, att det härrörde från inblandat kromjärn, såsom föregående försök visat. Detta föranledde den utförlighet denna undersökning fått, varvid jag till föremål för mina analyser valt sådana meteorstenar, vilkas utseende mycket afviker från det vanliga, antagande att de, som äro varandra fullt lika, utan fel kunna anses för att härröra från samma ställe, och att hava lika sammansättning; men jag har måst inskränka mig inom det ringa, som i min enskilta samling fanns.
 
 _2. Meteorsten från Chantonnay._
 
