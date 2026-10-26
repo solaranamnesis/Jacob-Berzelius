@@ -1,6 +1,6 @@
 # Om Meteorstenar;
 
-## Av Jac. Berzelius.
+## Av Jacob Berzelius.
 
 #### Kungl. Svenska vetenskapsakademiens handlingar.
 
